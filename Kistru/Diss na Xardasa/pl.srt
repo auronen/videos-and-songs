@@ -4,11 +4,11 @@ Xardas
 
 2
 00:00:11,670 --> 00:00:13,210
-Ciπgle ten Xardas
+CiƒÖgle ten Xardas
 
 3
 00:00:13,410 --> 00:00:15,410
-Mamy coú, czego nie moøesz nam zabraÊ
+Mamy co≈õ, czego nie mo≈ºesz nam zabraƒá
 
 4
 00:00:15,950 --> 00:00:16,890
@@ -24,7 +24,7 @@ Przeciwnik jest jeden -
 
 7
 00:00:19,270 --> 00:00:20,920
-ten przeklÍty nekromanta
+ten przeklƒôty nekromanta
 
 8
 00:00:21,420 --> 00:00:21,920
@@ -32,15 +32,15 @@ Xardas
 
 9
 00:00:21,980 --> 00:00:23,560
-Ciπgle ten Xardas
+CiƒÖgle ten Xardas
 
 10
 00:00:23,720 --> 00:00:26,200
-Nie daj siÍ z≥apaÊ na sztuczki tego diab≥a
+Nie daj siƒô z≈Çapaƒá na sztuczki tego diab≈Ça
 
 11
 00:00:26,260 --> 00:00:27,190
-MogÍ juø ruszaÊ
+Mogƒô ju≈º ruszaƒá
 
 12
 00:00:27,490 --> 00:00:28,620
@@ -48,7 +48,7 @@ Teleportacja
 
 13
 00:00:28,820 --> 00:00:31,440
-Najlepiej bÍdzie, jeúli znikniesz z miasta
+Najlepiej bƒôdzie, je≈õli znikniesz z miasta
 
 14
 00:00:31,880 --> 00:00:32,460
@@ -56,11 +56,11 @@ Xardas
 
 15
 00:00:32,540 --> 00:00:33,990
-Ciπgle ten Xardas
+CiƒÖgle ten Xardas
 
 16
 00:00:34,240 --> 00:00:36,720
-Mamy coú, czego nie moøesz nam zabraÊ
+Mamy co≈õ, czego nie mo≈ºesz nam zabraƒá
 
 17
 00:00:36,790 --> 00:00:37,570
@@ -76,7 +76,7 @@ Przeciwnik jest jeden -
 
 20
 00:00:40,110 --> 00:00:41,880
-ten przeklÍty nekromanta
+ten przeklƒôty nekromanta
 
 21
 00:00:42,220 --> 00:00:42,970
@@ -84,15 +84,15 @@ Xardas
 
 22
 00:00:43,000 --> 00:00:44,450
-Ciπgle ten Xardas
+CiƒÖgle ten Xardas
 
 23
 00:00:44,610 --> 00:00:47,000
-Nie daj siÍ z≥apaÊ na sztuczki tego diab≥a
+Nie daj siƒô z≈Çapaƒá na sztuczki tego diab≈Ça
 
 24
 00:00:47,090 --> 00:00:48,120
-MogÍ juø ruszaÊ
+Mogƒô ju≈º ruszaƒá
 
 25
 00:00:48,380 --> 00:00:49,560
@@ -100,13 +100,13 @@ Teleportacja
 
 26
 00:00:49,750 --> 00:00:52,210
-Najlepiej bÍdzie, jeúli znikniesz z miasta
+Najlepiej bƒôdzie, je≈õli znikniesz z miasta
 
 27
 00:00:52,830 --> 00:00:54,830
-Przynajmniej na jakiú czas...
+Przynajmniej na jaki≈õ czas...
 
 28
 00:00:58,150 --> 00:01:00,070
-[T≥umaczenie: t≥umacz]
+[T≈Çumaczenie: t≈Çumacz]
 
