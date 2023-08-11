@@ -252,7 +252,7 @@ I'm looking for a package
 
 64
 00:02:02,980 --> 00:02:05,420
-a tiny one and square shaped.
+a tiny one and square shaped
 
 65
 00:02:05,420 --> 00:02:06,540
@@ -345,4 +345,3 @@ Translation: Delph, GaroK
 87
 00:03:12,240 --> 00:03:14,280
 So I've got you after ALL!
-
