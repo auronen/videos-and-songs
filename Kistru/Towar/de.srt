@@ -1,0 +1,348 @@
+1
+00:00:02,280 --> 00:00:03,160
+Das ist tatsächlich wahr
+
+2
+00:00:05,700 --> 00:00:06,540
+Es ist ein Geheimnis
+
+3
+00:00:11,020 --> 00:00:12,220
+Und das ist ein Drecksack
+
+4
+00:00:12,220 --> 00:00:14,260
+Steh schnell auf, wir haben ein Problem
+
+5
+00:00:14,260 --> 00:00:16,120
+Dar war wahrscheinlich hier
+
+6
+00:00:16,120 --> 00:00:17,840
+Das Kräuterpaket ist verschwunden
+
+7
+00:00:17,840 --> 00:00:19,680
+Ich suche überall und es ist weg
+
+8
+00:00:19,680 --> 00:00:21,540
+Er müsste auf die Farm gehen
+
+9
+00:00:21,540 --> 00:00:23,380
+Ich denke, dass dort ein Paket werde finden
+
+10
+00:00:23,380 --> 00:00:25,080
+Das ist mein bestes Kraut
+
+11
+00:00:25,080 --> 00:00:26,980
+Ich werde nicht mit Dar teilen
+
+12
+00:00:26,980 --> 00:00:28,340
+Wir werden den Wald durchsuchen
+
+13
+00:00:28,340 --> 00:00:30,640
+Wir werden alle Höfe durchsuchen
+
+14
+00:00:30,640 --> 00:00:32,040
+Wir werden zum Schloss gehen
+
+15
+00:00:32,040 --> 00:00:34,140
+Und zum roten Leuchtturm
+
+16
+00:00:34,140 --> 00:00:35,600
+Wir werden Stunden verbringen
+
+17
+00:00:35,600 --> 00:00:37,900
+Wir werden die ganze Stadt durchsuchen
+
+18
+00:00:37,900 --> 00:00:39,240
+Wenn es sein muss
+
+19
+00:00:39,240 --> 00:00:41,780
+Wir werden sogar das Kloster durchsuchen
+
+20
+00:00:41,780 --> 00:00:42,940
+Sie haben unsere Waren gestohlen
+
+21
+00:00:42,940 --> 00:00:45,580
+Sag mir, wo Dar es versteckt hat
+
+22
+00:00:45,580 --> 00:00:46,580
+Ich suche ein Paket
+
+23
+00:00:46,580 --> 00:00:49,040
+So klein, quadratisch
+
+24
+00:00:49,040 --> 00:00:50,180
+Vielleicht helfe ich euch
+
+25
+00:00:50,180 --> 00:00:52,920
+Wenn ins Spiel die Auszeichnung geht
+
+26
+00:00:52,920 --> 00:00:53,820
+Gib mir eine Frieden
+
+27
+00:00:53,820 --> 00:00:56,380
+Von dem Morgen habe Kopfschmerzen
+
+28
+00:00:56,380 --> 00:00:57,460
+Sie haben unsere Waren gestohlen
+
+29
+00:00:57,460 --> 00:01:00,140
+Sag mir, wo Dar es versteckt hat
+
+30
+00:01:00,140 --> 00:01:01,140
+Ich suche ein Paket
+
+31
+00:01:01,140 --> 00:01:03,580
+So klein, quadratisch
+
+32
+00:01:03,580 --> 00:01:04,700
+Selbst wenn ich es wüsste
+
+33
+00:01:04,700 --> 00:01:07,440
+Ich werde kein Wort sagen
+
+34
+00:01:07,440 --> 00:01:08,340
+Ich habe nicht gehört
+
+35
+00:01:08,340 --> 00:01:10,700
+für jemanden über ihn zu klatschen
+
+36
+00:01:10,700 --> 00:01:12,620
+Wo ist er?
+
+37
+00:01:14,140 --> 00:01:16,020
+Wir haben die gesamte Farm überprüft
+
+38
+00:01:16,020 --> 00:01:17,840
+alle Etagen, jedes Erdgeschoss
+
+39
+00:01:17,840 --> 00:01:19,680
+niemand sah den Söldner
+
+40
+00:01:19,680 --> 00:01:21,500
+der mit unserem Paket verschwand
+
+41
+00:01:21,500 --> 00:01:23,340
+wir werden hier nichts finden
+
+42
+00:01:23,340 --> 00:01:25,180
+es ist Zeit, diese Gebiete zu verlassen
+
+43
+00:01:25,180 --> 00:01:26,880
+Wir müssen alle fragen
+
+44
+00:01:26,880 --> 00:01:28,820
+Dar könnte die Insel nicht verlassen
+
+45
+00:01:28,820 --> 00:01:30,180
+Wir werden den Wald durchsuchen
+
+46
+00:01:30,180 --> 00:01:32,480
+Wir werden alle Höfe durchsuchen
+
+47
+00:01:32,480 --> 00:01:33,880
+Wir werden zum Schloss gehen
+
+48
+00:01:33,880 --> 00:01:35,980
+Und zum roten Leuchtturm
+
+49
+00:01:35,980 --> 00:01:37,440
+Wir werden Stunden verbringen
+
+50
+00:01:37,440 --> 00:01:39,740
+Wir werden die ganze Stadt durchsuchen
+
+51
+00:01:39,740 --> 00:01:41,080
+Wenn es sein muss
+
+52
+00:01:41,080 --> 00:01:43,640
+Wir werden sogar das Kloster durchsuchen
+
+53
+00:01:43,640 --> 00:01:44,720
+Sie haben unsere Waren gestohlen
+
+54
+00:01:44,720 --> 00:01:47,420
+Sag mir, wo Dar es versteckt hat
+
+55
+00:01:47,420 --> 00:01:48,420
+Ich suche ein Paket
+
+56
+00:01:48,420 --> 00:01:50,880
+So klein, quadratisch
+
+57
+00:01:50,880 --> 00:01:51,980
+Du solltest nach Drachen suchen
+
+58
+00:01:51,980 --> 00:01:54,740
+Ich weiß nicht warum dieses Gespräch
+
+59
+00:01:54,740 --> 00:01:55,640
+Nicht stören
+
+60
+00:01:55,640 --> 00:01:58,180
+Ich muss die Orks beobachten
+
+61
+00:01:58,180 --> 00:01:59,300
+Sie haben unsere Waren gestohlen
+
+62
+00:01:59,300 --> 00:02:01,980
+Sag mir, wo Dar es versteckt hat
+
+63
+00:02:01,980 --> 00:02:02,980
+Ich suche ein Paket
+
+64
+00:02:02,980 --> 00:02:05,420
+So klein, quadratisch
+
+65
+00:02:05,420 --> 00:02:06,540
+Ist das nicht das Paket
+
+66
+00:02:06,540 --> 00:02:09,280
+das Sie konfiszieren sollten?
+
+67
+00:02:09,280 --> 00:02:10,340
+Du sagst es mir besser
+
+68
+00:02:10,340 --> 00:02:12,440
+Wo ist meine Leber?
+
+69
+00:02:12,440 --> 00:02:14,680
+Ich bin ziemlich sicher, dass es hier ist
+
+70
+00:02:14,680 --> 00:02:16,080
+führe meine Sinne
+
+71
+00:02:16,080 --> 00:02:18,280
+der Geruch von Sumpfkraut fühlen Sie
+
+72
+00:02:18,280 --> 00:02:19,700
+in diesem Bereich der Insel
+
+73
+00:02:19,700 --> 00:02:21,940
+Du müsst noch eine der Straße überprüfen
+
+74
+00:02:21,940 --> 00:02:23,340
+bevor die Nacht kommt
+
+75
+00:02:23,340 --> 00:02:25,580
+wenn du nur die Straße runter gehst
+
+76
+00:02:25,580 --> 00:02:27,220
+Wirst du einen Söldner finden
+
+77
+00:02:27,220 --> 00:02:29,340
+Was wirst du dann mit dem Dieb tun?
+
+78
+00:02:29,340 --> 00:02:32,180
+Ich werde ihn fangen, wenn er mein Kraut raucht,
+
+79
+00:02:32,180 --> 00:02:37,960
+und dann werde ich einen ruhigen Platz finden und ihm eine Lektion erteilen, die er nicht vergessen wird.
+
+80
+00:02:37,960 --> 00:02:38,820
+Das heißt?
+
+81
+00:02:38,820 --> 00:02:40,240
+Es ist ganz einfach.
+
+82
+00:02:40,240 --> 00:02:41,660
+Ich werde den Scheißkerl löschen.
+
+83
+00:02:56,200 --> 00:03:00,960
+Vielen Dank an alle Zuschauer, die an der Produktion dieses Remixes mitgewirkt haben, und an 91Hz für die Erstellung des Thumbnails.
+
+84
+00:03:00,960 --> 00:03:05,900
+Ich danke auch den Unterstützern für die materielle Unterstützung.
+
+85
+00:03:05,900 --> 00:03:10,640
+Ich ermutige Sie, das Material zu abonnieren, zu bewerten und zu kommentieren. Schreiben Sie mir auf Fanpage, wenn Sie einen Remix oder einen Backing Track herunterladen möchten.
+
+86
+00:03:10,640 --> 00:03:12,140
+[Übersetzung: Übersetzer]
+
+87
+00:03:12,240 --> 00:03:14,280
+Und trotzdem wirst du nicht davonrutschen
+

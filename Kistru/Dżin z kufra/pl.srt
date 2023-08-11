@@ -1,0 +1,272 @@
+1
+00:00:00,000 --> 00:00:03,140
+Coś mi się jednak zdaje, że ten śmierdzący patafian
+
+2
+00:00:03,140 --> 00:00:06,400
+za każdym razem doprawiał moje piwo ginem.
+
+3
+00:00:06,400 --> 00:00:11,560
+Wydaje mi się, że ta brudna kanalia trzyma gin w tym swoim kufrze.
+
+4
+00:00:11,560 --> 00:00:13,860
+Ktoś powinien podmienić gin na wodę.
+
+5
+00:00:13,920 --> 00:00:15,540
+Tak, pewnie! Nie ma problemu!
+
+6
+00:00:23,060 --> 00:00:24,920
+Witaj! Jestem dżinem z kufra!
+
+7
+00:00:24,920 --> 00:00:26,700
+Wiesz, że możesz mi zaufać.
+
+8
+00:00:26,700 --> 00:00:28,460
+Ja mam moc nieśmiertelności;
+
+9
+00:00:28,460 --> 00:00:30,540
+każdy człowiek mi zazdrości.
+
+10
+00:00:30,540 --> 00:00:32,440
+Dam ci specjalną ofertę,
+
+11
+00:00:32,440 --> 00:00:34,280
+ale nie proś o nic więcej.
+
+12
+00:00:34,280 --> 00:00:36,320
+Mogę spełnić trzy życzenia.
+
+13
+00:00:36,320 --> 00:00:38,160
+Jakie są twoje pragnienia?
+
+14
+00:00:38,160 --> 00:00:40,160
+Chciałbyś sławę i pieniądze?
+
+15
+00:00:40,160 --> 00:00:41,900
+Władzę, zamek, własne słońce?
+
+16
+00:00:41,900 --> 00:00:43,700
+Złotą zbroję i kobiety?
+
+17
+00:00:43,700 --> 00:00:45,640
+Piękny uśmiech, dwie skarpety?
+
+18
+00:00:45,660 --> 00:00:47,580
+Chciałbyś znów odwiedzić Klasztor?
+
+19
+00:00:47,580 --> 00:00:49,460
+Szybkie auto albo traktor?
+
+20
+00:00:49,480 --> 00:00:51,420
+Jakie jest twoje życzenie?
+
+21
+00:00:51,420 --> 00:00:53,220
+Podziel się swoim imieniem!
+
+22
+00:00:53,400 --> 00:00:54,280
+Ooo!
+
+23
+00:00:55,260 --> 00:00:57,260
+Abuyin Ibn Djadir Ibn Omar Kalid...
+
+24
+00:00:57,260 --> 00:00:58,780
+Ooo!
+
+25
+00:00:58,840 --> 00:01:01,080
+(jąka się) Ben Ha-a-a-adji Al Sharidi.
+
+26
+00:01:01,080 --> 00:01:02,800
+Ooo!
+
+27
+00:01:02,800 --> 00:01:04,680
+To imię mi rodzice dali.
+
+28
+00:01:04,680 --> 00:01:06,400
+Ooo!
+
+29
+00:01:06,400 --> 00:01:08,600
+Normalne imię jak sam widzisz.
+
+30
+00:01:10,060 --> 00:01:12,220
+Abuyin Ibn Djadir Ibn Omar Kalid...
+
+31
+00:01:13,920 --> 00:01:15,920
+Ben Ha-a-a-adji Al Sharidi.
+
+32
+00:01:18,060 --> 00:01:20,040
+To imię mi rodzice dali.
+
+33
+00:01:21,540 --> 00:01:23,500
+Normalne imię jak sam widzisz.
+
+34
+00:01:24,520 --> 00:01:25,940
+Ten... um...
+
+35
+00:01:26,520 --> 00:01:27,020
+No dobrze!
+
+36
+00:01:27,820 --> 00:01:29,740
+Wielka jest moja potęga.
+
+37
+00:01:29,740 --> 00:01:31,660
+Każdy gin przy mnie wymięka.
+
+38
+00:01:31,660 --> 00:01:33,660
+Mogę zmienić mocz w herbatę.
+
+39
+00:01:33,660 --> 00:01:35,460
+Lubię pić ją z moim bratem.
+
+40
+00:01:35,460 --> 00:01:39,340
+Będę piwo ci przynosić, jeśli tylko mnie poprosisz.
+
+41
+00:01:39,340 --> 00:01:42,840
+Zostały ci dwa życzenia. Jakie są twoje pragnienia?
+
+42
+00:01:42,840 --> 00:01:44,840
+Chciałbyś sławę i pieniądze?
+
+43
+00:01:44,840 --> 00:01:46,840
+Władzę, zamek, własne słońce?
+
+44
+00:01:46,840 --> 00:01:48,760
+Złotą zbroję i kobiety?
+
+45
+00:01:48,760 --> 00:01:50,480
+Piękny uśmiech, dwie skarpety?
+
+46
+00:01:50,480 --> 00:01:52,420
+Chciałbyś znów odwiedzić Klasztor?
+
+47
+00:01:52,420 --> 00:01:54,240
+Szybkie auto albo traktor?
+
+48
+00:01:54,240 --> 00:01:56,000
+Jakie jest twoje życzenie?
+
+49
+00:01:56,300 --> 00:01:58,280
+Podziel się swoim imieniem!
+
+50
+00:01:59,700 --> 00:02:01,720
+Abuyin Ibn Djadir Omar Kalid...
+
+51
+00:02:03,360 --> 00:02:05,620
+Ben Ha-a-a-adji Al Sharidi.
+
+52
+00:02:07,260 --> 00:02:09,700
+To imię mi rodzice dali.
+
+53
+00:02:11,240 --> 00:02:13,200
+Normalne imię jak sam widzisz.
+
+54
+00:02:14,920 --> 00:02:17,080
+Abuyin Ibn Djadir Ibn Omar Kalid...
+
+55
+00:02:18,700 --> 00:02:21,000
+Ben Ha-a-a-adji Al Sharidi.
+
+56
+00:02:22,680 --> 00:02:24,880
+To imię mi rodzice dali.
+
+57
+00:02:26,580 --> 00:02:28,760
+Normalne imię jak sam widzisz.
+
+58
+00:02:29,180 --> 00:02:31,180
+Coś nie tak z twoimi uszami,
+
+59
+00:02:31,180 --> 00:02:34,220
+czy życie już całkiem ci zbrzydło?!
+
+60
+00:02:34,480 --> 00:02:36,240
+Zresztą, nieważne...
+
+61
+00:02:36,240 --> 00:02:38,100
+To jest ostatnie życzenie.
+
+62
+00:02:39,580 --> 00:02:42,160
+Ktoś powinien podmienić gin na wodę.
+
+63
+00:02:42,160 --> 00:02:44,240
+W butlę wody cię zamienię!
+
+64
+00:02:59,980 --> 00:03:04,620
+Szczególne podziękowania dla Kaktusa, który pomógł mi przy tworzeniu podkładu. Link do jego kanału znajdziecie w opisie. ;)
+
+65
+00:03:04,620 --> 00:03:06,760
+Pomogli również:
+
+66
+00:03:06,760 --> 00:03:09,720
+[Tłumaczenie: tłumacz]
+
+67
+00:03:09,800 --> 00:03:14,740
+Zachęcam do oceniania, subskrybowania, udostępniania, komentowania i szukania easter eggów (5 nawiązań do pozostałych remixów) ;) Chcesz pobrać remix lub sam podkład? Napisz do mnie na fanpejdżu ;)
+
+68
+00:03:14,740 --> 00:03:16,940
+Jakieś uwagi co do tłumaczenia? Daj znać w komentarzu! :D
+
