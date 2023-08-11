@@ -240,7 +240,7 @@ Aber wie auch immer...
 
 61
 00:02:36,240 --> 00:02:38,100
-Das ist der letzte Wunsch
+Das ist der letzte Wunsch.
 
 62
 00:02:39,580 --> 00:02:42,160
