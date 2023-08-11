@@ -12,7 +12,7 @@ We have the power now, but we won't set you free.
 
 4
 00:00:11,600 --> 00:00:15,380
-You may try to escape but you will be hacked to pieces
+You may try to escape but you will be hacked to pieces.
 
 5
 00:00:15,600 --> 00:00:18,800
@@ -68,7 +68,7 @@ Suddenly darkness everywhere,
 
 18
 00:01:06,560 --> 00:01:08,440
-You see, stupid onions.
+You see, stupid onions
 
 19
 00:01:08,540 --> 00:01:12,300
@@ -132,6 +132,4 @@ Even the "Heal Rune" will not help you
 
 34
 00:02:36,708 --> 00:02:43,610
-
- 
 
