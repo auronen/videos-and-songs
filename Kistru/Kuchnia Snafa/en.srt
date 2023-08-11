@@ -272,7 +272,7 @@ I was the cook in the Old Camp...
 
 69
 00:01:53,180 --> 00:01:54,940
- You forgot already?
+You forgot already?
 
 70
 00:01:55,300 --> 00:01:57,300
@@ -352,7 +352,7 @@ Special thanks for helping with the lyrics for:
 
 89
 00:02:32,270 --> 00:02:34,880
-Instrumental for this, aswell as other gothic remixes was made entirely by me (Kistru)
+Instrumental for this, aswell as other gothic remixes was made entirely by me (Kistru).
 
 90
 00:02:35,120 --> 00:02:37,940
@@ -369,4 +369,3 @@ Whaaat???!!
 93
 00:02:46,650 --> 00:02:47,810
 [ENG sub by Gat1Day]
-
