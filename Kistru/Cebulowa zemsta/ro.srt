@@ -1,135 +1,135 @@
 1
 00:00:00,600 --> 00:00:03,820
-Kiedyś wielki wojownik, teraz siedzisz przywiązany
+Cândva un mare războinic, acum stai legat.
 
 2
 00:00:03,820 --> 00:00:07,620
-Byłeś tu bohaterem, wszystkim ludziom dobrze znanym.
+Ai fost un erou aici, cunoscut de toată lumea
 
 3
 00:00:07,620 --> 00:00:11,160
-Teraz my mamy władzę, lecz wolności ci nie damy.
+Acum avem puterea, dar nu te vom elibera.
 
 4
 00:00:11,600 --> 00:00:15,380
-Możesz próbować uciec, ale będziesz posiekany.
+Poți încerca să scapi, dar vei fi făcut bucăți.
 
 5
 00:00:15,600 --> 00:00:18,800
-Cebulowa przysięga, cebulowa zemsta
+Jurământ de ceapă, răzbunare de ceapă
 
 6
 00:00:19,600 --> 00:00:22,700
-Po twojej śmierci nikt nie cię pamiętać.
+Nimeni nu-și va aminti de tine după moartea ta.
 
 7
 00:00:23,100 --> 00:00:26,600
-Cebulowa potęga, cebulowa zemsta
+Putere de ceapă, răzbunare de ceapă
 
 8
 00:00:27,160 --> 00:00:30,280
-Za kilka minut zostanie tylko legenda
+După câteva minute, va rămâne doar o legendă.
 
 9
 00:00:30,620 --> 00:00:34,400
-Ty siekałeś nas, teraz posiekamy ciebie
+Tu ne tăiai pe noi, acum noi te tăiem pe tine.
 
 10
 00:00:34,860 --> 00:00:38,220
-Dopilnuję, by nie było świadków na pogrzebie
+Mă voi asigura că nu vor fi martori la înmormântare
 
 11
 00:00:38,220 --> 00:00:41,680
-Możesz już się bać, przygotuj się na cierpienie
+S-ar putea să îți fie frică acum, pregătește-te pentru suferință
 
 12
 00:00:42,300 --> 00:00:45,860
-Nie pomoże tobie nawet runa "Uleczenie"
+Nici măcar "Runa de vindecare" nu te va ajuta.
 
 13
 00:00:46,080 --> 00:00:49,500
-Ty siekałeś nas, teraz posiekamy ciebie
+Tu ne tăiai pe noi, acum noi te tăiem pe tine.
 
 14
 00:00:50,120 --> 00:00:53,460
-Dopilnuję, by nie było świadków na pogrzebie
+Mă voi asigura că nu vor fi martori la înmormântare
 
 15
 00:00:53,640 --> 00:00:57,000
-Możesz już się bać, przygotuj się na cierpienie
+Te poți teme acum, pregătește-te pentru suferință
 
 16
 00:00:57,240 --> 00:01:01,000
-Nie pomoże tobie nawet runa "Uleczenie"
+Nici măcar "Runa de vindecare" nu te va ajuta.
 
 17
 00:01:04,140 --> 00:01:06,420
-Nagle ciemność dookoła,
+Dintr-o dată, întuneric peste tot,
 
 18
 00:01:06,560 --> 00:01:08,440
-Widzicie, głupie cebule
+Vezi tu, ceapă proastă
 
 19
 00:01:08,540 --> 00:01:12,300
-Stop! Ani kroku! Albo wszystkich zamorduję
+Oprește-te! Stai pe loc, sau îi omor pe toți!
 
 20
 00:01:13,060 --> 00:01:16,200
-Nie ma sprawy. Dla mnie będzie to przyjemność
+Nici o problemă. Pentru mine va fi o plăcere
 
 21
 00:01:16,320 --> 00:01:20,080
-Zapamiętaj jedno, moim znakiem - bezimienność
+Ține minte un singur lucru, semnul meu - lipsa de nume
 
 22
 00:01:20,440 --> 00:01:23,580
-Możesz biec, lecz przede mną nie uciekniesz.
+Poți fugi, dar nu poți fugi de mine.
 
 23
 00:01:24,220 --> 00:01:27,080
-Możesz stać, wtedy śmierć nadejdzie wcześniej.
+Dacă poți sta în picioare, atunci moartea va veni mai repede.
 
 24
 00:01:27,980 --> 00:01:31,480
-Możesz krzyczeć, ale nikt cię nie usłyszy.
+Poți să strigi, dar nimeni nu te va auzi.
 
 25
 00:01:31,920 --> 00:01:34,980
-Możesz milczeć i zginąć w objęciach ciszy.
+Poți să taci și să mori în îmbrățișarea tăcerii.
 
 26
 00:01:35,280 --> 00:01:39,100
-Ty siekałeś nas, teraz posiekamy ciebie
+Tu ne-ai tăiat pe noi, acum noi te tăiem pe tine
 
 27
 00:01:39,620 --> 00:01:42,580
-Dopilnuję, by nie było świadków na pogrzebie
+Mă voi asigura că nu vor fi martori la înmormântare.
 
 28
 00:01:42,720 --> 00:01:46,640
-Możesz już się bać, przygotuj się na cierpienie
+Poți să te temi acum, pregătește-te pentru suferință
 
 29
 00:01:47,260 --> 00:01:50,620
-Nie pomoże tobie nawet runa "Uleczenie"
+Nici măcar runa "Vindecare" nu te va ajuta.
 
 30
 00:01:50,700 --> 00:01:54,180
-Ty siekałeś nas, teraz posiekamy ciebie
+Tu ne-ai tăiat pe noi, acum noi te tăiem pe tine
 
 31
 00:01:54,820 --> 00:01:58,160
-Dopilnuję, by nie było świadków na pogrzebie
+Mă voi asigura că nu vor fi martori la înmormântare.
 
 32
 00:01:58,160 --> 00:02:01,860
-Możesz już się bać, przygotuj się na cierpienie
+Poți să te temi acum, pregătește-te pentru suferință
 
 33
 00:02:02,260 --> 00:02:05,880
-Nie pomoże tobie nawet runa "Uleczenie"
+Nici măcar "Runa de vindecare" nu te va ajuta.
 
 34
 00:02:36,708 --> 00:02:43,610
-Tłumaczenie: tłumacz
+Traducere: Daniel Andrei Leu
