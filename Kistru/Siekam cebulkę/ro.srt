@@ -1,70 +1,70 @@
 1
 00:00:14,280 --> 00:00:16,780
-Co robisz? Topisz złoto?
+Ce faci? Topești aurul?
 
 2
 00:00:18,220 --> 00:00:19,760
-Nie, siekam cebulkę!
+Nu, eu tai ceapă!
 
 3
 00:00:32,900 --> 00:00:34,660
-Jest coś, co chciałbym dać ci w darze
+Este ceva ce aș vrea să-ți dau ca un cadou.
 
 4
 00:00:34,660 --> 00:00:37,140
-Wiem, że to szczyt twoich marzeń, że chcesz zostać cebularzem
+Știu că e culmea viselor tale că vrei să devii producător de ceapă.
 
 5
 00:00:37,360 --> 00:00:40,080
-Jestem najlepszym ziomkiem z bagien, więc podejdź
+Sunt cel mai bun amic din mlaștini, așa că vino în față
 
 6
 00:00:40,360 --> 00:00:41,520
-to wszystko ci pokażę
+atunci îți voi arăta totul
 
 7
 00:00:41,960 --> 00:00:43,560
-Jest coś, co chciałbym dać ci w darze
+Este ceva ce aș vrea să-ți dau ca un cadou.
 
 8
 00:00:43,560 --> 00:00:46,520
-Wiem, że to szczyt twoich marzeń, że chcesz zostać cebularzem
+Știu că e culmea viselor tale că vrei să devii producător de ceapă.
 
 9
 00:00:46,520 --> 00:00:49,040
-Jestem najlepszym ziomkiem z bagien, więc podejdź
+Sunt cel mai bun amic din mlaștini, așa că vino în față
 
 10
 00:00:49,080 --> 00:00:50,920
-to wszystko ci pokażę
+atunci îți voi arăta totul
 
 11
 00:00:50,960 --> 00:00:52,720
-Naucz mnie jak siekać cebulkę
+Învață-mă cum să tai ceapa
 
 12
 00:00:52,960 --> 00:00:55,000
-Pozwól mi tak siekać cebulkę
+Lasă-mă să tai ceapă.
 
 13
 00:00:55,020 --> 00:00:57,180
-Powiedz mi jak siekać cebulkę
+Spune-mi cum se taie ceapa
 
 14
 00:00:57,260 --> 00:00:59,540
-Sie- sie- sie- sie- siekam cebulkę.
+Eu tai, tai, tai, tai, tai ceapă.
 
 15
 00:00:59,860 --> 00:01:02,040
-Pokaż mi jak siekać cebulkę
+Arată-mi cum se taie o ceapă
 
 16
 00:01:02,060 --> 00:01:04,160
-Chcę jak ty tak siekać cebulkę
+Vreau să tai ceapa așa.
 
 17
 00:01:04,220 --> 00:01:06,140
-Chcę zobaczyć jak siekać cebulkę
+Vreau să văd cum se taie ceapa.
 
 18
 00:01:06,320 --> 00:01:08,600
@@ -72,83 +72,83 @@ KHARDIMON FATAGN SCHATAR FATAGN BELIAR
 
 19
 00:01:18,760 --> 00:01:19,640
-Siekam cebulkę
+Tăiem ceapă
 
 20
 00:01:19,960 --> 00:01:21,940
-Teraz, gdy znasz moją tajemnicę
+Acum că-mi știi secretul
 
 21
 00:01:21,940 --> 00:01:24,200
-razem możemy siekać całą dzielnicę.
+Putem să tăiem tot cartierul împreună.
 
 22
 00:01:24,260 --> 00:01:25,220
-Siekać u Thorbena
+Cotlet la Thorben's
 
 23
 00:01:25,240 --> 00:01:26,140
-Siekać u Harada
+Cotlet la Harad
 
 24
 00:01:26,260 --> 00:01:27,340
-Siekać u Bospera
+Cotlet la Bosper
 
 25
 00:01:27,480 --> 00:01:28,860
-Hagen raczej odpada
+Hagen este mai degrabă în afara problemei
 
 26
 00:01:29,060 --> 00:01:30,980
-Teraz, gdy znasz moją tajemnicę
+Acum că-mi știi secretul
 
 27
 00:01:31,020 --> 00:01:33,160
-razem możemy siekać całą dzielnicę.
+Împreună putem să tăiem tot districtul.
 
 28
 00:01:33,240 --> 00:01:33,960
-Siekać u Thorbena
+Cotlet la Thorben
 
 29
 00:01:34,140 --> 00:01:35,060
-Siekać u Harada
+Cotlet la Harad
 
 30
 00:01:35,520 --> 00:01:36,240
-Siekać u Bospera
+Cotlet la Bosper
 
 31
 00:01:36,500 --> 00:01:37,740
-Hagen raczej odpada
+Hagen este mai degrabă în afara problemei
 
 32
 00:01:37,740 --> 00:01:39,860
-Nauczyłem się jak siekać cebulkę
+Am învățat cum să tai ceapa
 
 33
 00:01:39,960 --> 00:01:42,220
-Pozwoliłeś mi tak siekać cebulkę
+Mă lași să tai ceapa așa
 
 34
 00:01:42,220 --> 00:01:44,440
-Powiedziałeś mi jak siekać cebulkę
+Mi-ai spus cum se taie ceapa
 
 35
 00:01:44,460 --> 00:01:46,540
-Sie- sie- sie- sie- siekam cebulkę.
+Eu tai, tai, tai, tai, tai ceapă.
 
 36
 00:01:46,760 --> 00:01:48,940
-Pokazałeś mi jak siekać cebulkę
+Mi-ai arătat cum se taie ceapa
 
 37
 00:01:48,940 --> 00:01:51,300
-Bo chciałem jak ty tak siekać cebulkę
+Pentru că am vrut să tai ceapă ca tine.
 
 38
 00:01:51,460 --> 00:01:53,380
-Zobaczyłem jak siekać cebulkę
+Am văzut cum se taie ceapa
 
 39
 00:01:53,460 --> 00:01:55,700
@@ -156,31 +156,31 @@ KHARDIMON FATAGN SCHATAR FATAGN BELIAR
 
 40
 00:01:55,700 --> 00:01:57,900
-Nauczyłem się jak siekać cebulkę
+Am învățat cum să tai ceapa
 
 41
 00:01:57,900 --> 00:02:00,060
-Pozwoliłeś mi tak siekać cebulkę
+Mă lași să tai ceapa așa
 
 42
 00:02:00,120 --> 00:02:02,300
-Powiedziałeś mi jak siekać cebulkę
+Mi-ai spus cum se taie ceapa
 
 43
 00:02:02,380 --> 00:02:04,660
-Sie- sie- sie- sie- siekam cebulkę.
+Eu tai, tai, tai, tai, tai ceapă.
 
 44
 00:02:04,700 --> 00:02:06,920
-Pokazałeś mi jak siekać cebulkę
+Mi-ai arătat cum se taie ceapa
 
 45
 00:02:06,960 --> 00:02:09,160
-Bo chciałem jak ty tak siekać cebulkę
+Pentru că am vrut să tai ceapă ca tine.
 
 46
 00:02:09,180 --> 00:02:11,180
-Zobaczyłem jak siekać cebulkę
+Am văzut cum se taie ceapa
 
 47
 00:02:11,180 --> 00:02:13,740
@@ -188,4 +188,4 @@ KHARDIMON FATAGN SCHATAR FATAGN BELIAR
 
 48
 00:02:17,780 --> 00:02:19,140
-[Tłumaczenie: tłumacz]
+[Traducere: Daniel Andrei Leu]
