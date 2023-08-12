@@ -4,27 +4,27 @@ Xardas
 
 2
 00:00:11,670 --> 00:00:13,210
-Ciągle ten Xardas
+Întotdeauna acest Xardas
 
 3
 00:00:13,410 --> 00:00:15,410
-Mamy coś, czego nie możesz nam zabrać
+Avem ceva ce nu ne poți lua.
 
 4
 00:00:15,950 --> 00:00:16,890
-Jedni w szatach
+Unii în robe
 
 5
 00:00:17,090 --> 00:00:18,140
-a inni w majtach
+și alții în chiloți
 
 6
 00:00:18,240 --> 00:00:19,240
-Przeciwnik jest jeden -
+Adversarul este unul -
 
 7
 00:00:19,270 --> 00:00:20,920
-ten przeklęty nekromanta
+acel blestemat necromant
 
 8
 00:00:21,420 --> 00:00:21,920
@@ -32,23 +32,23 @@ Xardas
 
 9
 00:00:21,980 --> 00:00:23,560
-Ciągle ten Xardas
+Întotdeauna acest Xardas
 
 10
 00:00:23,720 --> 00:00:26,200
-Nie daj się złapać na sztuczki tego diabła
+Nu vă lăsați păcăliți de trucurile acestui diavol
 
 11
 00:00:26,260 --> 00:00:27,190
-Mogę już ruszać
+Deja mă pot mișca
 
 12
 00:00:27,490 --> 00:00:28,620
-Teleportacja
+Teleportare
 
 13
 00:00:28,820 --> 00:00:31,440
-Najlepiej będzie, jeśli znikniesz z miasta
+Cel mai bine este să dispari din oraș
 
 14
 00:00:31,880 --> 00:00:32,460
@@ -56,27 +56,27 @@ Xardas
 
 15
 00:00:32,540 --> 00:00:33,990
-Ciągle ten Xardas
+Întotdeauna acest Xardas
 
 16
 00:00:34,240 --> 00:00:36,720
-Mamy coś, czego nie możesz nam zabrać
+Avem ceva ce nu ne poți lua.
 
 17
 00:00:36,790 --> 00:00:37,570
-Jedni w szatach
+Unii în robe
 
 18
 00:00:37,790 --> 00:00:39,070
-a inni w majtach
+și alții în chiloți
 
 19
 00:00:39,170 --> 00:00:40,100
-Przeciwnik jest jeden -
+Adversarul este unul -
 
 20
 00:00:40,110 --> 00:00:41,880
-ten przeklęty nekromanta
+acel blestemat necromant
 
 21
 00:00:42,220 --> 00:00:42,970
@@ -84,28 +84,28 @@ Xardas
 
 22
 00:00:43,000 --> 00:00:44,450
-Ciągle ten Xardas
+Întotdeauna acest Xardas
 
 23
 00:00:44,610 --> 00:00:47,000
-Nie daj się złapać na sztuczki tego diabła
+Nu vă lăsați păcăliți de trucurile acestui diavol
 
 24
 00:00:47,090 --> 00:00:48,120
-Mogę już ruszać
+Deja mă pot mișca
 
 25
 00:00:48,380 --> 00:00:49,560
-Teleportacja
+Teleportare
 
 26
 00:00:49,750 --> 00:00:52,210
-Najlepiej będzie, jeśli znikniesz z miasta
+Cel mai bine este să dispari din oraș
 
 27
 00:00:52,830 --> 00:00:54,830
-Przynajmniej na jakiś czas...
+Cel puțin pentru o vreme...
 
 28
 00:00:58,150 --> 00:01:00,070
-[Tłumaczenie: tłumacz]
+[Tłumaczenie: Daniel Andrei Leu]
