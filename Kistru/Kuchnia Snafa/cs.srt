@@ -1,34 +1,34 @@
 1
 00:00:00,590 --> 00:00:02,590
-Witajcie w mojej kuchni
+Vítej v mojí kuchyni
 
 2
 00:00:02,690 --> 00:00:04,690
-mam tu towar z wyższej półki
+Mám zde výrobky z nejvyšší police
 
 3
 00:00:04,890 --> 00:00:06,280
-Banany i parówki
+Banány a párky
 
 4
 00:00:06,300 --> 00:00:08,160
-nawet placki i drożdżówki
+Taky placky a taštičky
 
 5
 00:00:08,320 --> 00:00:09,920
-Musisz mi wierzyć, stary
+Musíš mi věřit, kámo
 
 6
 00:00:09,940 --> 00:00:11,940
-inne kuchnie to koszmary.
+Ostatní kuchyně to noční můry.
 
 7
 00:00:12,270 --> 00:00:13,580
-Lubię kiedy mówisz:
+Mám rád když říkáš:
 
 8
 00:00:13,590 --> 00:00:15,360
-"Pokaż mi swoje towary"
+"Ukaž mi svoje zboží"
 
 9
 00:00:15,480 --> 00:00:15,870
@@ -36,11 +36,11 @@ Mmmm...
 
 10
 00:00:16,070 --> 00:00:17,210
-- Mięso pieczone
+- Maso pečené
 
 11
 00:00:17,410 --> 00:00:19,070
-Mój brzuch od środka płonie!
+Břicho mě pálí zevnitř!!
 
 12
 00:00:19,170 --> 00:00:19,480
@@ -48,11 +48,11 @@ Mmmm...
 
 13
 00:00:19,680 --> 00:00:20,880
-- Gulasz ognisty
+- Guláš ohnivý
 
 14
 00:00:21,150 --> 00:00:22,610
-Naprawdę zaje*isty!
+Opravdu k**va skvělý!
 
 15
 00:00:22,810 --> 00:00:23,120
@@ -60,11 +60,11 @@ Mmmm...
 
 16
 00:00:23,320 --> 00:00:24,550
-- Pyszna kapusta
+- Pěkný zelí
 
 17
 00:00:24,750 --> 00:00:26,410
-Już czuję smak jej w ustach!
+Už cítím jeho chuť v ústech!
 
 18
 00:00:26,610 --> 00:00:26,920
@@ -72,11 +72,11 @@ Mmmm...
 
 19
 00:00:27,120 --> 00:00:28,300
-- Potrawka z chrząszcza
+- Ragů ze žravé štěnice
 
 20
 00:00:28,400 --> 00:00:29,950
-Mogę ją jeść bez końca!
+Mohl bych ho jíst bez přestání!
 
 21
 00:00:30,060 --> 00:00:30,370
@@ -84,11 +84,11 @@ Mmmm...
 
 22
 00:00:30,570 --> 00:00:31,780
-- Mięso pieczone
+- Maso pečené
 
 23
 00:00:31,980 --> 00:00:33,620
-Mój brzuch od środka płonie!
+Břicho mě pálí zevnitř!!
 
 24
 00:00:33,730 --> 00:00:34,040
@@ -96,11 +96,11 @@ Mmmm...
 
 25
 00:00:34,260 --> 00:00:35,480
-- Gulasz ognisty
+- Guláš ohnivý
 
 26
 00:00:35,680 --> 00:00:37,170
-Naprawdę zaje*isty!
+Opravdu k**va skvělý!
 
 27
 00:00:37,280 --> 00:00:37,590
@@ -108,11 +108,11 @@ Mmmm...
 
 28
 00:00:37,850 --> 00:00:39,000
-- Pyszna kapusta
+- Pěkný zelí
 
 29
 00:00:39,280 --> 00:00:40,900
-Już czuję smak jej w ustach!
+Už cítím jeho chuť v ústech!
 
 30
 00:00:40,950 --> 00:00:41,260
@@ -120,51 +120,51 @@ Mmmm...
 
 31
 00:00:41,510 --> 00:00:42,640
-- Potrawka z chrząszcza
+- Ragů ze žravé štěnice
 
 32
 00:00:42,930 --> 00:00:44,420
-Mogę ją jeść bez końca!
+Mohl bych ho jíst bez přestání!
 
 33
 00:00:44,680 --> 00:00:48,030
-W całym Khorinis, moja kuchnia jest najlepsza
+V celém Khorinisu, moje kuchyně je nejlepší
 
 34
 00:00:48,370 --> 00:00:51,680
-Jeśli spróbujesz czegoś, nie dasz rady przestać
+Až něco okusíš, nebudeš moct přestat
 
 35
 00:00:52,040 --> 00:00:55,370
-Kiełbasę lepszą mam od tej, co jest w klasztorze
+Klobásy mám lepší, než ty v klášteře
 
 36
 00:00:55,570 --> 00:00:59,000
-Wino mocniejsze jest niż w Orlana gospodzie
+Víno silnější než v Orlanově hospodě
 
 37
 00:00:59,220 --> 00:01:02,650
-Moje jedzenie lubi nawet sam Lord Hagen
+Moje jídlo chválí sám Lord Hagen
 
 38
 00:01:02,890 --> 00:01:06,310
-Przychodzi do mnie również każdy kopacz z bagien
+Chodí za mnou také každý kopáč z bažin
 
 39
 00:01:06,580 --> 00:01:07,930
-Musisz mi wierzyć, stary
+Musíš mi věřit, kámo
 
 40
 00:01:08,060 --> 00:01:10,060
-inne kuchnie to koszmary
+Ostatní kuchyně to noční můry
 
 41
 00:01:10,300 --> 00:01:11,770
-Lubię kiedy mówisz:
+Mám rád když říkáš:
 
 42
 00:01:11,830 --> 00:01:13,560
-"Pokaż mi swoje towary"
+"Ukaž mi svoje zboží"
 
 43
 00:01:13,660 --> 00:01:13,970
@@ -172,11 +172,11 @@ Mmmm...
 
 44
 00:01:14,210 --> 00:01:15,430
-- Mięso pieczone
+- Maso pečené
 
 45
 00:01:15,640 --> 00:01:17,260
-Mój brzuch od środka płonie!
+Břicho mě pálí zevnitř!!
 
 46
 00:01:17,340 --> 00:01:17,650
@@ -184,11 +184,11 @@ Mmmm...
 
 47
 00:01:17,930 --> 00:01:19,210
-- Gulasz ognisty
+- Guláš ohnivý
 
 48
 00:01:19,280 --> 00:01:20,840
-Naprawdę zaje*isty!
+Opravdu k**va skvělý!
 
 49
 00:01:20,930 --> 00:01:21,240
@@ -196,11 +196,11 @@ Mmmm...
 
 50
 00:01:21,380 --> 00:01:22,810
-- Pyszna kapusta
+- Pěkný zelí
 
 51
 00:01:22,950 --> 00:01:24,480
-Już czuję smak jej w ustach!
+Už cítím jeho chuť v ústech!
 
 52
 00:01:24,560 --> 00:01:24,870
@@ -208,143 +208,143 @@ Mmmm...
 
 53
 00:01:25,190 --> 00:01:26,510
-- Potrawka z chrząszcza
+- Ragů ze žravé štěnice
 
 54
 00:01:26,590 --> 00:01:28,180
-Mogę ją jeść bez końca!
+Mohl bych ho jíst bez přestání!
 
 55
 00:01:28,230 --> 00:01:28,540
-(Ok, skończyłem z napisami do każdego MMMM)
+(Ok, už nebudu vypisovat všechna MMMM)
 
 56
 00:01:28,660 --> 00:01:29,890
-- Mięso pieczone
+- Maso pečené
 
 57
 00:01:30,160 --> 00:01:31,860
-Mój brzuch od środka płonie!
+Břicho mě pálí zevnitř!!
 
 58
 00:01:32,520 --> 00:01:33,800
-- Gulasz ognisty
+- Guláš ohnivý
 
 59
 00:01:33,860 --> 00:01:35,340
-Naprawdę zaje*isty!
+Opravdu k**va skvělý!
 
 60
 00:01:36,110 --> 00:01:37,180
-- Pyszna kapusta
+- Pěkný zelí
 
 61
 00:01:37,470 --> 00:01:39,050
-Już czuję smak jej w ustach!
+Už cítím jeho chuť v ústech!
 
 62
 00:01:39,700 --> 00:01:40,880
-- Potrawka z chrząszcza
+- Ragů ze žravé štěnice
 
 63
 00:01:40,930 --> 00:01:42,780
-Mogę ją jeść bez końca!
+Mohl bych ho jíst bez přestání!
 
 64
 00:01:43,330 --> 00:01:44,110
-To jak?
+Tak jak?
 
 65
 00:01:44,460 --> 00:01:47,090
-Hmmmh, cóż... Szczerze mówiąc...
+Hmmmh, no... Abych byl upřímný...
 
 66
 00:01:47,290 --> 00:01:48,800
-Wygląda wspaniale!
+Vypadá to skvěle!
 
 67
 00:01:48,870 --> 00:01:50,570
-Skąd to wszystko umiesz??
+Odkud to všechno umíš???
 
 68
 00:01:50,870 --> 00:01:52,980
-Byłem kucharzem w Starym Obozie...
+Byl jsem kuchařem ve Starém Táboře...
 
 69
 00:01:53,180 --> 00:01:54,940
-Już zapomniałeś?
+Už si zapomněl?
 
 70
 00:01:55,300 --> 00:01:57,300
-Pokaż mi swoje towary
+Ukaž mi svoje zboží
 
 71
 00:01:57,880 --> 00:01:59,130
-- Pierogi z węża
+- Pirožky z močálového žraloka
 
 72
 00:01:59,280 --> 00:02:00,920
-Jedząc je, się odprężam
+Při jezení, si oddychnu
 
 73
 00:02:01,530 --> 00:02:02,800
-- Kanapka z wilka
+- Chléb obložený vlkem
 
 74
 00:02:02,900 --> 00:02:04,530
-Mam ich w kieszeni kilka
+Mám jich v kapse několik
 
 75
 00:02:05,170 --> 00:02:06,530
-- Pasztet z goblina
+- Paštika z goblina
 
 76
 00:02:06,590 --> 00:02:08,090
-Już mi z ust cieknie ślina
+Už mi z úst teče slina
 
 77
 00:02:08,850 --> 00:02:10,009
-- Kompot z jaszczura
+- Kompot z ještěrky
 
 78
 00:02:10,210 --> 00:02:11,870
-Po nim chcę latać w chmurach
+Po něm se mi chce lítat v oblacích
 
 79
 00:02:12,430 --> 00:02:13,610
-- Pierogi z węża
+- Pirožky z močálového žraloka
 
 80
 00:02:13,670 --> 00:02:15,420
-Jedząc je, się odprężam
+Při jejich jezení, si oddychnu
 
 81
 00:02:16,070 --> 00:02:17,420
-- Kanapka z wilka
+- Chléb obložený vlkem
 
 82
 00:02:17,450 --> 00:02:19,020
-Mam ich w kieszeni kilka
+Mám jich v kapse několik
 
 83
 00:02:19,760 --> 00:02:20,850
-- Pasztet z goblina
+- Paštika z goblina
 
 84
 00:02:21,050 --> 00:02:22,740
-Już mi z ust cieknie ślina
+Už mi z úst teče slina
 
 85
 00:02:23,340 --> 00:02:24,490
-- Kompot z jaszczura
+- Kompot z ještěrky
 
 86
 00:02:24,690 --> 00:02:26,510
-Po nim chcę latać w chmurach
+Po něm se mi chce lítat v oblacích
 
 87
 00:02:26,710 --> 00:02:28,730
-Szczególne podziękowania za pomoc w stworzeniu tekstu otrzymują:
+Speciální poděkování za pomoc s tvorbou textu:
 
 88
 00:02:28,750 --> 00:02:30,750
@@ -352,15 +352,15 @@ Szczególne podziękowania za pomoc w stworzeniu tekstu otrzymują:
 
 89
 00:02:32,270 --> 00:02:34,880
-Podkład tego, jak i pozostałych gothicowych remixów został wykonany przeze mnie w 100%.
+Podklad tohoto a dalších Gothic remixů jsem udělal 100% já.
 
 90
 00:02:35,120 --> 00:02:37,940
-Jeśli chciałbyś pobrać ten, lub inny remix, bądź sam podkład napisz do mnie na fanpejdżu ;)
+Pokud byste si chtěli stáhnout tento nebo jakýkoli jiný remix, nebo jen track, napište mi na moji fanpage ;)
 
 91
 00:02:40,790 --> 00:02:44,900
-Powiedz no... Czy to coś w twojej zupie to twarz, czy dupa???
+Pověz no... Je to co je v tvé polívce tvář, nebo zadek???
 
 92
 00:02:45,100 --> 00:02:46,450
@@ -368,4 +368,4 @@ Coooo???!!
 
 93
 00:02:46,650 --> 00:02:47,810
-[Tłumaczenie: tłumacz]
+[CZE sub by Romanez78]
