@@ -1,10 +1,10 @@
 1
 00:00:01,526 --> 00:00:05,160
-Na cestě osudu jsem porazil všechny nepřátele
+Na cestě osudu jsem všechny nepřátele porazil
 
 2
 00:00:05,498 --> 00:00:08,910
-Dobyl jsem slávu i úctu bohů
+Slávu i úctu bohů jsem si vydobyl
 
 3
 00:00:09,087 --> 00:00:12,427
@@ -16,19 +16,19 @@ Vyhnal jsem Spáče, to si všichni pamatují
 
 5
 00:00:16,434 --> 00:00:19,766
-Je však jedna válka, o které sním po nocích
+Je však jedna válka, o které po nocích sním
 
 6
 00:00:20,000 --> 00:00:23,267
-Ve Staré Pevnosti, té s temnými silami
+Ve Staré Pevnosti, proti silám zlým
 
 7
 00:00:23,767 --> 00:00:26,734
-Ten protivník je děsivější než Beliar
+Děsivější než Beliar je můj protivník
 
 8
 00:00:27,167 --> 00:00:30,867
-Ten prokletý žebřík je ten, co mě porazil
+Ten který mě porazil, ten prokletý žebřík
 
 9
 00:00:30,900 --> 00:00:32,534
@@ -52,7 +52,7 @@ Noční můra plná bídy
 
 14
 00:00:39,934 --> 00:00:41,667
-Brzy poznáš moji pomstu
+Moji pomstu poznáš brzy
 
 15
 00:00:41,767 --> 00:00:43,500
@@ -84,7 +84,7 @@ Noční můra plná bídy
 
 22
 00:00:54,434 --> 00:00:56,227
-Brzy poznáš moji pomstu
+Moji pomstu poznáš brzy
 
 23
 00:00:56,334 --> 00:00:58,067
@@ -116,7 +116,7 @@ Tvůj největší nepřítel
 
 30
 00:01:20,200 --> 00:01:22,080
-Už můžeš kopat sobě hrob
+Už můžeš kopat sobě hrobu
 
 31
 00:01:22,200 --> 00:01:23,434
@@ -156,7 +156,7 @@ Noční můra plná bídy
 
 40
 00:01:39,906 --> 00:01:41,700
-Brzy poznáš moji pomstu
+Moji pomstu poznáš brzy
 
 41
 00:01:41,790 --> 00:01:43,534
@@ -188,7 +188,7 @@ Noční můra plná bídy
 
 48
 00:01:54,467 --> 00:01:56,200
-Brzy poznáš moji pomstu
+Moji pomstu poznáš brzy
 
 49
 00:01:56,324 --> 00:01:58,067
