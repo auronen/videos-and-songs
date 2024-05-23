@@ -1,0 +1,1983 @@
+1
+0:00:00,500 --> 0:00:06,500
+Alexey Lutsai: For many people, game ports are an anachronism from the early 00's. Surely you have tried projects ported from consoles to PCs, and it was
+
+2
+0:00:06,500 --> 0:00:14,500
+not too cool. Nowadays the term "multiplatform" is used more often. A game comes out everywhere at once. And thats it.
+
+3
+0:00:14,500 --> 0:00:19,500
+But imagine one of the major native PC games, and specifically Gothic,
+
+4
+0:00:19,500 --> 0:00:25,500
+has just been ported to Nintendo Switch, and console players will finally be able to join in on the greatness. What's going on?
+
+5
+0:00:25,500 --> 0:00:32,500
+Why and who needs it? How are games ported in general? Is a port always a literal port or does it sometimes extend the game itself?
+
+6
+0:00:32,500 --> 0:00:39,500
+Today we'll deal with it. I talked to the guys from the St. Petersburg studio Elverils, which deals with ports of games. For example,
+
+7
+0:00:39,500 --> 0:00:46,500
+Larian games on Mac and iPad. They've just released Baldur's Gate 3. Or you may know them from the iPad port of Original Sin 2.
+
+8
+0:00:46,500 --> 0:00:53,500
+They were originally the first open St. Petersburg office of Larian. They also make ports of Piranha Bytes games,
+
+9
+0:00:53,500 --> 0:00:59,500
+like Risen on Switch and Mac, Elex 2 on Mac. They were the ones who released the updated version of the first Gothic on Switch, which
+
+10
+0:00:59,500 --> 0:01:07,500
+which we will discuss. By the way, THQ has already announced a second part for Switch, and it's also being made by the guys at Elverils. If you're into this format,
+
+11
+0:01:07,500 --> 0:01:12,500
+please be sure to give it a like so I can keep it going.
+
+12
+0:01:12,500 --> 0:01:18,500
+Thank you in advance! One of the most common questions I get asked by subscribers when they meet me is "How do I get into game development?"
+
+13
+0:01:18,500 --> 0:01:25,500
+and what is the best field of study to choose. And here's how things are: artists, producers, musicians, even screenwriters
+
+14
+0:01:25,500 --> 0:01:31,500
+it's not hard to find, but game designers are rare. The industry is literally screaming about it in every interview and podcast. You may need
+
+15
+0:01:31,500 --> 0:01:37,500
+a dozen such specialists for a big project.  For example, combat system designer, minigame designer,
+
+16
+0:01:37,500 --> 0:01:43,500
+a level designer, a system designer who makes the rules in the game world work.  There's a lot to choose from, and
+
+17
+0:01:43,500 --> 0:01:49,500
+I would recommend learning at Contented in the "game designer" course. Because it's one of the biggest schools,
+
+18
+0:01:49,500 --> 0:01:55,500
+that teaches design in all its forms. The program includes more than 40 practical assignments so that you can immediately
+
+19
+0:01:55,500 --> 0:02:02,500
+apply your knowledge and build your portfolio. The outcome of the course is a project of your own game. The training will last 12
+
+20
+0:02:02,500 --> 0:02:07,500
+months, and at the end of the course you will be confident working with Unity, Unreal and Game Maker. You will master
+
+21
+0:02:07,500 --> 0:02:13,500
+Unity Bolt, Blueprints, and Perforce visual programming tools that you need to build your prototypes.
+
+22
+0:02:13,500 --> 0:02:20,500
+You'll analyze the mechanics of your favorite games and discover them from a new perspective. There will also be three gamejams in the program,
+
+23
+0:02:20,500 --> 0:02:25,500
+so you can practice teamwork. Classes are 4 to 8 hours long
+
+24
+0:02:25,500 --> 0:02:32,500
+per week. If you don't have time for something, you can move the homework deadlines and even freeze the course so you can come back to it later.
+
+25
+0:02:32,500 --> 0:02:38,500
+The course is supervised by Kirill Zolovkin, a game designer with twenty years of experience. He has worked at Wargaming and My.Games. By the way, he recently had
+
+26
+0:02:38,500 --> 0:02:46,500
+a release of his game called "Gripper", which was recognized by Shuhei Yoshida, head of Sony's indie division. Your age and experience are not important, they will teach you everything
+
+27
+0:02:46,500 --> 0:02:51,500
+from scratch, and the career center will help you get a job or find freelance clients. Newcomers to the profession
+
+28
+0:02:51,500 --> 0:02:57,500
+earn from 80,000 rubles, and middles from 190,000. Contented students start
+
+29
+0:02:57,500 --> 0:03:05,500
+to work from the sixth month of school. And by the way, the school will give you a certificate on the basis of
+
+30
+0:03:05,500 --> 0:03:11,500
+State License 041164. And also, after registering for the course, you will get a training module on neural networks and access to a closed Telegram bot with 40 of their
+
+31
+0:03:11,500 --> 0:03:17,500
+varieties. You will understand Mid Journey, Pixel App and all kinds of Chat GPT that will help you in working on your
+
+32
+0:03:17,500 --> 0:03:24,500
+projects. So if you love games and are ready to get involved in an industry hungry for game designers, then sign up at the link
+
+33
+0:03:24,500 --> 0:03:31,500
+in the description or QR code. And my promo code "LVCAI" will be 45% off.
+
+34
+0:03:34,500 --> 0:03:39,500
+Lutzai: What are some of the things that have changed that are visible at the 1st glance?
+
+35
+0:03:39,500 --> 0:03:47,500
+Platon Fomichev: At the 1st glance - UI, of course. The map section appeared. Then we tried to revive some mechanics from Gothic.
+
+36
+0:03:47,500 --> 0:03:50,500
+In particular, I think, throwing items.
+
+37
+0:03:50,500 --> 0:03:54,500
+[Platon Fomichev. Elverils Technical Director] Well the music, yes, the music, the positional sound. Gothic was very famous for its exactly
+
+38
+0:03:54,500 --> 0:04:00,500
+positional sound, I mean, well music is okay, but then there was EAX. When we were making Gothic,
+
+39
+0:04:00,500 --> 0:04:07,500
+we were all very surprised at how positional sound is now dead as a class.
+
+40
+0:04:09,500 --> 0:04:14,500
+We did some reverb. It's off by default because
+
+41
+0:04:14,500 --> 0:04:20,500
+it wasn't to everyone's liking. We'll probably finish it some more. There's also reverb
+
+42
+0:04:20,500 --> 0:04:26,500
+in the game, so the game has a physical model of sound. It's trying to follow that
+
+43
+0:04:26,500 --> 0:04:32,500
+sound library that it had before. Yeah, the sound is completely rewritten as well, because the sound library
+
+44
+0:04:32,500 --> 0:04:40,500
+is long gone. The font. Yeah, the font's also changed. We made it so that it reads well on the screen both
+
+45
+0:04:40,500 --> 0:04:50,500
+when the Switch is in your hand and when the Switch is in the TV. Diego: "We'll meet in the Old Camp."
+
+46
+0:04:54,500 --> 0:04:59,500
+Lutzai: Gothic is 20 years old now. There are a lot of archaic decisions in the game.
+
+47
+0:04:59,500 --> 0:05:06,500
+[Reinhard Pollice. THQ Nordic Product Director]. I tried the game and it feels like the console came out like 20 years ago.
+
+48
+0:05:06,500 --> 0:05:10,500
+That's a solution that older players will love.
+
+49
+0:05:10,500 --> 0:05:17,500
+But it seems like the younger guys won't understand. So what audience was the port of the game created for?
+
+50
+0:05:17,500 --> 0:05:23,500
+Reinhard: the goal was to bring Gothic back to the people who remember it. Who
+
+51
+0:05:23,500 --> 0:05:29,500
+would like to play this deep RPG again, but in a handheld.
+
+52
+0:05:29,500 --> 0:05:33,500
+This is a game for those who prefer detailed simulation.
+
+53
+0:05:33,500 --> 0:05:39,500
+We never intended to make a modern version for the sake of hooking people who, for example,
+
+54
+0:05:39,500 --> 0:05:45,500
+playing Zelda or something like that on Switch. In many ways, these controls work better than the keyboard
+
+55
+0:05:45,500 --> 0:05:53,500
+and mouse on PC. Of course, we haven't done everything perfectly, but we'll try to fix that.
+
+56
+0:05:53,500 --> 0:05:59,500
+We know that Gothic has a large community, so our goal is to give them what they want.
+
+57
+0:06:02,500 --> 0:06:04,500
+Lutzai: A couple years ago in my video about Gothic
+
+58
+0:06:04,500 --> 0:06:09,500
+I said that it has such specific controls because it was originally designed for the gamepad.
+
+59
+0:06:09,500 --> 0:06:15,500
+And to be honest, I was a bit of a liar at the time. Indeed, there was such information on the Internet, but it was no
+
+60
+0:06:15,500 --> 0:06:18,500
+confirmation to this fact.
+
+61
+0:06:18,500 --> 0:06:22,500
+I say "fact", although I was basing it on my subjective impressions.
+
+62
+0:06:22,500 --> 0:06:25,500
+But here's what I learned from Gothic Classic's UX designer Konstantin.
+
+63
+0:06:25,500 --> 0:06:36,500
+Lutzai: You know, despite the fact that in the video I said about the console control, I mean there was basically the feeling of fighting and a lot of things were
+
+64
+0:06:36,500 --> 0:06:43,500
+essentially done on the keyboard. And it felt like the gamepad would fit here perfectly. But lets say I said this back then
+
+65
+0:06:43,500 --> 0:06:48,500
+and found some confirmations in different sources. But I'm not 100 percent sure that's what it was.
+
+66
+0:06:48,500 --> 0:06:58,500
+[Konstantin Timofeev. UI/UX developer Elverils] Well I found in the code traces of what was being developed. There were such modules, there were such workarounds. Basically, I took some of it from there.
+
+67
+0:06:58,500 --> 0:07:02,500
+Lutzai: Almost like a random guess, but it turns out there is such information.
+
+68
+0:07:02,500 --> 0:07:10,500
+Konstantin: I really liked their original idea that they made all the controls in the game through action plus direction.
+
+69
+0:07:10,500 --> 0:07:13,500
+And I had a hypothesis that, yeah, we have a combat system based on this,
+
+70
+0:07:13,500 --> 0:07:20,500
+interaction, but they probably intended for there to be dialog on this
+
+71
+0:07:20,500 --> 0:07:27,500
+and some other features. So all the features were supposed to be on this. And when we had already opened the alpha builds, we looked at them,
+
+72
+0:07:27,500 --> 0:07:33,500
+and that hypothesis was confirmed. Because they have just down there on the bottom right, they've specifically showed Ctrl, Shift buttons,
+
+73
+0:07:33,500 --> 0:07:39,500
+the arrows and they'd sign what the actions on them should be done.
+
+74
+0:07:39,500 --> 0:07:44,500
+They literally had everything there following the same logic. What are these buttons? Why did they choose them?
+
+75
+0:07:44,500 --> 0:07:50,500
+Yeah, it's really a console solution. This is us going back to the first gamepads,
+
+76
+0:07:50,500 --> 0:07:55,500
+where there were two buttons, jump, attack, cross.
+
+77
+0:07:55,500 --> 0:08:01,500
+By the way, as it was on the arcade machines. I mean it's absolutely such an old world idea.
+
+78
+0:08:01,500 --> 0:08:06,500
+But it's an idea that's unkillable. Because when we started doing Motion Control,
+
+79
+0:08:06,500 --> 0:08:13,500
+we found that it was a concept that was easy to put on it. Because Motion Control is just four directions,
+
+80
+0:08:13,500 --> 0:08:18,500
+that you use in the air. So you can press two buttons. We have an idea about
+
+81
+0:08:18,500 --> 0:08:23,500
+to make pure classic Gothic controls as an option. That's exactly the kind of "classic"
+
+82
+0:08:23,500 --> 0:08:29,500
+Motion Control, that is, one Joy-Con, waving in the air, to get through the whole game.
+
+83
+0:08:29,500 --> 0:08:33,500
+Interaction with inventory, in dialogs. Anything can be done.
+
+84
+0:08:33,500 --> 0:08:43,500
+Lutzai: No, you heard the man right! They've really brought Joy-Con Motion Control into the port. Now it's practically a game for all type of players on Nintendo now.
+
+85
+0:08:43,500 --> 0:08:51,500
+[Gleb Shelkoudenko. Elverils Game Designer] I have a major question: why is there Motion in Gothic 1? Who came up with it? Who put that in?
+
+86
+0:08:51,500 --> 0:08:57,500
+Gleb Shelkoudenko: Actually I still keep asking myself the same question. Because in general, it was a completely experimental initiative that our
+
+87
+0:08:57,500 --> 0:09:03,500
+programmer Alexander realized simply because he could. There was a willful decision to show this
+
+88
+0:09:03,500 --> 0:09:10,500
+to our chief on the publisher's side, and he liked it quite unexpectedly.
+
+89
+0:09:10,500 --> 0:09:15,500
+And he said: "you can make it a feature now." And we didn't breathe out
+
+90
+0:09:15,500 --> 0:09:19,500
+easily at all, because it was already a bit of a challenge.
+
+91
+0:09:19,500 --> 0:09:28,500
+Lutzai: what can I do here with Motion? Gleb: Actually, all interaction with Motion's is limited only by the weapon. It is enough, basically,
+
+92
+0:09:28,500 --> 0:09:34,500
+I was initially very skeptical of the idea. When the goal was to get it to some sort of near playable state.
+
+93
+0:09:34,500 --> 0:09:41,000
+Simply because in my experience, I can't think of a single hardcore game where Motion controls
+
+94
+0:09:41,500 --> 0:09:48,500
+looked like a really relevant feature, rather than something like: let us just show you how our technology works.
+
+95
+0:09:48,500 --> 0:09:52,500
+Lutzai: There's a gamepad, it's like it's always been there. And basically Motion probably
+
+96
+0:09:52,500 --> 0:09:58,500
+makes sense in this system where you do these swinging things around. But the only thing is that it's very conventional anyway.
+
+97
+0:09:58,500 --> 0:10:06,500
+Gleb: It's interesting that when we started to test it in practice, it turned out that the dynamics of Gothic gameplay in general, and combat in particular,
+
+98
+0:10:06,500 --> 0:10:10,500
+it oddly enough, and in general, fits into this concept. And it even works in some places.
+
+99
+0:10:10,500 --> 0:10:13,500
+At least if you know exactly how it interacts.
+
+100
+0:10:13,500 --> 0:10:22,500
+Lutzai: This Motion is specific too, as the normal controls here! Kind of hardcore. [Laughter] I can't hit it!
+
+101
+0:10:22,500 --> 0:10:25,500
+Глеб: Gleb: Basically, any even the most shitty implemented Motion can be simply... Lutzai: You try it.
+
+102
+0:10:25,500 --> 0:10:31,500
+Gleb: justify that... Lutzai: The game is too hardcore. Gleb: Yeah, we've paid tribute to that.
+
+103
+0:10:31,500 --> 0:10:37,500
+Lutzai: Yes, keeping continuity to the original gameplay and its unfriendliness.
+
+104
+0:10:37,500 --> 0:10:43,500
+Lutzai: Did you modernize the combat in any way? Changed maybe the pace, the balance?
+
+105
+0:10:43,500 --> 0:10:49,500
+Konstantin: We are working on the combat and we will continue to work on it. Right now we are working on the focus, so we have a normal
+
+106
+0:10:49,500 --> 0:10:54,500
+autofocus and targeting. Because players are complaining and basically we need to refine it.
+
+107
+0:10:54,500 --> 0:11:00,500
+We've done a mix of classic combat
+
+108
+0:11:00,500 --> 0:11:07,500
+and the modern one. That is, you can attack by clicking the enemy and, by pressing the action, you can fence.
+
+109
+0:11:07,500 --> 0:11:13,500
+We've made it so that you can both stagger and jump back. So we've split that moment.
+
+110
+0:11:13,500 --> 0:11:18,500
+It used to be kind of merged, meaning you could only jump back. The fencing mechanics is developed,
+
+111
+0:11:18,500 --> 0:11:25,500
+and it was even more developed in the alpha build. I, for example, have a dream of bringing back side tumbling from the alpha build.
+
+112
+0:11:25,500 --> 0:11:31,500
+Now, people will probably say "well you're already making Dark Souls out of Gothic". But actually Gothic was like that from the beginning.
+
+113
+0:11:31,500 --> 0:11:36,500
+So the battles were dynamic and that's what it is now, these kind of left-to-right drifts,
+
+114
+0:11:36,500 --> 0:11:42,500
+these ridiculous steps - back then they were full-fledged rolls.
+
+115
+0:11:42,500 --> 0:11:49,500
+[Irina Starygina. QA-engineer at Elverils] The work on Gothic's controls was very curious and interesting. It took quite a good amount of time.
+
+116
+0:11:49,500 --> 0:11:55,500
+We've been surfing the fan sites for this game.
+
+117
+0:11:55,500 --> 0:12:02,500
+We collected comments, we analyzed it all. We made a test control system, we sent it to the Germans.
+
+118
+0:12:02,500 --> 0:12:07,500
+They looked at it, touched it with their hands, gave their opinion. After that, they
+
+119
+0:12:07,500 --> 0:12:14,500
+did a meeting of old players who like Gothic, and they'd listen to what they thought about the controls.
+
+120
+0:12:14,500 --> 0:12:18,500
+So we worked with all that feedback and tried to incorporate it.
+
+121
+0:12:18,500 --> 0:12:24,500
+Луцай: And these "old-players" wanted the controls to be "old-like" too? Or what did they want?
+
+122
+0:12:24,500 --> 0:12:27,500
+Irina: They wanted to keep the identity of the game.
+
+123
+0:12:27,500 --> 0:12:32,500
+I mean, if you love something, you don't like it to be twisted and completely turned into something else.
+
+124
+0:12:32,500 --> 0:12:42,500
+When we were discussing what kind of controls to do and what it should even look like, we had debates about how to fit this "forward and action" thing in.
+
+125
+0:12:42,500 --> 0:12:48,500
+I was talking about how the modern users shouldn't have to suffer so much, and how everything should be with one button.
+
+126
+0:12:48,500 --> 0:12:54,500
+We argued and argued, and then we thought there should be two control systems. So now you're playing the more modern version, like
+
+127
+0:12:54,500 --> 0:12:57,500
+a little bit simplified, which allows you to focus on the story.
+
+128
+0:12:57,500 --> 0:13:03,500
+Lutzai: It's simplified, right? [Laughs] Okay, which one is more Hardcore then?
+
+129
+0:13:03,500 --> 0:13:10,500
+Irina: In the original Gothic, we have three or four keys that you have to press to do one action. And I used to get very angry.
+
+130
+0:13:10,500 --> 0:13:18,500
+Lutzai: So you had an impact on that? Irina: We have a team, we all give our opinion and everyone listens to it.
+
+131
+0:13:18,500 --> 0:13:25,500
+Lutsai: How did they convey to you this task: "Make it so that the old guys like it anyway, and make it mean and hardcore, don't simplify it"?
+
+132
+0:13:25,500 --> 0:13:30,500
+Gleb: It even came to such absurd situations, when the chief from the publishing house side says,
+
+133
+0:13:30,500 --> 0:13:35,500
+that you have to do it like this. "Like this" means literally as it was there 23 years ago.
+
+134
+0:13:35,500 --> 0:13:41,500
+I write him back with a two and a half page tirade of why it shouldn't be done that way, giving him 150 arguments why.
+
+135
+0:13:41,500 --> 0:13:46,500
+But in the end, he's like, "no." Okay, okay.
+
+136
+0:13:46,500 --> 0:13:50,500
+So we keep the [magic] wheel, we keep the three-button berry picking.
+
+137
+0:13:50,500 --> 0:13:57,500
+Lutzai: So basically there was a temptation to kind of "improve the game"? I mean, to make it up to modern standards of some kind?
+
+138
+0:13:57,500 --> 0:14:01,500
+Gleb: People probably don't like Gothic as much as they like who they were,
+
+139
+0:14:01,500 --> 0:14:07,500
+when they played the game. And what they encountered when they played it.
+
+140
+0:14:07,500 --> 0:14:13,500
+Relying on some advice, recommendations, wishes in the major aspects without the presence of which
+
+141
+0:14:13,500 --> 0:14:21,500
+Gothic turns into a literally different game - that's welcome, that's me all the time, but clinging to the
+
+142
+0:14:21,500 --> 0:14:27,500
+preserving every single minor feature, even if it frankly didn't work like much even then,
+
+143
+0:14:27,500 --> 0:14:33,500
+and even more so 20-odd years later. It's like it's not really rational, at least in my mind.
+
+144
+0:14:36,500 --> 0:14:42,500
+Konstantin: UX of games went a little bit the other way. Overall, I don't see that the UX has gotten more user-friendly.
+
+145
+0:14:42,500 --> 0:14:47,500
+It's gotten more complicated because of this logical fragmentation.
+
+146
+0:14:47,500 --> 0:14:53,500
+So you're just shown some random button that's responsible for this. Another random button that's responsible for this.
+
+147
+0:14:53,500 --> 0:15:01,500
+There's no logic. Often I don't get it, what did they actually base the logic of this arrangement of buttons on?
+
+148
+0:15:01,500 --> 0:15:06,500
+What did they want to get out of it? I mean, there's no complete picture.
+
+149
+0:15:06,500 --> 0:15:11,500
+Gothic's approach was cleaner, more logical, and ingenious in that,
+
+150
+0:15:11,500 --> 0:15:18,500
+That you don't even have to memorize button names. You have the four directions. You always know about the four directions.
+
+151
+0:15:18,500 --> 0:15:24,500
+For example, you're interacting with some object. What would it mean "forward", better to say "upward"?
+
+152
+0:15:24,500 --> 0:15:29,500
+What would mean "backwards"? What would "left-right" mean? Your brain will tell you, it's pure association.
+
+153
+0:15:29,500 --> 0:15:35,500
+It doesn't have a name [The scheme says: "L + A - all interactions with the world!"]. You don't need to look at the legend to figure out which button is responsible for what.
+
+154
+0:15:35,500 --> 0:15:42,500
+And it's also different in different places for different things. Gothic didn't have any of that. You just click to interact,
+
+155
+0:15:42,500 --> 0:15:49,500
+and then you associatively choose forward, backward, left, right. Forward is something you have to do, apparently, to use.
+
+156
+0:15:49,500 --> 0:15:54,500
+Back is something to undo, to throw away. Left to right is some options, meaning you're switching something.
+
+157
+0:15:54,500 --> 0:16:02,500
+Your brain is already telling you everything. But there's a high entry threshold there because it's not universally accepted. Here's the thing.
+
+158
+0:16:02,500 --> 0:16:09,500
+It's new at the time, and even now I would call it new. I mean, it's just not mainstream yet, and maybe it won't be.
+
+159
+0:16:09,500 --> 0:16:14,500
+But if it was, there wouldn't be all these problems of how to do this or how to do that.
+
+160
+0:16:20,500 --> 0:16:26,500
+As you may have noticed, I'm shooting in a new location. Yes, I've finally set up my own studio, where
+
+161
+0:16:26,500 --> 0:16:32,500
+I don't interfere with anyone's life and work with my filming and streaming. But it takes a long time to decorate the studio and Im lazy to go somewhere
+
+162
+0:16:32,500 --> 0:16:38,500
+to shop. So I ordered a lot of stuff on Megamarket, because there's a cool one-click delivery option there.
+
+163
+0:16:38,500 --> 0:16:46,500
+For household appliances and electronics there's an awesome cashback up to 60% with bonuses from Sber "Spasibo".
+
+164
+0:16:46,500 --> 0:16:51,500
+I got myself two of these RGB lamps for atmosphere, a light filter on the lens,
+
+165
+0:16:51,500 --> 0:16:58,500
+some surge protectors, and an external 500GB SSD for the camera so that the footage can be written directly to it. And then of course,
+
+166
+0:16:58,500 --> 0:17:04,500
+I'm going to need a coffee machine again. It's not like I'm bringing mine from home. Anyway, the basket was
+
+167
+0:17:04,500 --> 0:17:09,500
+18709 rubles, and I'll get 2147 rubles back in cashback.
+
+168
+0:17:09,500 --> 0:17:15,500
+And this is, for example, a healthy pack of coffee for a month. And you can pay up to 99% with bonuses
+
+169
+0:17:15,500 --> 0:17:21,500
+of the purchase price. And if you order goods at Megamarket with SberPrime and SberPrime+ subscriptions, you will get
+
+170
+0:17:21,500 --> 0:17:27,500
+you'll get even more cashback. Shipping is free, by the way. And like I said, there's click-to-deliver. And what it is: ordering
+
+171
+0:17:27,500 --> 0:17:34,500
+will first be delivered to a Megamarket partner, and you get a notification. Then you call a courier, and he will deliver the order in a period of time from
+
+172
+0:17:34,500 --> 0:17:40,500
+15 minutes. And if it's the first time you're ordering something, enter my promo code "ОСЕНЬТЕХНИКА".
+
+173
+0:17:40,500 --> 0:17:45,500
+And get a discount of 3,000 rubles for an order of 10,000 rubles or more. In general, to
+
+174
+0:17:45,500 --> 0:17:50,500
+buy with comfort and profit go to my link in the description.
+
+175
+0:17:50,500 --> 0:17:53,500
+Lutzai: Would you say that the version that you're working on now is
+
+176
+0:17:53,500 --> 0:18:00,500
+an improved version of what it was, and it's a better state of Gothic than players once played it?
+
+177
+0:18:00,500 --> 0:18:06,500
+Platon: There are a lot of people who watch modern media and who read forums. They like to say:
+
+178
+0:18:06,500 --> 0:18:12,500
+"They took a game from twenty years ago, ported it to Switch, no 60 fps, no raytracing,
+
+179
+0:18:12,500 --> 0:18:20,500
+no shadows. We have modders who can do everything better. What were they doing? It could have been done in, like, a month."
+
+180
+0:18:20,500 --> 0:18:25,500
+Well, that's completely untrue. Because people just don't represent,
+
+181
+0:18:25,500 --> 0:18:31,500
+what it is to really port a modern game. First of all, it's old code.
+
+182
+0:18:31,500 --> 0:18:37,500
+This is C++ code. It's great, it still works, but it's
+
+183
+0:18:37,500 --> 0:18:44,500
+was written for the 32-bit Microsoft Visual Studio 6.0 platform. It's not a super secret. Basically, it's how it is.
+
+184
+0:18:44,500 --> 0:18:50,500
+And most of the old games were written for the old Visual Studio because it was a Windows project. And if it's
+
+185
+0:18:50,500 --> 0:18:57,500
+was a Windows project, then it was using Windows technology. And hardcore Windows technology. And the very first Windows
+
+186
+0:18:57,500 --> 0:19:03,500
+technology that you can call 0 is definitely DirectX technology. DirectX 6 or 7, I honestly don't rememeber right now.
+
+187
+0:19:03,500 --> 0:19:10,500
+But it's the DirectX Fix pipeline, so called. So there were no shaders back then. But there was a Fix pipeline,
+
+188
+0:19:10,500 --> 0:19:15,500
+which was fun, too. So what that means is that putting just Gothic on Switch
+
+189
+0:19:15,500 --> 0:19:21,500
+is impossible. It just won't run. Because Switch doesn't know anything about the Fix pipeline. It's had a shader
+
+190
+0:19:21,500 --> 0:19:28,500
+pipeline for a long time. This is where you have to, yeah, pay tribute to the German
+
+191
+0:19:28,500 --> 0:19:33,500
+punctuality. Here they had everything in the repository just like 20 years ago.
+
+192
+0:19:33,500 --> 0:19:39,500
+Nothing was lost. Nothing was lost, no assets were lost, everything was in place.
+
+193
+0:19:39,500 --> 0:19:45,500
+So we took code that was almost a hundred years old and started working with it.
+
+194
+0:19:47,500 --> 0:19:53,500
+Lutzai: Is this essentially reconstructing the game from scratch? Or a transfer of, shall we say, one environment to another?
+
+195
+0:19:53,500 --> 0:19:58,500
+Plato: Let's put it this way. Everything that needed to be rejuvenated in terms of code is rejuvenated.
+
+196
+0:19:58,500 --> 0:20:04,500
+The game has been brought up to the latest C++ realities. Everything that needed to be rewritten in terms of graphics - rewritten.
+
+197
+0:20:04,500 --> 0:20:10,500
+So completely new rewritten. Everything else about the rest of it, which is
+
+198
+0:20:10,500 --> 0:20:16,500
+primarily scripts, gameplay. Well it is, of course, updated to the controller. Overall
+
+199
+0:20:16,500 --> 0:20:23,500
+the feeling of the world, the change of day and night, the weather, the behavior of NPCs - everything is left as it is.
+
+200
+0:20:28,500 --> 0:20:34,500
+Lutzai: In general, it turns out that the Gothic we love came out not quite the way it was intended. The guys at Elverils for their
+
+201
+0:20:34,500 --> 0:20:40,500
+port studied the alpha build of the game and found a couple of interesting solutions that didn't make it to the release.
+
+202
+0:20:40,500 --> 0:20:45,500
+What else you think was cool in the alpha that didn't make it to the release game,
+
+203
+0:20:45,500 --> 0:20:49,500
+and you suddenly dug this up and you thought, "Wow! That's cool. It's a shame they didn't do that."
+
+204
+0:20:49,500 --> 0:20:54,500
+Konstantin: I really liked the mechanics of throwing objects,
+
+205
+0:20:54,500 --> 0:21:00,500
+because it was originally designed for stealth. It was conceived of you throwing some kind of food to the beasts,
+
+206
+0:21:00,500 --> 0:21:07,500
+they react to it, they move out of the path, you go through. But the thing that struck me the most, of course, was when you kill some kind of
+
+207
+0:21:07,500 --> 0:21:14,500
+mob, you take its body, and you carry it to a much larger mob to distract it with that body. We have
+
+208
+0:21:14,500 --> 0:21:20,500
+an item throwing mechanic. It's about to come out with an update, but nothing changes from those item throws.
+
+209
+0:21:20,500 --> 0:21:23,500
+But in alpha it was one of those cool mechanics.
+
+210
+0:21:27,500 --> 0:21:32,500
+The best port is the one that adds something to the game so you know that, yes, there's your favorite game out there
+
+211
+0:21:32,500 --> 0:21:38,500
+on your favorite platform. But here's some features on the other platform that your original game didn't have.
+
+212
+0:21:38,500 --> 0:21:43,500
+And you're wondering what it would be like if I was going through with some new features.
+
+213
+0:21:43,500 --> 0:21:49,500
+Well in this case, we have the opportunity to implement what Piranha Bytes wanted to implement, but they
+
+214
+0:21:49,500 --> 0:21:54,500
+didn't have enough time, for example. There's modifications, the famous zGamepad.
+
+215
+0:21:54,500 --> 0:21:58,500
+Lutzai: Speaking of which, did you go to them, did you look into those modifications?
+
+216
+0:21:58,500 --> 0:22:01,500
+Konstantin: Of course, yes. We looked at their modification first thing.
+
+217
+0:22:01,500 --> 0:22:09,500
+Well, I can say that they have gone exactly the way of this modernization. Just like this, closer to the modern player.
+
+218
+0:22:09,500 --> 0:22:16,500
+But that would, in our case, in our task, break continuity with the original in terms of
+
+219
+0:22:16,500 --> 0:22:23,500
+the implementation of the action + direction mechanics. Their combat is done differently - it already violates this whole logic.
+
+220
+0:22:23,500 --> 0:22:29,500
+I'm on the contrary inclined to have more of these mechanics in the game. So that players get a sense of how flexible it is.
+
+221
+0:22:33,500 --> 0:22:41,500
+Lutzai: In addition to the strange controls by today's standards, Gothic had a specific interface design that wasn't very comfortable.
+
+222
+0:22:41,500 --> 0:22:45,500
+It was decided to be reimagined from scratch. For example, there's a feature that may be sacrilegious to hardcore gamers
+
+223
+0:22:45,500 --> 0:22:53,500
+thing - a convenient menu of maps. Well, and in addition to that, a lot of things were redrawn under the new experience of use, which made the game more accessible.
+
+224
+0:22:53,500 --> 0:22:59,500
+For example, there is now a modernized equipment menu with a rubric. And it's easy to see what the hero is wearing.
+
+225
+0:22:59,500 --> 0:23:02,500
+Plus a more or less convenient magic wheel.
+
+226
+0:23:07,500 --> 0:23:13,500
+Why did you go for such a minimalistic UI style? I've heard the feedback, by the way.
+
+227
+0:23:13,500 --> 0:23:19,500
+Some people said that it reminds me of MMO stuff like that. Although, on the other hand, I kind of understand that
+
+228
+0:23:19,500 --> 0:23:24,500
+I mean, it's pretty much in keeping with the aesthetic. Somehow it even reminds me of Part 2's interface.
+
+229
+0:23:24,500 --> 0:23:30,500
+[Sofia Demina. UI/UX Elverils Artist] We chose the second part first, because of the commitment to the series and all that.
+
+230
+0:23:30,500 --> 0:23:37,500
+Gothic is a very brutal game, again you can see that very well in the interface of the second part.
+
+231
+0:23:37,500 --> 0:23:44,500
+It's so brutal. It gives you exactly what you need, no more, no less. There was an idea to add a switcher
+
+232
+0:23:44,500 --> 0:23:50,500
+between the interfaces so that maybe somebody would want to go more minimalist, somebody would want to go more fantasy-like.
+
+233
+0:23:50,500 --> 0:23:56,500
+Lutzai: How was the communication built? How do you get tasks set for you? And in what form do you bring them in?
+
+234
+0:23:56,500 --> 0:24:02,500
+Sofia: I was doing different searches, experimenting with how I could present information to the player,
+
+235
+0:24:02,500 --> 0:24:09,500
+whether it suits the client. And generally doing research on the project, reading fan forums.
+
+236
+0:24:09,500 --> 0:24:18,500
+I've probably read everything there is to read. I watched videos, walkthroughs, I mean gameplay: what the player complains about, what they don't.
+
+237
+0:24:18,500 --> 0:24:24,500
+Obviously, I was turning this on at X2 speed, but I had a pretty massive study like that in there.
+
+238
+0:24:24,500 --> 0:24:28,500
+More on fan patches and reviews of those fan patches.
+
+239
+0:24:28,500 --> 0:24:35,500
+It's not enough to do something from a fan, you also have to see how other fans reacted to it: they like it, they don't like it.
+
+240
+0:24:35,500 --> 0:24:40,500
+Irina: There's another thing, you probably noticed. Lutzai: We have two weapons, two weapons to choose from,
+
+241
+0:24:40,500 --> 0:24:45,500
+before you could only have one. So that's kind of convenient, actually. Irina: Yeah, I mean we've always had the standard, this is the long-range and short-range
+
+242
+0:24:45,500 --> 0:24:53,500
+weapon. Now, if you like to swing swords, you can pick two cool blades of your favorite and carry them around.
+
+243
+0:24:53,500 --> 0:25:00,500
+Lutzai: Didn't the guys mind that? Olds who wanted to keep that authenticity, some complexity.
+
+244
+0:25:00,500 --> 0:25:09,500
+Irina: Well, you can probably afford it, especially since we discuss, test and practice all these things.
+
+245
+0:25:09,500 --> 0:25:13,500
+Lutzai: Tell me how you came up with the idea to make two weapons,
+
+246
+0:25:13,500 --> 0:25:18,500
+because it's really more convenient, it's what was missing, and it expands the tactical possibilities.
+
+247
+0:25:18,500 --> 0:25:22,500
+Konstantin: It's just inconvenient when in the inventory there are some individual slots highlighted. You have to look
+
+248
+0:25:22,500 --> 0:25:28,500
+what you have selected, what you don't have selected. The equipment window was needed. And in that window,
+
+249
+0:25:28,500 --> 0:25:34,500
+we have one slot for melee combat and one for long-range. So this is the ranged slot, it's going to be
+
+250
+0:25:34,500 --> 0:25:40,500
+and it's gonna be in the hotbar, and it's gonna be in your eye all the time. So if you're not, let's say, an archer, a crossbowman,
+
+251
+0:25:40,500 --> 0:25:45,500
+you will always have an ampty slot. I thought it looks not so good.
+
+252
+0:25:45,500 --> 0:25:52,500
+That's when the thought was born: what if they were independent? It doesn't matter what you keep in that slot.
+
+253
+0:25:52,500 --> 0:26:00,500
+So we finally implemented that, and it turned out to be really convenient. I've seen on streaming shows how a streamer approaches
+
+254
+0:26:00,500 --> 0:26:07,500
+to the stone golem. He pulls out his sword and then realizes what a mistake that was and remembers he still has his hammer.
+
+255
+0:26:07,500 --> 0:26:13,500
+He gets knocked back, he's got a little bit of health left. He quickly grabs the hammer from the second slot, starts fighting off the golem.
+
+256
+0:26:13,500 --> 0:26:19,500
+and defeats it. That's the game situation, I think it justifies the decision.
+
+257
+0:26:19,500 --> 0:26:26,500
+Lutzai: And roughly how many iterations did your suggestions go through?
+
+258
+0:26:26,500 --> 0:26:34,500
+Sofia: There were about 6 or 8 iterations. They were global rethinks of the interface. I wouldn't say they were super successful.
+
+259
+0:26:34,500 --> 0:26:41,500
+I like that we decided to mostly focus on the original because I like that hard brutality of the original.
+
+260
+0:26:41,500 --> 0:26:48,500
+But in our iterations, we've tried separating the information so that it's more easily presented, or let's say
+
+261
+0:26:48,500 --> 0:26:56,500
+could free up the middle of the screen. Some windows close it when there's no pause active in the game.
+
+262
+0:26:56,500 --> 0:27:00,500
+Lutzai: Why did you decide not to keep the vertical interface?
+
+263
+0:27:00,500 --> 0:27:06,500
+Sophia: Honestly, I love those bars in the inventory. I really wanted to keep them, but the client
+
+264
+0:27:06,500 --> 0:27:12,500
+but he would like the inventory to be like in Gothic 2. But the second Gothic is inconvenient
+
+265
+0:27:12,500 --> 0:27:18,500
+is that it's just a bunch of stuff. I mean, at least the first one is structured. So we combined
+
+266
+0:27:18,500 --> 0:27:23,500
+the structuring from the first one and this big inventory from the second one.
+
+267
+0:27:23,500 --> 0:27:29,500
+I was really afraid that the players wouldn't like this innovation, it seemed kind of wild to me.
+
+268
+0:27:29,500 --> 0:27:35,500
+Honestly? I didn't play Gothic when the time was right. There were other favorite games.
+
+269
+0:27:35,500 --> 0:27:42,500
+Maybe I'm just less familiar with it, but I thought this brutal limitation was kind of cool.
+
+270
+0:27:42,500 --> 0:27:49,500
+You're walking, and you have a bag. There are items in the bag, and you can't get to all of them at once. And it's like
+
+271
+0:27:49,500 --> 0:27:56,500
+limitation. You have to keep track of the management of the items: some to take away, some to leave, and so on.
+
+272
+0:27:56,500 --> 0:27:58,500
+I like that roughness.
+
+273
+0:28:03,500 --> 0:28:08,500
+Working with the fonts - that was certainly something creepy.
+
+274
+0:28:08,500 --> 0:28:10,500
+Lutzai: Why? Were they somehow hard to get them out of there to rework?
+
+275
+0:28:10,500 --> 0:28:16,500
+Sofia: Well, how can I tell you... We have six, I think, languages in there to start with.
+
+276
+0:28:16,500 --> 0:28:23,500
+Thank goodness I didn't have to work with characters for Chinese. So many characters in every language.
+
+277
+0:28:23,500 --> 0:28:29,500
+At the very least let's take English and Russian, that's already 60 pieces there, roughly speaking.
+
+278
+0:28:29,500 --> 0:28:35,500
+And every letter has to be drawn. You have to draw it so that it matches the other letters,
+
+279
+0:28:35,500 --> 0:28:43,500
+so that the text is more or less readable. And it's all quite a lot of complicated work,
+
+280
+0:28:43,500 --> 0:28:51,500
+especially since I don't have a specific background in fonts.
+
+281
+0:28:51,500 --> 0:28:54,500
+Lutzai: Wait, and you know all these languages more or less or how are you familiar with them?
+
+282
+0:28:54,500 --> 0:28:58,500
+Here's what I'm curious about. Since you've been reworking fonts, no?
+
+283
+0:28:58,500 --> 0:29:06,500
+Sophia: Roughly speaking, watching how it just looks in the draft and I've read articles on the subject,
+
+284
+0:29:06,500 --> 0:29:11,500
+and I found a couple books with all kinds of major core impressions.
+
+285
+0:29:11,500 --> 0:29:18,500
+The writing tradition for displaying a character is very important. It kind of defines how that
+
+286
+0:29:18,500 --> 0:29:25,500
+symbol will look like. The simplest example is the letter "N" in English and "И" in Russian.
+
+287
+0:29:25,500 --> 0:29:31,500
+If you just take the "N" and reflect it, it won't look like an "И" trivially because,
+
+288
+0:29:31,500 --> 0:29:39,500
+that there should be different thicknesses there. They were kind of spelled differently in their time. That's why we perceive it differently.
+
+289
+0:29:39,500 --> 0:29:42,500
+She looks like Ominous Valley, like a silly thing.
+
+290
+0:29:42,500 --> 0:29:48,500
+Lutzai: Here's what I'm wondering. How many times do you have to go through a game to get it neatly ported to another platform?
+
+291
+0:29:48,500 --> 0:29:54,500
+In my mind, to rework the user experience and add some new features to such an ancient project
+
+292
+0:29:54,500 --> 0:30:02,500
+you have to take the game apart brick by brick, in reverse order. But is that really the case?
+
+293
+0:30:02,500 --> 0:30:10,500
+Did you go through the whole game with Motion? Who did you make do it? You know, so everybody could test it.
+
+294
+0:30:10,500 --> 0:30:17,500
+Gleb: Irina did most of it. Yeah, she's probably already told you about her hard life.
+
+295
+0:30:17,500 --> 0:30:21,500
+No, no, no. She said to go to you and you tell me everything.
+
+296
+0:30:21,500 --> 0:30:28,500
+Do you actually have to go through the whole game like that to release a feature like that?
+
+297
+0:30:28,500 --> 0:30:32,500
+Gleb: In general yes. Well, at least spend a lot of time testing it at all stages of the game.
+
+298
+0:30:32,500 --> 0:30:37,500
+Because, clearly, the same set of movements, it's at different stages of the game, depending on the hero's pumping,
+
+299
+0:30:37,500 --> 0:30:39,500
+it's gonna feel very different.
+
+300
+0:30:39,500 --> 0:30:44,500
+Lutzai: Tell me, did you invent it or did you master it as well?
+
+301
+0:30:44,500 --> 0:30:49,500
+Gleb: Well it happened, in general, at the same time. We had several prototypes
+
+302
+0:30:48,500 --> 0:30:54,500
+of how it would be realized finally. And each time we implemented each one of them,
+
+303
+0:30:54,500 --> 0:31:00,500
+we've been doing some testing within our team, collecting feedback.
+
+304
+0:31:00,500 --> 0:31:06,500
+And then implemented changes based on that. I'm the kind of game designer who thinks that basically every single
+
+305
+0:31:06,500 --> 0:31:14,500
+developer should be a game designer to the best of their ability. So my work on the project in that regard
+
+306
+0:31:14,500 --> 0:31:18,500
+was more about getting people to cooperate with each other.
+
+307
+0:31:18,500 --> 0:31:25,500
+And just the fact that I probably have as much Gothic experience as all the other guys on our team combined.
+
+308
+0:31:25,500 --> 0:31:29,500
+In the last six months I've probably spent 200 hours in the first one alone.
+
+309
+0:31:29,500 --> 0:31:33,500
+Irina: I haven't counted. It's definitely more than 100 times. Lutzai: Really?
+
+310
+0:31:33,500 --> 0:31:38,500
+Irina: Maybe even more than that. I mean when I'm testing I'm not playing the game,
+
+311
+0:31:38,500 --> 0:31:46,500
+and that's a little bit different. It's the other way around, I'm testing something, playing something, practicing something.
+
+312
+0:31:46,500 --> 0:31:51,500
+I already have some idea where it might break and I'm going through those places.
+
+313
+0:31:51,500 --> 0:31:57,500
+I feel like a detective trying to find the guilty person behind some kind of breakdown.
+
+314
+0:31:57,500 --> 0:32:07,500
+While testing Gothic, we got close. And we started making Gothic jokes. Lutzai: About Gomez, yeah, I heard that.
+
+315
+0:32:07,500 --> 0:32:13,500
+Irina: There's a funny thing in the second one, when you drink the curse-removing potion,
+
+316
+0:32:13,500 --> 0:32:19,500
+and it says, "You feel relieved." Every time I go on vacation, I send that picture.
+
+317
+0:32:19,500 --> 0:32:27,500
+Sophia: Honestly, I've only replayed Gothic once. Because I've watched quite a lot of
+
+318
+0:32:27,500 --> 0:32:34,500
+streams where someone's playing. So I was mostly focused on the interface there.
+
+319
+0:32:34,500 --> 0:32:38,500
+And I played myself to understand the player experience within the game.
+
+320
+0:32:38,500 --> 0:32:41,500
+Lutzai: I think it's hard to understand that from streams. Or am I wrong about that?
+
+321
+0:32:41,500 --> 0:32:46,500
+Sofia: No, it's true. You're making all the right points. But I had Gothic as more than one project.
+
+322
+0:32:46,500 --> 0:32:52,500
+So I didn't have enough time for multiple playthroughs, but one was generally enough for me.
+
+323
+0:32:52,500 --> 0:32:57,500
+I think that's enough for me. Gothic isn't the smallest game after all.
+
+324
+0:32:57,500 --> 0:33:03,500
+And as you go through, you face challenges and understand the nuances of the controls.
+
+325
+0:33:03,500 --> 0:33:07,500
+[Eugene Grigorchuk. BG3 project manager on Mac] Lutzai: Wait a minute. So you were in charge of porting... Eugene Grigorchuk: Yeah.
+
+326
+0:33:07,500 --> 0:33:09,500
+Lutzai: But you didn't play Baldur's Gate? Eugene: Not at all.
+
+327
+0:33:09,500 --> 0:33:11,500
+Lutskai: How does it work? Eugene: It's very simple.
+
+328
+0:33:11,500 --> 0:33:17,500
+Lutzai: So it's kind of unnecessary, right? Eugene: Yeah. So I haven't really played ELEX either. Here's the story I have.
+
+329
+0:33:17,500 --> 0:33:23,500
+I got through DOS 2, I think, until the first act. Then things got busy.
+
+330
+0:33:23,500 --> 0:33:30,500
+Then I started working. And I actually have 780 hours of Divinity on my Steam profile.
+
+331
+0:33:30,500 --> 0:33:35,500
+It's one of my most played games. I don't know anything about it.
+
+332
+0:33:35,500 --> 0:33:41,500
+They tell me like this, roughly: there's a location, there's a problem on it, it needs to be fixed. I load the location and that's it.
+
+333
+0:33:41,500 --> 0:33:47,500
+Usually with quests, it's just you press a combination, roughly, of keys 1-3-4.
+
+334
+0:33:47,500 --> 0:33:54,500
+It starts a cutscene, the right cutscene. And this is a cutscene, let's say it has graphical artifacts, I do a captcha right away
+
+335
+0:33:54,500 --> 0:33:58,500
+and I start watching it. And that's it. I have no idea at all what...
+
+336
+0:33:58,500 --> 0:34:02,500
+Lutzai: So those are basically a list, specifically these tasks with the moments where to look for them, you're already correcting them. Eugene: Yeah, yeah.
+
+337
+0:34:02,500 --> 0:34:08,500
+Lutzai: And you're not very interested in these games yourself? Eugene: Baldur's Gate or all of them?
+
+338
+0:34:08,500 --> 0:34:11,500
+Lutsai: Well basically ELEX, Baldur's Gate, you know, what you're porting.
+
+339
+0:34:11,500 --> 0:34:22,500
+Eugene: I think I've seen all the locations in Baldur's Gate. I think... I don't know, I've seen a million of them and somehow... I'm just getting bored with it.
+
+340
+0:34:22,500 --> 0:34:26,500
+Because you're with this 24-7 game. And you come home at night,
+
+341
+0:34:26,500 --> 0:34:31,500
+and you're like, "Man, I wish I had 10 more hours to look at the same thing."
+
+342
+0:34:31,500 --> 0:34:37,500
+Lutzai: All right, come on, show some skill. You know these mechanics like the back of your hand.
+
+343
+0:34:40,500 --> 0:34:45,500
+Well you showed him, yeah. Very good.
+
+344
+0:34:45,500 --> 0:34:55,500
+No, that was impressive. All right, don't bother. Somebody's gonna do it for sure. On the mats, they're going to go through the...
+
+345
+0:34:55,500 --> 0:34:58,500
+Gleb: He'll thank you, yeah. Lutzai: Yes! That's actually a reason to do a challenge.
+
+346
+0:34:58,500 --> 0:35:03,500
+In the game:"Your blood! Don't do it again."
+
+347
+0:35:03,500 --> 0:35:10,500
+Lutzai: What is the uniqueness of Gothic's design in your opinion?
+
+348
+0:35:10,500 --> 0:35:14,500
+Reinhard: We really put a lot of thought into it when we started working on the Gothic 1 Remake.
+
+349
+0:35:14,500 --> 0:35:20,500
+The game has a certain atmosphere because of the way the world and the characters are designed. And the main feature of the game
+
+350
+0:35:20,500 --> 0:35:28,500
+is that it doesn't manipulate you for the sake of keeping you, but it prioritizes player agentivity.
+
+351
+0:35:28,500 --> 0:35:36,500
+So the player's decisions matter. And he needs to interact with the world to make sense of what's going on.
+
+352
+0:35:36,500 --> 0:35:43,500
+The same thing applies to the simulation of a world where every NPC has their own routines and their own activities that
+
+353
+0:35:43,500 --> 0:35:52,500
+fill that world with life. I think that's one of the main reasons why these games were so popular and unique.
+
+354
+0:35:56,500 --> 0:36:02,500
+Lutzai: But where does the agentivity of Gothic come from? And the completely unconventional approach to even some of the
+
+355
+0:36:02,500 --> 0:36:09,500
+little things that make the game handle and feel differently than other games. You hear the phrase quite often nowadays,
+
+356
+0:36:09,500 --> 0:36:15,500
+that Unreal games feel the same. Or, "These guys should change their engine, otherwise their future games
+
+357
+0:36:15,500 --> 0:36:20,500
+will stop developing. And the heroes of this issue have an interesting point of view on this matter.
+
+358
+0:36:20,500 --> 0:36:27,500
+Why, in these times of technical limitations, could they make such an elaborate one on different levels
+
+359
+0:36:27,500 --> 0:36:33,500
+game where a large number of all sorts of systems worked. Again, as you rightly said, a closed world, but
+
+360
+0:36:33,500 --> 0:36:39,500
+that felt alive. Why did something like that stop being done afterward? It's like there's no examples.
+
+361
+0:36:39,500 --> 0:36:45,500
+Platon: I wonder about that myself. This is one of the topics that we often talk about with Mr. Reinhard.
+
+362
+0:36:45,500 --> 0:36:51,500
+How is it that here Gothic was able to do that? I know how Gothic works, I know what's in there,
+
+363
+0:36:51,500 --> 0:36:57,500
+like, 50% of the game is scripting, yeah. That's no secret either. 50% of the game is scripting in a very advanced language,
+
+364
+0:36:57,500 --> 0:37:02,500
+which, by the way, is the crown jewel of Gothic, no doubt about it.
+
+365
+0:37:02,500 --> 0:37:09,500
+The local scripting language, Dedaulus it's called. I believe the colleagues at Piranha Bytes
+
+366
+0:37:09,500 --> 0:37:14,500
+had a real epiphany. It was... well maybe it was from above, yeah.
+
+367
+0:37:14,500 --> 0:37:20,500
+How delicate the player was being led to some things: when he was looking for that crossbow,
+
+368
+0:37:20,500 --> 0:37:27,500
+a classic example from your own video, I think. That famous one with the Chromanin. Even when I was playing,
+
+369
+0:37:27,500 --> 0:37:33,500
+I felt like I was totally involved in the whole thing. And I guess the guys at that time were very good and
+
+370
+0:37:33,500 --> 0:37:40,500
+strongly thought it through. And also, probably, I think probably in those days people weren't afraid to say you have to do it this way.
+
+371
+0:37:40,500 --> 0:37:48,500
+Like I want that when I'm running and there's a herd of wolves hovering behind me, all sheep
+
+372
+0:37:48,500 --> 0:37:53,500
+would run away and the NPCs with axes would lunge at the wolves. And the wolves would start running away,
+
+373
+0:37:53,500 --> 0:38:00,500
+and they'd run into the houses and they'd attack the locals. And nobody ever said, "Oh, that's too hard,
+
+374
+0:38:00,500 --> 0:38:03,500
+You've got to build a neural network." Everybody just sat there and did it.
+
+375
+0:38:03,500 --> 0:38:09,500
+And sometimes using simple old methods. Roughly speaking, if a wolf sees a hut,
+
+376
+0:38:09,500 --> 0:38:14,500
+then run into the hut. There you go. Of course, Gothic can be breached, and there's no
+
+377
+0:38:14,500 --> 0:38:20,500
+super-praised AI inside. But the way the AI is done is still a head above,
+
+378
+0:38:20,500 --> 0:38:27,500
+than it is in today's reality. I think it's very useful for the younger generation to see,
+
+379
+0:38:27,500 --> 0:38:32,500
+an example of how the old Gothic works, how games can be made.
+
+380
+0:38:34,500 --> 0:38:38,500
+Konstantine: When I look at Gothic's code, I don't see anything complicated about it.
+
+381
+0:38:38,500 --> 0:38:45,500
+Even later on, Piranha Bytes' code became more complicated, they became more professional, and this simplicity
+
+382
+0:38:45,500 --> 0:38:51,500
+has gone a little bit. I think it's such a unique moment when a new rock band is born and they have a
+
+383
+0:38:51,500 --> 0:38:57,500
+first album. They are so fresh, trying everything, interested in everything.
+
+384
+0:38:57,500 --> 0:39:04,500
+And in that moment, with literally simple tools, they create a masterpiece. It's the same here. Guys with ambition,
+
+385
+0:39:04,500 --> 0:39:11,500
+they didn't put any blocks, any limits on themselves. They just did whatever they wanted to do. Yeah, then the publisher put those restrictions,
+
+386
+0:39:11,500 --> 0:39:16,500
+and they had to cut something out. But the energy of this young rock band, you can feel it in Piranha. Even if we
+
+387
+0:39:16,500 --> 0:39:23,500
+look at some of their early pictures. It's just, I don't know, Metallica! They have such drive.
+
+388
+0:39:25,500 --> 0:39:35,500
+What's special about their engine is that the entire terrain is rendered polygonally.
+
+389
+0:39:35,500 --> 0:39:37,500
+This is not very good from an optimization point of view.
+
+390
+0:39:37,500 --> 0:39:44,500
+But in terms of the logic of the world, how they laid that logic down, it makes it feel of the world,
+
+391
+0:39:44,500 --> 0:39:52,500
+That it's really so composite. It's like a constructor is made. We can see that in the textures,
+
+392
+0:39:52,500 --> 0:39:58,500
+we can see it in the way the parts of the world are built in. The forests are quite elegantly done,
+
+393
+0:39:58,500 --> 0:40:04,500
+which are actually enclosed rooms. They're literally rooms that you walk into.
+
+394
+0:40:04,500 --> 0:40:09,500
+So they don't have anything mediocre. They have something that's all their own, unique, special.
+
+395
+0:40:09,500 --> 0:40:14,500
+They've left such courage in every decision they've made.
+
+396
+0:40:14,500 --> 0:40:20,500
+Eugene: ELEX was written by about five people, as for the rendering, I think it was either five or three. And all the guys were
+
+397
+0:40:20,500 --> 0:40:26,500
+ultra smart. You can just see it in their code. You see the code, you see how it's written. You realize, if you want
+
+398
+0:40:26,500 --> 0:40:33,500
+to port this project, you can even not touch certain files at all. It's amazing. They're so
+
+399
+0:40:33,500 --> 0:40:41,500
+overflowing in their knowledge of writing code that they did a plus or minus perfect rendering, to be honest.
+
+400
+0:40:41,500 --> 0:40:44,500
+Lutzai: Do you enjoy on the tasks themselves, the code itself? The way it's done? Evgeny: From the code itself, yes.
+
+401
+0:40:44,500 --> 0:40:50,500
+I spent most of ELEX'a in twenty files or so.
+
+402
+0:40:50,500 --> 0:40:57,500
+I kind of knew them by heart and so on. And that's basically how the rendering itself works, you know,
+
+403
+0:40:57,500 --> 0:41:00,500
+that it's pretty awesome.
+
+404
+0:41:01,500 --> 0:41:05,500
+Lutzai: As you've realized, Piranha Bytes at one time tried to make everything from scratch,
+
+405
+0:41:05,500 --> 0:41:10,500
+without which we might not have gotten these unique games. But there's a downside.
+
+406
+0:41:09,500 --> 0:41:16,500
+Some projects from the noughties have been locked into specific platforms because of this approach, making the gaming experience
+
+407
+0:41:16,500 --> 0:41:22,500
+of console and PC players differed dramatically. Even that they couldn't get to know the classics
+
+408
+0:41:22,500 --> 0:41:28,500
+from a different platform. And even years later, this situation is not easily changeable. And some projects may not be able to
+
+409
+0:41:28,500 --> 0:41:30,500
+come back to life.
+
+410
+0:41:30,500 --> 0:41:34,500
+Does a game like this, even though it's on Switch, still need to be optimized?
+
+411
+0:41:34,500 --> 0:41:39,500
+Platon: Gothic is a very unoptimized game. It's a hell of an unoptimized game.
+
+412
+0:41:39,500 --> 0:41:47,500
+We've been thinking about this for a very long time. Gothic 1 on Switch the first day we launched it,
+
+413
+0:41:47,500 --> 0:41:52,500
+in the world it was nine frames per second. Nine frames because
+
+414
+0:41:52,500 --> 0:41:59,500
+of the CPU eating everything. If we compare the history of CPU growth,
+
+415
+0:41:59,500 --> 0:42:04,500
+their performance on a PC, we see that we had single-core configurations first,
+
+416
+0:42:04,500 --> 0:42:11,500
+that were going up in frequency very quickly. We'll remember these pentiums right here.
+
+417
+0:42:11,500 --> 0:42:15,500
+And if we look at the time when Gothic came out, it was the heyday of single core systems.
+
+418
+0:42:15,500 --> 0:42:22,500
+They had to have a lot of purity, they ran pretty fast. But the game was not multithreaded at all.
+
+419
+0:42:22,500 --> 0:42:28,500
+So it didn't talk about any multithreaded stuff at all, not at all.
+
+420
+0:42:28,500 --> 0:42:31,500
+Actually, Gothic is based on the Quake engine. A la Quake.
+
+421
+0:42:31,500 --> 0:42:38,500
+The game takes, it bites the triangles. In fact, the whole world is made of triangles in computer graphics.
+
+422
+0:42:38,500 --> 0:42:44,500
+It's nibbling on triangles that don't fit on the screen. And it goes through a giant tree quite quickly.
+
+423
+0:42:44,500 --> 0:42:48,500
+And the CPU has enough power to to get around all
+
+424
+0:42:48,500 --> 0:42:55,500
+these triangles fast that it throws at the video card. That approach is not applicable in a modern video card.
+
+425
+0:42:55,500 --> 0:43:00,500
+We can't throw a huge amount of geometry into the video card every frame.
+
+426
+0:43:00,500 --> 0:43:06,500
+It's just kind of outdated. And modern graphics cards are optimized for something else.
+
+427
+0:43:06,500 --> 0:43:10,500
+They're optimized that the geometry lies on top of them. We were shocked.
+
+428
+0:43:10,500 --> 0:43:20,500
+The game spent all its time doing tree avoidance, clipping triangles, working with AI and all that.
+
+429
+0:43:20,500 --> 0:43:25,500
+And naturally on that same thread, on that same process, she was loading its resources.
+
+430
+0:43:25,500 --> 0:43:31,500
+So the program was immediately clear - rewrite.
+
+431
+0:43:31,500 --> 0:43:37,500
+Rewrite and parallelize as many things as possible. First, understandably,
+
+432
+0:43:37,500 --> 0:43:44,500
+things that are obviously subject to parallelization are resource loading and sound.
+
+433
+0:43:44,500 --> 0:43:53,500
+Well then beyond that, so far we've been working on making the approach to rendering in Gothic really different.
+
+434
+0:43:53,500 --> 0:43:57,500
+[Rostislav Mikheev. Elverils Lead Graphics Engineer] So let's say you get your dose of some of that satisfaction when you are
+
+435
+0:43:57,500 --> 0:44:04,500
+solving these problems anyway. And you find a bunch of these bugs along with it.
+
+436
+0:44:01,500 --> 0:44:07,500
+You say, "Holy cow, how did people even manage to write this in their time?"
+
+437
+0:44:07,500 --> 0:44:13,500
+There's always some offsets in memory through manual calculations
+
+438
+0:44:13,500 --> 0:44:19,500
+of some magical numbers: something is adding up and trying to get somewhere. And you realize it's not going to be at all
+
+439
+0:44:19,500 --> 0:44:26,500
+work ever again. That's unrealistic on a CPU nowadays. So there's a thrill in it all.
+
+440
+0:44:29,500 --> 0:44:35,500
+Lutzai: Did you remaster the soundtrack of the original Gothic? Did Kai Rosenkranz himself do that?
+
+441
+0:44:35,500 --> 0:44:42,500
+Reinhard: Kai Rosenkranz created the original soundtrack. He consulted with the developers of Gothic Classic, as the
+
+442
+0:44:42,500 --> 0:44:49,500
+technically the music and the soundtrack is done in a very strange way. It's different from other games that work with MP3 or WAV
+
+443
+0:44:49,500 --> 0:44:57,500
+files that are played in the background and then dynamically mixed with other files. There is no such synchronization here.
+
+444
+0:44:57,500 --> 0:45:04,500
+There's a melody and a score, and then the music is played on the fly by virtual instruments. And in the actual
+
+445
+0:45:04,500 --> 0:45:10,500
+original PC version of Gothic an outdated DirectX library called DirectX is used
+
+446
+0:45:10,500 --> 0:45:18,500
+This technology is a thing of the past. So we had to recreate a similar playback logic, and Kai played
+
+447
+0:45:18,500 --> 0:45:24,500
+a huge role in that. Making sure everything sounded right. We still have some problems with the technology.
+
+448
+0:45:24,500 --> 0:45:33,500
+For example, sometimes there are not smooth transitions. And yes, on top of that, Kai Rosenkranz is a member of the Alkimia Interactive team,
+
+449
+0:45:33,500 --> 0:45:37,500
+that's working on the Remake. So in all the trailers and stuff that we're releasing,
+
+450
+0:45:37,500 --> 0:45:43,500
+he's the driving force and the real maestro of sound that's doing all of this.
+
+451
+0:45:46,500 --> 0:45:50,500
+Platon: The structure of the music file, it's known.
+
+452
+0:45:50,500 --> 0:45:54,500
+We can clearly understand it, how the music file is structured.
+
+453
+0:45:54,500 --> 0:46:01,500
+Then the instruments from which the music of the Gothic itself is formed. We can isolate the instruments.
+
+454
+0:46:01,500 --> 0:46:10,500
+We can convert them into a format that we're comfortable with for Switch. We've done that. And then we need to do the synthesizer.
+
+455
+0:46:10,500 --> 0:46:15,500
+A little software synthesizer. It used to be very popular. The kind of music that plays in Gothic on Switch
+
+456
+0:46:15,500 --> 0:46:21,500
+is completely, completely different from the music that plays on Windows. Although it is similar, very similar,
+
+457
+0:46:21,500 --> 0:46:25,500
+because we've tried to make it as similar as possible. But there's still room for improvement.
+
+458
+0:46:28,500 --> 0:46:34,500
+Lutzai: As a player, this is a pretty frustrating topic for me. If you watched my video about sound in games, for example.
+
+459
+0:46:34,500 --> 0:46:41,500
+Thief series, you'll remember that I talked about using the same EAX technology that Platon mentioned in the beginning
+
+460
+0:46:41,500 --> 0:46:47,500
+of the video. There, it was used to navigate the level without a map or any locators. But unfortunately,
+
+461
+0:46:47,500 --> 0:46:53,500
+the development culture now is set up so that instead of preserving and developing the really cool technologies which
+
+462
+0:46:53,500 --> 0:46:59,500
+give a unique gaming experience, the industry is trying to optimize and cheapen the processes with unified
+
+463
+0:46:59,500 --> 0:47:06,500
+engines with off-the-shelf solutions. That's great, I guess. But you end up with an average toolkit because of which,
+
+464
+0:47:06,500 --> 0:47:14,500
+in my opinion, it's less and less likely that you're going to get a wow effect from games. And against that backdrop, ancient projects feel fresh.
+
+465
+0:47:14,500 --> 0:47:20,500
+Konstantin: Because technology is becoming unified, a different paradigm starts to prevail.
+
+466
+0:47:20,500 --> 0:47:27,500
+You don't need to do everything yourself. You just need to utilize what's available to everybody.
+
+467
+0:47:27,500 --> 0:47:34,500
+And you end up in a situation where you're trying to build something unique from a publicly available constructor.
+
+468
+0:47:34,500 --> 0:47:40,500
+Yeah, the constructor can let you do some unique things, but that uniqueness is limited
+
+469
+0:47:40,500 --> 0:47:43,500
+not only by the constructor itself, but by the list of things that you can make with it.
+
+470
+0:47:43,500 --> 0:47:49,500
+We got into a sort of confined box where we explored everything pretty quickly.
+
+471
+0:47:49,500 --> 0:47:55,500
+It's still the same aquarium that you're put in and you can't go outside of it. And so when I, for example,
+
+472
+0:47:55,500 --> 0:48:00,500
+when I start Gothic, first of all, I have this amazing feeling that I'm not in this aquarium.
+
+473
+0:48:00,500 --> 0:48:06,500
+I'm somewhere outside. Creativity basically starts with a technical solution. The Piranhas had exactly that.
+
+474
+0:48:06,500 --> 0:48:12,500
+And I think that's the secret to success, that you're consistent not from some stage:
+
+475
+0:48:12,500 --> 0:48:19,500
+now I'm just going to take what I've got, and now I'm going to do something individual. But when you
+
+476
+0:48:19,500 --> 0:48:26,500
+individualized at all from the beginning. That's exactly the lost path that gamemade needs right now.
+
+477
+0:48:26,500 --> 0:48:35,500
+[Authors: Alexei Lutzai, Konstantin Timofeev. Editing, photography: Alexei Lutzai]
+
+478
+0:48:35,500 --> 0:48:38,500
+[Starfield post credits] Rostislav: it's a very interesting story. We once at one time,
+
+479
+0:48:38,500 --> 0:48:46,500
+in between, we worked with someone who was known in GPU circles, Wolfgang Engel.
+
+480
+0:48:46,500 --> 0:48:54,500
+GPU Gems he wrote books that just taught people how to write modern graphics.
+
+481
+0:48:54,500 --> 0:49:00,500
+Platon: For GPU programmers he is a god. Rostislav: Well, I guess so.
+
+482
+0:49:00,500 --> 0:49:05,500
+Here, and he was developing his own graphics solution. It was called The Forge. We worked with him once,
+
+483
+0:49:05,500 --> 0:49:12,500
+worked with him, and then we finished. We put a lot of stuff in there for Mac. Platon: And for Switch even. Rostislav: We were also putting something for Switch.
+
+484
+0:49:12,500 --> 0:49:20,500
+Wolfgang and I parted on some condition that we had some difficulties with time, and he was not happy with it.
+
+485
+0:49:20,500 --> 0:49:29,500
+And they made a game on it afterward, hack-n-slash. Plato: Hades. Rostislav: Hades, right. Platon: Thank you.
+
+486
+0:49:29,500 --> 0:49:38,500
+And then they did a render for No Man's Sky on it. And then they did a render for Starfield on it as well.
+
+487
+0:49:38,500 --> 0:49:41,500
+So the story is that yes, in Starfield and No Man's Sky there is
+
+488
+0:49:41,500 --> 0:49:46,500
+a graphical piece of The Forge that's actually the same render.
+
+489
+0:49:46,500 --> 0:49:55,500
+And there's still bits of our code in there somewhere. Platon: It's funny that Bethesda obviously didn't make a Mac version.
+
+490
+0:49:55,500 --> 0:50:00,500
+I opened No Man's Sky, and what did I find inside? My work that I was writing.
+
+491
+0:50:00,500 --> 0:50:06,500
+Rostislav: Ah, yes, this one is a window creator. Lutzai: It's funny that Starfield gets blamed for this,
+
+492
+0:50:06,500 --> 0:50:13,500
+that No Man's Sky did pretty well. So they actually have more kinship than they might seem.
+
+493
+0:50:13,500 --> 0:50:18,500
+Rostislav: Well, assuming that No Man's Sky was on iOS or Mac,
+
+494
+0:50:18,500 --> 0:50:22,500
+But then it's kind of, as I understand it, they kind of absorbed it more there. But that's, unfortunately,
+
+495
+0:50:22,500 --> 0:50:25,500
+I can't say for sure anymore. But they have a certain kinship, sure.
+
+496
+0:50:25,500 --> 0:50:27,500
+Platon: Yes, it's funny, funny. Rostislav: That's the story.
