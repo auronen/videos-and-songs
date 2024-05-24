@@ -8,7 +8,7 @@ not too cool. Nowadays the term "multiplatform" is used more often. A game comes
 
 3
 00:00:14,500 --> 00:00:19,500
-But imagine one of the major native PC games, and specifically Gothic,
+But imagine one of the major native PC games, Gothic,
 
 4
 00:00:19,500 --> 00:00:25,500
@@ -32,15 +32,15 @@ They were originally the first open St. Petersburg office of Larian. They also m
 
 9
 00:00:53,500 --> 00:00:59,500
-like Risen on Switch and Mac, Elex 2 on Mac. They were the ones who released the updated version of the first Gothic on Switch, which
+like Risen on Switch and Mac, Elex 2 on Mac. They were the ones who released the updated version of the first Gothic on Switch, which is what
 
 10
 00:00:59,500 --> 00:01:07,500
-which we will discuss. By the way, THQ has already announced a second part for Switch, and it's also being made by the guys at Elverils. If you're into this format,
+we're gonna discuss. By the way, THQ has already announced a second part for Switch, and it's also being made by the guys at Elverils. If you like this
 
 11
 00:01:07,500 --> 00:01:12,500
-please be sure to give it a like so I can keep it going.
+format, please be sure to give it a like, so I can keep it going.
 
 12
 00:01:12,500 --> 00:01:18,500
@@ -1981,3 +1981,4 @@ I can't say for sure anymore. But they have a certain kinship, sure.
 496
 00:50:25,500 --> 00:50:27,500
 Platon: Yes, it's funny, funny. Rostislav: That's the story.
+
