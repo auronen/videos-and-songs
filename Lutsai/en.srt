@@ -132,7 +132,7 @@ in the description or QR code. And my promo code "LVCAI" will be 45% off.
 
 34
 00:03:34,500 --> 00:03:39,500
-Lutzai: What are some of the things that have changed that are visible at the 1st glance?
+Lutsai: What are some of the things that have changed that are visible at the 1st glance?
 
 35
 00:03:39,500 --> 00:03:47,500
@@ -180,7 +180,7 @@ when the Switch is in your hand and when the Switch is in the TV. Diego: "We'll 
 
 46
 00:04:54,500 --> 00:04:59,500
-Lutzai: Gothic is 20 years old now. There are a lot of archaic decisions in the game.
+Lutsai: Gothic is 20 years old now. There are a lot of archaic decisions in the game.
 
 47
 00:04:59,500 --> 00:05:06,500
@@ -224,7 +224,7 @@ We know that Gothic has a large community, so our goal is to give them what they
 
 57
 00:06:02,500 --> 00:06:04,500
-Lutzai: A couple years ago in my video about Gothic
+Lutsai: A couple years ago in my video about Gothic
 
 58
 00:06:04,500 --> 00:06:09,500
@@ -248,7 +248,7 @@ But here's what I learned from Gothic Classic's UX designer Konstantin.
 
 63
 00:06:25,500 --> 00:06:36,500
-Lutzai: You know, despite the fact that in the video I said about the console control, I mean there was basically the feeling of fighting and a lot of things were
+Lutsai: You know, despite the fact that in the video I said about the console control, I mean there was basically the feeling of fighting and a lot of things were
 
 64
 00:06:36,500 --> 00:06:43,500
@@ -264,7 +264,7 @@ and found some confirmations in different sources. But I'm not 100 percent sure 
 
 67
 00:06:58,500 --> 00:07:02,500
-Lutzai: Almost like a random guess, but it turns out there is such information.
+Lutsai: Almost like a random guess, but it turns out there is such information.
 
 68
 00:07:02,500 --> 00:07:10,500
@@ -332,7 +332,7 @@ Interaction with inventory, in dialogs. Anything can be done.
 
 84
 00:08:33,500 --> 00:08:43,500
-Lutzai: No, you heard the man right! They've really brought Joy-Con Motion Control into the port. Now it's practically a game for all type of players on Nintendo now.
+Lutsai: No, you heard the man right! They've really brought Joy-Con Motion Control into the port. Now it's practically a game for all type of players on Nintendo now.
 
 85
 00:08:43,500 --> 00:08:51,500
@@ -360,7 +360,7 @@ easily at all, because it was already a bit of a challenge.
 
 91
 00:09:19,500 --> 00:09:28,500
-Lutzai: what can I do here with Motion? Gleb: Actually, all interaction with Motion's is limited only by the weapon. It is enough, basically,
+Lutsai: what can I do here with Motion? Gleb: Actually, all interaction with Motion's is limited only by the weapon. It is enough, basically,
 
 92
 00:09:28,500 --> 00:09:34,500
@@ -376,7 +376,7 @@ looked like a really relevant feature, rather than something like: let us just s
 
 95
 00:09:48,500 --> 00:09:52,500
-Lutzai: There's a gamepad, it's like it's always been there. And basically Motion probably
+Lutsai: There's a gamepad, it's like it's always been there. And basically Motion probably
 
 96
 00:09:52,500 --> 00:09:58,500
@@ -396,23 +396,23 @@ At least if you know exactly how it interacts.
 
 100
 00:10:13,500 --> 00:10:22,500
-Lutzai: This Motion is specific too, as the normal controls here! Kind of hardcore. [Laughter] I can't hit it!
+Lutsai: This Motion is specific too, as the normal controls here! Kind of hardcore. [Laughter] I can't hit it!
 
 101
 00:10:22,500 --> 00:10:25,500
-Глеб: Gleb: Basically, any even the most shitty implemented Motion can be simply... Lutzai: You try it.
+Глеб: Gleb: Basically, any even the most shitty implemented Motion can be simply... Lutsai: You try it.
 
 102
 00:10:25,500 --> 00:10:31,500
-Gleb: justify that... Lutzai: The game is too hardcore. Gleb: Yeah, we've paid tribute to that.
+Gleb: justify that... Lutsai: The game is too hardcore. Gleb: Yeah, we've paid tribute to that.
 
 103
 00:10:31,500 --> 00:10:37,500
-Lutzai: Yes, keeping continuity to the original gameplay and its unfriendliness.
+Lutsai: Yes, keeping continuity to the original gameplay and its unfriendliness.
 
 104
 00:10:37,500 --> 00:10:43,500
-Lutzai: Did you modernize the combat in any way? Changed maybe the pace, the balance?
+Lutsai: Did you modernize the combat in any way? Changed maybe the pace, the balance?
 
 105
 00:10:43,500 --> 00:10:49,500
@@ -508,7 +508,7 @@ a little bit simplified, which allows you to focus on the story.
 
 128
 00:12:57,500 --> 00:13:03,500
-Lutzai: It's simplified, right? [Laughs] Okay, which one is more Hardcore then?
+Lutsai: It's simplified, right? [Laughs] Okay, which one is more Hardcore then?
 
 129
 00:13:03,500 --> 00:13:10,500
@@ -516,7 +516,7 @@ Irina: In the original Gothic, we have three or four keys that you have to press
 
 130
 00:13:10,500 --> 00:13:18,500
-Lutzai: So you had an impact on that? Irina: We have a team, we all give our opinion and everyone listens to it.
+Lutsai: So you had an impact on that? Irina: We have a team, we all give our opinion and everyone listens to it.
 
 131
 00:13:18,500 --> 00:13:25,500
@@ -544,7 +544,7 @@ So we keep the [magic] wheel, we keep the three-button berry picking.
 
 137
 00:13:50,500 --> 00:13:57,500
-Lutzai: So basically there was a temptation to kind of "improve the game"? I mean, to make it up to modern standards of some kind?
+Lutsai: So basically there was a temptation to kind of "improve the game"? I mean, to make it up to modern standards of some kind?
 
 138
 00:13:57,500 --> 00:14:01,500
@@ -696,7 +696,7 @@ buy with comfort and profit go to my link in the description.
 
 175
 00:17:50,500 --> 00:17:53,500
-Lutzai: Would you say that the version that you're working on now is
+Lutsai: Would you say that the version that you're working on now is
 
 176
 00:17:53,500 --> 00:18:00,500
@@ -772,7 +772,7 @@ So we took code that was almost a hundred years old and started working with it.
 
 194
 00:19:47,500 --> 00:19:53,500
-Lutzai: Is this essentially reconstructing the game from scratch? Or a transfer of, shall we say, one environment to another?
+Lutsai: Is this essentially reconstructing the game from scratch? Or a transfer of, shall we say, one environment to another?
 
 195
 00:19:53,500 --> 00:19:58,500
@@ -796,7 +796,7 @@ the feeling of the world, the change of day and night, the weather, the behavior
 
 200
 00:20:28,500 --> 00:20:34,500
-Lutzai: In general, it turns out that the Gothic we love came out not quite the way it was intended. The guys at Elverils for their
+Lutsai: In general, it turns out that the Gothic we love came out not quite the way it was intended. The guys at Elverils for their
 
 201
 00:20:34,500 --> 00:20:40,500
@@ -856,7 +856,7 @@ didn't have enough time, for example. There's modifications, the famous zGamepad
 
 215
 00:21:54,500 --> 00:21:58,500
-Lutzai: Speaking of which, did you go to them, did you look into those modifications?
+Lutsai: Speaking of which, did you go to them, did you look into those modifications?
 
 216
 00:21:58,500 --> 00:22:01,500
@@ -880,7 +880,7 @@ I'm on the contrary inclined to have more of these mechanics in the game. So tha
 
 221
 00:22:33,500 --> 00:22:41,500
-Lutzai: In addition to the strange controls by today's standards, Gothic had a specific interface design that wasn't very comfortable.
+Lutsai: In addition to the strange controls by today's standards, Gothic had a specific interface design that wasn't very comfortable.
 
 222
 00:22:41,500 --> 00:22:45,500
@@ -928,7 +928,7 @@ between the interfaces so that maybe somebody would want to go more minimalist, 
 
 233
 00:23:50,500 --> 00:23:56,500
-Lutzai: How was the communication built? How do you get tasks set for you? And in what form do you bring them in?
+Lutsai: How was the communication built? How do you get tasks set for you? And in what form do you bring them in?
 
 234
 00:23:56,500 --> 00:24:02,500
@@ -956,7 +956,7 @@ It's not enough to do something from a fan, you also have to see how other fans 
 
 240
 00:24:35,500 --> 00:24:40,500
-Irina: There's another thing, you probably noticed. Lutzai: We have two weapons, two weapons to choose from,
+Irina: There's another thing, you probably noticed. Lutsai: We have two weapons, two weapons to choose from,
 
 241
 00:24:40,500 --> 00:24:45,500
@@ -968,7 +968,7 @@ weapon. Now, if you like to swing swords, you can pick two cool blades of your f
 
 243
 00:24:53,500 --> 00:25:00,500
-Lutzai: Didn't the guys mind that? Olds who wanted to keep that authenticity, some complexity.
+Lutsai: Didn't the guys mind that? Olds who wanted to keep that authenticity, some complexity.
 
 244
 00:25:00,500 --> 00:25:09,500
@@ -976,7 +976,7 @@ Irina: Well, you can probably afford it, especially since we discuss, test and p
 
 245
 00:25:09,500 --> 00:25:13,500
-Lutzai: Tell me how you came up with the idea to make two weapons,
+Lutsai: Tell me how you came up with the idea to make two weapons,
 
 246
 00:25:13,500 --> 00:25:18,500
@@ -1024,7 +1024,7 @@ and defeats it. That's the game situation, I think it justifies the decision.
 
 257
 00:26:19,500 --> 00:26:26,500
-Lutzai: And roughly how many iterations did your suggestions go through?
+Lutsai: And roughly how many iterations did your suggestions go through?
 
 258
 00:26:26,500 --> 00:26:34,500
@@ -1044,7 +1044,7 @@ could free up the middle of the screen. Some windows close it when there's no pa
 
 262
 00:26:56,500 --> 00:27:00,500
-Lutzai: Why did you decide not to keep the vertical interface?
+Lutsai: Why did you decide not to keep the vertical interface?
 
 263
 00:27:00,500 --> 00:27:06,500
@@ -1092,7 +1092,7 @@ Working with the fonts - that was certainly something creepy.
 
 274
 00:28:08,500 --> 00:28:10,500
-Lutzai: Why? Were they somehow hard to get them out of there to rework?
+Lutsai: Why? Were they somehow hard to get them out of there to rework?
 
 275
 00:28:10,500 --> 00:28:16,500
@@ -1120,7 +1120,7 @@ especially since I don't have a specific background in fonts.
 
 281
 00:28:51,500 --> 00:28:54,500
-Lutzai: Wait, and you know all these languages more or less or how are you familiar with them?
+Lutsai: Wait, and you know all these languages more or less or how are you familiar with them?
 
 282
 00:28:54,500 --> 00:28:58,500
@@ -1156,7 +1156,7 @@ She looks like Ominous Valley, like a silly thing.
 
 290
 00:29:42,500 --> 00:29:48,500
-Lutzai: Here's what I'm wondering. How many times do you have to go through a game to get it neatly ported to another platform?
+Lutsai: Here's what I'm wondering. How many times do you have to go through a game to get it neatly ported to another platform?
 
 291
 00:29:48,500 --> 00:29:54,500
@@ -1196,7 +1196,7 @@ it's gonna feel very different.
 
 300
 00:30:39,500 --> 00:30:44,500
-Lutzai: Tell me, did you invent it or did you master it as well?
+Lutsai: Tell me, did you invent it or did you master it as well?
 
 301
 00:30:44,500 --> 00:30:49,500
@@ -1232,7 +1232,7 @@ In the last six months I've probably spent 200 hours in the first one alone.
 
 309
 00:31:29,500 --> 00:31:33,500
-Irina: I haven't counted. It's definitely more than 100 times. Lutzai: Really?
+Irina: I haven't counted. It's definitely more than 100 times. Lutsai: Really?
 
 310
 00:31:33,500 --> 00:31:38,500
@@ -1252,7 +1252,7 @@ I feel like a detective trying to find the guilty person behind some kind of bre
 
 314
 00:31:57,500 --> 00:32:07,500
-While testing Gothic, we got close. And we started making Gothic jokes. Lutzai: About Gomez, yeah, I heard that.
+While testing Gothic, we got close. And we started making Gothic jokes. Lutsai: About Gomez, yeah, I heard that.
 
 315
 00:32:07,500 --> 00:32:13,500
@@ -1276,7 +1276,7 @@ And I played myself to understand the player experience within the game.
 
 320
 00:32:38,500 --> 00:32:41,500
-Lutzai: I think it's hard to understand that from streams. Or am I wrong about that?
+Lutsai: I think it's hard to understand that from streams. Or am I wrong about that?
 
 321
 00:32:41,500 --> 00:32:46,500
@@ -1296,11 +1296,11 @@ And as you go through, you face challenges and understand the nuances of the con
 
 325
 00:33:03,500 --> 00:33:07,500
-[Eugene Grigorchuk. BG3 project manager on Mac] Lutzai: Wait a minute. So you were in charge of porting... Eugene Grigorchuk: Yeah.
+[Eugene Grigorchuk. BG3 project manager on Mac] Lutsai: Wait a minute. So you were in charge of porting... Eugene Grigorchuk: Yeah.
 
 326
 00:33:07,500 --> 00:33:09,500
-Lutzai: But you didn't play Baldur's Gate? Eugene: Not at all.
+Lutsai: But you didn't play Baldur's Gate? Eugene: Not at all.
 
 327
 00:33:09,500 --> 00:33:11,500
@@ -1308,7 +1308,7 @@ Lutskai: How does it work? Eugene: It's very simple.
 
 328
 00:33:11,500 --> 00:33:17,500
-Lutzai: So it's kind of unnecessary, right? Eugene: Yeah. So I haven't really played ELEX either. Here's the story I have.
+Lutsai: So it's kind of unnecessary, right? Eugene: Yeah. So I haven't really played ELEX either. Here's the story I have.
 
 329
 00:33:17,500 --> 00:33:23,500
@@ -1340,11 +1340,11 @@ and I start watching it. And that's it. I have no idea at all what...
 
 336
 00:33:58,500 --> 00:34:02,500
-Lutzai: So those are basically a list, specifically these tasks with the moments where to look for them, you're already correcting them. Eugene: Yeah, yeah.
+Lutsai: So those are basically a list, specifically these tasks with the moments where to look for them, you're already correcting them. Eugene: Yeah, yeah.
 
 337
 00:34:02,500 --> 00:34:08,500
-Lutzai: And you're not very interested in these games yourself? Eugene: Baldur's Gate or all of them?
+Lutsai: And you're not very interested in these games yourself? Eugene: Baldur's Gate or all of them?
 
 338
 00:34:08,500 --> 00:34:11,500
@@ -1364,7 +1364,7 @@ and you're like, "Man, I wish I had 10 more hours to look at the same thing."
 
 342
 00:34:31,500 --> 00:34:37,500
-Lutzai: All right, come on, show some skill. You know these mechanics like the back of your hand.
+Lutsai: All right, come on, show some skill. You know these mechanics like the back of your hand.
 
 343
 00:34:40,500 --> 00:34:45,500
@@ -1376,7 +1376,7 @@ No, that was impressive. All right, don't bother. Somebody's gonna do it for sur
 
 345
 00:34:55,500 --> 00:34:58,500
-Gleb: He'll thank you, yeah. Lutzai: Yes! That's actually a reason to do a challenge.
+Gleb: He'll thank you, yeah. Lutsai: Yes! That's actually a reason to do a challenge.
 
 346
 00:34:58,500 --> 00:35:03,500
@@ -1384,7 +1384,7 @@ In the game:"Your blood! Don't do it again."
 
 347
 00:35:03,500 --> 00:35:10,500
-Lutzai: What is the uniqueness of Gothic's design in your opinion?
+Lutsai: What is the uniqueness of Gothic's design in your opinion?
 
 348
 00:35:10,500 --> 00:35:14,500
@@ -1412,7 +1412,7 @@ fill that world with life. I think that's one of the main reasons why these game
 
 354
 00:35:56,500 --> 00:36:02,500
-Lutzai: But where does the agentivity of Gothic come from? And the completely unconventional approach to even some of the
+Lutsai: But where does the agentivity of Gothic come from? And the completely unconventional approach to even some of the
 
 355
 00:36:02,500 --> 00:36:09,500
@@ -1596,7 +1596,7 @@ overflowing in their knowledge of writing code that they did a plus or minus per
 
 400
 00:40:41,500 --> 00:40:44,500
-Lutzai: Do you enjoy on the tasks themselves, the code itself? The way it's done? Evgeny: From the code itself, yes.
+Lutsai: Do you enjoy on the tasks themselves, the code itself? The way it's done? Evgeny: From the code itself, yes.
 
 401
 00:40:44,500 --> 00:40:50,500
@@ -1612,7 +1612,7 @@ that it's pretty awesome.
 
 404
 00:41:01,500 --> 00:41:05,500
-Lutzai: As you've realized, Piranha Bytes at one time tried to make everything from scratch,
+Lutsai: As you've realized, Piranha Bytes at one time tried to make everything from scratch,
 
 405
 00:41:05,500 --> 00:41:10,500
@@ -1756,7 +1756,7 @@ work ever again. That's unrealistic on a CPU nowadays. So there's a thrill in it
 
 440
 00:44:29,500 --> 00:44:35,500
-Lutzai: Did you remaster the soundtrack of the original Gothic? Did Kai Rosenkranz himself do that?
+Lutsai: Did you remaster the soundtrack of the original Gothic? Did Kai Rosenkranz himself do that?
 
 441
 00:44:35,500 --> 00:44:42,500
@@ -1828,7 +1828,7 @@ because we've tried to make it as similar as possible. But there's still room fo
 
 458
 00:46:28,500 --> 00:46:34,500
-Lutzai: As a player, this is a pretty frustrating topic for me. If you watched my video about sound in games, for example.
+Lutsai: As a player, this is a pretty frustrating topic for me. If you watched my video about sound in games, for example.
 
 459
 00:46:34,500 --> 00:46:41,500
@@ -1904,7 +1904,7 @@ individualized at all from the beginning. That's exactly the lost path that game
 
 477
 00:48:26,500 --> 00:48:35,500
-[Authors: Alexei Lutzai, Konstantin Timofeev. Editing, photography: Alexei Lutzai]
+[Authors: Alexei Lutsai, Konstantin Timofeev. Editing, photography: Alexei Lutsai]
 
 478
 00:48:35,500 --> 00:48:38,500
@@ -1960,7 +1960,7 @@ I opened No Man's Sky, and what did I find inside? My work that I was writing.
 
 491
 00:50:00,500 --> 00:50:06,500
-Rostislav: Ah, yes, this one is a window creator. Lutzai: It's funny that Starfield gets blamed for this,
+Rostislav: Ah, yes, this one is a window creator. Lutsai: It's funny that Starfield gets blamed for this,
 
 492
 00:50:06,500 --> 00:50:13,500
