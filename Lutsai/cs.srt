@@ -1,106 +1,106 @@
 1
 00:00:00,500 --> 00:00:06,500
-Алексей Луцай: Для многих порты игр - анахронизм из нулевых. Наверняка вы пробовали проекты, перенесённые с консолей на ПК, и это было
+Alexey Lutsai: Pro mnohé jsou herní porty anachronismem z roku 2000. Pravděpodobně jste zkoušeli projekty přenesené z konzolí na PC a bylo to
 
 2
 00:00:06,500 --> 00:00:14,500
-не слишком круто. Сейчас же чаще используют термин "мультиплатформа". Игра выходит сразу везде. Ну как бы выходит и
+ne příliš cool. V dnešní době se stále častěji používá termín „multiplatformní“. Hra je okamžitě vydána všude. A konec.
 
 3
 00:00:14,500 --> 00:00:19,500
-выходит. Но представьте себе, одну из главных исконно ПК игр, а именно Готику,
+Představte si ale jednu z hlavních původních PC her, jmenovitě Gothic,
 
 4
 00:00:19,500 --> 00:00:25,500
-только что портировали на Nintendo Switch, и консольные игроки наконец смогут приобщиться к величию. Что происходит?
+byl právě portován na Nintendo Switch a hráči konzolí mohou konečně zažít skvost. Co se děje?
 
 5
 00:00:25,500 --> 00:00:32,500
-Зачем и кому это нужно? Как вообще портируют игры? Всегда ли порт это дословный перенос или иногда он расширяет саму игру?
+Proč a kdo to potřebuje? Jak se hry portují? Je port vždy slovo od slova port nebo se někdy rozšiřuje na samotnou hru?
 
 6
 00:00:32,500 --> 00:00:39,500
-Сегодня с этим разберёмся. Я поговорил с ребятами из петербургской студии Elverils, которая занимается портами игр. Например,
+Dnes na to přijdeme. Mluvil jsem s kluky z petrohradského studia Elverils, které se zabývá herními porty. Například,
 
 7
 00:00:39,500 --> 00:00:46,500
-игр Larian на Mac и iPad. Сейчас как раз зарелизили Baldur's Gate 3. Или вы можете знать их по порту Original Sin 2 на iPad.
+Larian hry na Mac a iPad. Právě vydaly Baldur's Gate 3 je možná znáte z portu Original Sin 2 na iPad.
 
 8
 00:00:46,500 --> 00:00:53,500
-А вообще изначально они были первым открытым петербургским офисом Larian. А ещё делают порты игр Piranha Bytes,
+Obecně byly zpočátku první otevřenou Larian kanceláří v Petrohradě. Dělají také porty her Piranha Bytes,
 
 9
 00:00:53,500 --> 00:00:59,500
-например, Risen на Switch и Mac, Elex 2 на Mac. Именно они выпустили обновлённую версию первой Готики на Switch, которую
+jako například Risen na Switch a Mac, Elex 2 na Mac. Právě oni vydali aktualizovanou verzi prvního Gothicu na Switch, kterou
 
 10
 00:00:59,500 --> 00:01:07,500
-мы и обсудим. Кстати, THQ уже анонсировали вторую часть для свитча, и её тоже делают ребята из Elverils. Если вам такой формат
+budeme probírat. Mimochodem, THQ už ohlásilo druhý díl na switch a dělají ho i kluci z Elverils. Pokud se vám tento formát líbí
 
 11
 00:01:07,500 --> 00:01:12,500
-понравится обязательно обязательно поддержите его лайком, чтобы Я продолжал.
+prosím nezapomeňte dát like, ať v něm můžu pokračovat.
 
 12
 00:01:12,500 --> 00:01:18,500
-Заранее спасибо! Один из самых частых вопросов который мне почему-то задают подписчики при встрече: "Как попасть в
+Děkuji předem! Jedna z nejčastějších otázek, které mi odběratelé pokládají, když se se mnou setkají, je „Jak se dostanu k vývoji her?“
 
 13
 00:01:18,500 --> 00:01:25,500
-геймдев?" и какое направление выбрать. И вот как обстоят дела: художников, продюсеров, музыкантов, даже сценаристов
+a kterou oblast studií bych si měl vybrat. A takhle se věci mají: umělci, producenti, hudebníci, dokonce i scénáristé
 
 14
 00:01:25,500 --> 00:01:31,500
-найти несложно, а вот геймдизайнеров мало. Индустрия буквально кричит об этом во всех интервью и подкастах. На Большой
+nejsou těžcí k nalezení, ale herní designéři jsou vzácní. Průmysl o tom doslova křičí v každém rozhovoru a podcastu. Mohly byste potřebovat
 
 15
 00:01:31,500 --> 00:01:37,500
-проект таких специалистов может с десяток понадобиться. Например, дизайнер боевой системы, дизайнер мини-игр,
+tucet takových specialistů na velký projekt. Například návrhář bojového systému, návrhář miniher,
 
 16
 00:01:37,500 --> 00:01:43,500
-дизайнер уровней, системный дизайнер, благодаря которому в игровом мире работают правила. Есть из чего выбирать, и
+level designér, systémový designér, díky kterému fungují pravidla v herním světě. Je z čeho vybírat a
 
 17
 00:01:43,500 --> 00:01:49,500
-я бы порекомендовал обучиться профессии в Contented на курсе "геймдизайнер". Потому что это одна из крупнейших школ,
+Doporučil bych se učit na Contented v kurzu "game designer". Protože je to jedna z největších škol,
 
 18
 00:01:49,500 --> 00:01:55,500
-которая обучает дизайну во всех его проявлениях. В программе более сорока практических заданий, чтобы вы сразу
+která učí design ve všech jeho formách. Program obsahuje více než 40 praktických úkolů, takže můžete okamžitě
 
 19
 00:01:55,500 --> 00:02:02,500
-применяли свои знания и наполняли портфолио. Итог курса - проект вашей собственной игры. Обучение продлится 12
+uplatnit své znalosti a vybudovat své portfolio. Výsledkem kurzu je projekt vlastní hry. Trénování potrvá 12
 
 20
 00:02:02,500 --> 00:02:07,500
-месяцев, а по окончанию вы будете уверено работать с Unity, Unreal'ом и Game Maker'ом. Освоите
+měsíců a na konci kurzu budete s jistotou umět pracovat s Unity, Unreal a Game Maker. Zvládnete
 
 21
 00:02:07,500 --> 00:02:13,500
-инструменты визуального программирования Unity Bolt, блюпринты и Perforce, которые необходимы для сборки ваших прототипов.
+Unity Bolt, Blueprints, a perforce visual programming tools které potřebujete k sestavení vlastních prototypů.
 
 22
 00:02:13,500 --> 00:02:20,500
-Будете анализировать механики своих любимых игр и откроете их с новой стороны. Также в программе будет три геймджема,
+Budete analyzovat mechanismy svých oblíbených her a objevovat je z nové perspektivy. V programu budou také tři gamejamy,
 
 23
 00:02:20,500 --> 00:02:25,500
-чтобы вы натренировались работать в команде. Занятия занимают от 4 до 8 часов
+takže si můžete procvičit týmovou práci. kurzy jsou 4 až 8 hodin dlouhé
 
 24
 00:02:25,500 --> 00:02:32,500
-в неделю. Если что-то не успеваете, сроки домашек можно двигать и даже заморозить курс, чтобы вернуться к нему потом.
+každý týden. Pokud na něco nemáte čas, můžete posunout termíny domácích úkolů a dokonce kurz zmrazit, abyste se k němu mohli vrátit později.
 
 25
 00:02:32,500 --> 00:02:38,500
-Курирует курс Кирилл Золовкин, геймдизайнер с двадцатилетним опытом. Работал в Wargaming'е и My.Games. Кстати, недавно у
+Na kurz dohlíží Kirill Zolovkin, herní designér s dvacetiletou praxí. Pracoval ve společnostech Wargaming a My.Games. Mimochodem, nedávno měl
 
 26
 00:02:38,500 --> 00:02:46,500
-него вышла игра Gripper, которую отметил Shuhei Yoshida глава инди направления Sony. Ваш возраст и опыт не важны, всему научат
+vydání jeho hry nazvané „Gripper“, kterou uznal Shuhei Yoshida, šéf indie divize Sony. Váš věk a zkušenosti nejsou důležité, všechno vás naučí
 
 27
 00:02:46,500 --> 00:02:51,500
