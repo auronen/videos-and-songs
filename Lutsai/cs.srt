@@ -104,167 +104,167 @@ vydání jeho hry nazvané „Gripper“, kterou uznal Shuhei Yoshida, šéf ind
 
 27
 00:02:46,500 --> 00:02:51,500
-с нуля, а карьерный центр поможет трудоустроиться или найти клиентов на фрилансе. Новички в профессии
+od nuly a kariérní centrum vám pomůže najít práci nebo najít klienty na volné noze. Nováčci v profesi
 
 28
 00:02:51,500 --> 00:02:57,500
-зарабатывают от 80.000 руб, а мидлы от 190.000. Студенты Content'a начинают
+si vydělají od 80 000 rublů a střední od 190 000. Spokojení studenti začínají
 
 29
 00:02:57,500 --> 00:03:05,500
-работать с шестого месяца обучения. И кстати вам в школе выдадут сертификат на основании
+práci od 6. měsíce školy. A mimochodem, škola vám poskytne certifikát na bázi
 
 30
 00:03:05,500 --> 00:03:11,500
-Гослицензии 041164. А еще, после регистрации на курс, вам подарят обучающий модуль по нейросетям и дадут доступ в закрытый Telegram бот с сорока их
+státní licence 041164. A také po registraci do kurzu získáte školicí modul o neuronových sítích a budete mít přístup k uzavřenému Telegram botovi se čtyřiceti z jejic
 
 31
 00:03:11,500 --> 00:03:17,500
-разновидностями. Разберётесь в Mid Journey, Pixel App и всевозможными Chat GPT, которые помогут вам в работе над
+druhů. Osvojíte si Mid Journey, Pixel App a všechny různé и Chat GPT, které vám pomůžou v práci na vašem
 
 32
 00:03:17,500 --> 00:03:24,500
-проектами. Так что если обожаете игры и готовы влиться в индустрию голодную до геймдизайнеров, то регистрируйтесь по ссылке
+projektu. Pokud tedy milujete hry a jste připraveni zapojit se do odvětví hladového po herních designérech, pak se zaregistrujte na odkazu
 
 33
 00:03:24,500 --> 00:03:31,500
-в описании или QR коду. А по моему промокоду "LVCAI" будет скидка 45%.
+V popisku QR коду. A můj kód "LVCAI" vám sleví 45%.
 
 34
 00:03:34,500 --> 00:03:39,500
-Луцай: Какие вещи изменённые невооружённым взглядом заметны?
+Lutsay: Jaké jsou některé změny které jdou vidět na 1. pohled?
 
 35
 00:03:39,500 --> 00:03:47,500
-Платон Фомичев: Невооружённым глазом - UI, конечно же. Появился раздел карты. Потом мы попытались кое-какие механики из Готики возродить.
+Platon Fomichev: Na 1. pohled - UI, samozřejmě. Také se objevila sekce s mapou. Poté jsme se snažili obnovit některé mechaniky z Gothicu.
 
 36
 00:03:47,500 --> 00:03:50,500
-В частности, по-моему, бросание предметов.
+Zejména, myslím, vrhací předměty.
 
 37
 00:03:50,500 --> 00:03:54,500
-[Платон Фомичев. Технический директор Elverils] Ну музыка, да, музыка, позиционный звук. Готика была очень известна своим именно
+[Platon Fomichev. Technický ředitel Elveris] No hudba, ano, hudba, poziční zvuk. Gothic byl velmi známý pro svůj
 
 38
 00:03:54,500 --> 00:04:00,500
-позиционным звуком, т.е. ну музыка это ладно, а вот тогда был EAX. Когда мы делали Готику,
+poziční zvuk, tj. No, hudba je v pořádku, ale pak tam byl EAX. Když jsme dělaly Gothic
 
 39
 00:04:00,500 --> 00:04:07,500
-мы все очень удивились тем насколько сейчас позиционный звук вообще сдох как класс.
+všichni jsme byli velmi překvapeni, jak poziční zvuk jako třída nyní zcela zemřel.
 
 40
 00:04:09,500 --> 00:04:14,500
-Мы сделали кое-какую реверберацию. Она по умолчанию выключена, потому что
+Udělali jsme nějaký reverb. Ve výchozím nastavení je zakázaný, protože
 
 41
 00:04:14,500 --> 00:04:20,500
-она не всем понравилась. Возможно, мы её допилим ещё. Реверберация тоже есть
+to nepřišlo všem vhod. Možná to ještě dokončíme. Je tu také reverb
 
 42
 00:04:20,500 --> 00:04:26,500
-в игре, т.е. у игры есть физическая модель звука. Она пытается следовать той
+ve hře, tzn. hra má fyzický zvukový model. Snaží se následovat
 
 43
 00:04:26,500 --> 00:04:32,500
-звуковой библиотеке, которая была у неё раньше. Да, звук тоже переписан полностью, потому что библиотеки звуковой
+zvukovou knihovnu, kterou měla předtím. Ano, zvuk je také kompletně přepsán, protože zvukové knihovny
 
 44
 00:04:32,500 --> 00:04:40,500
-уж давно нет. Шрифт. Да, ещё шрифт поменялся. Мы его делали для того, чтобы он хорошо читался на экране и
+jsou dávno pryč. Písmo. Ano, změnilo se i písmo. Udělali jsme to tak, aby to bylo čitelné na obrazovce a
 
 45
 00:04:40,500 --> 00:04:50,500
-когда Switch находится в руках и когда Switch находится в телевизоре. Диего: "Мы встретимся в старом лагере".
+když máte Switch v ruce a když je Switch v televizi. Diego: "Sejdeme se ve starém táboře."
 
 46
 00:04:54,500 --> 00:04:59,500
-Луцай: Готике уже 20 лет. В игре много архаичных решений.
+Lutsai: Gothic je už 20 let starý. Ve hře je hodně archaických rozhodnutí.
 
 47
 00:04:59,500 --> 00:05:06,500
-[Reinhard Pollice. Директор THQ Nordic по продукту]. Я попробовал игру, и она управляется так словно бы консоль вышла будто бы 20 лет назад.
+[Reinhard Pollice. Ředitel produktů THQ Nordic]. Zkusil jsem tu hru a je to jako kdyby ta konzole vyšla před 20ti lety.
 
 48
 00:05:06,500 --> 00:05:10,500
-Такое решение понравится старым игрокам.
+To je řešení které si starší hráči zamilují.
 
 49
 00:05:10,500 --> 00:05:17,500
-Но кажется, что молодые ребята не поймут. Так для какой аудитории создавался порт игры?
+Ale vypadá to že mladší to nepochopí. Takže pro jaké publikum byl ten port hry vytvořen?
 
 50
 00:05:17,500 --> 00:05:23,500
-Рейнхард: цель состояла в том, чтобы вернуть Готику людям, которые помнят её. Которым
+Reinhard: Cíl byl přinést zpět Gothic těm kteří si ho pamatují. Kteří
 
 51
 00:05:23,500 --> 00:05:29,500
-хотелось бы снова сыграть в эту глубокую РПГ, но в портативе.
+by chtěli si zahrát tohle hluboké RPG znovu, ale na handheldu.
 
 52
 00:05:29,500 --> 00:05:33,500
-Это игра для тех, кто предпочитает подробную симуляцию.
+Tohle je hra pro ty kteří preferují detailní simulaci.
 
 53
 00:05:33,500 --> 00:05:39,500
-Мы никогда не собирались создавать современную версию ради того, чтобы зацепить людей, которые, например,
+Nikdy jsme nezamýšleli udělat moderní verzi pro účel navnadit nové lidi kteří, například,
 
 54
 00:05:39,500 --> 00:05:45,500
-играют на Switch в Зельду или в нечто подобное. Во многих отношениях это управление работает лучше, чем клавиатура
+hrají Zeldu nebi něco takového na Switchi. V mnoha směrech, tohle ovládání funguje lépe než klávesnice
 
 55
 00:05:45,500 --> 00:05:53,500
-и мышь на PC. Конечно, мы не всё сделали идеально, но будем стараться это исправить.
+a myš na PC. Samozřejmě jsme neudělali všechno dokonale, ale pokusíme se to napravit.
 
 56
 00:05:53,500 --> 00:05:59,500
-Мы знаем что у Готики большое сообщество, поэтому наша цель дать им то, чего они хотят.
+Víme že Gothic má velkou komunitu, takže náš cíl je jim dát to co chtějí.
 
 57
 00:06:02,500 --> 00:06:04,500
-Луцай: Пару лет назад в своём ролике про Готику
+Lutsai: Před pár lety v mém videu o Gothicu
 
 58
 00:06:04,500 --> 00:06:09,500
-Я сказал, что мол в ней такое специфическое управление, потому что изначально она затачивалась под геймпад.
+Řekl jsem že má tak specifické ovládání protože bylo původně přizpůsobené gamepadu.
 
 59
 00:06:09,500 --> 00:06:15,500
-И честно, я тогда немного смухлевал. Действительно, такая инфа в интернете встречалась, но каких-то однозначных
+A abych řekl pravdu, byl jsem v tu dobu trochu lhář. Ano, takové informace byly na internetu, ale nebylo to
 
 60
 00:06:15,500 --> 00:06:18,500
-подтверждений этому факту не было.
+potvrzení tohoto faktu.
 
 61
 00:06:18,500 --> 00:06:22,500
-Говорю "факту", хотя опирался на свои субъективные впечатления.
+Říkám "fakt", i když jsem to pomlouval podle mých subjektivních dojmů.
 
 62
 00:06:22,500 --> 00:06:25,500
-Но вот, что я узнал у UX дизайнера Gothic Classic Константина.
+Ale zde je co jsem se naučil od UX designéra pro Gothic Classic Konstantina.
 
 63
 00:06:25,500 --> 00:06:36,500
-Луцай: Я, понимаешь, не смотря на тот факт, что в ролике сказал про консольное управление, то есть там в принципе ощущение от боёвки было, на клавиатуре же
+Lutsai: Víš, navzdory tomu že jsem ve videu mluvil o konzolovém ovládání, jakože byl tam pocit boje a hodně věcí bylo
 
 64
 00:06:36,500 --> 00:06:43,500
-многое по сути делалось. И было чувство такое будто бы геймпад тут прямо напрашивается. Ну я скажем так тогда факт
+více méně uděláno na klávesnici. A zdálo se že tam gamepad zapadne perfektně. Ale řekněme že jsem tohle řekl předtím
 
 65
 00:06:43,500 --> 00:06:48,500
-этот вбросил и я нашёл это в некоторых источниках. Но у меня нет стопроцентной уверенности, что это так было.
+a našel potvrzení v různých zdrojích. Ale nejsem si 100% jistý co to bylo.
 
 66
 00:06:48,500 --> 00:06:58,500
-[Константин Тимофеев. UI/UX разработчик Elverils] Ну я нашёл в коде следы того, что разрабатывалось. Были такие модули, были такие наработки. В принципе часть оттуда я взял.
+[Konstantin Timofeev. UI/UX vývojář Elverils] No já našel stopy kódu toho co se vyvíjelo. byly tam takové moduly, byly tam obchvaty. Jednoduše, něco z toho jsem si odtud vzal.
 
 67
 00:06:58,500 --> 00:07:02,500
-Луцай: Почти пальцем в небо тыкнул, но оказалось есть эта инфа.
+Lutsai: Skoro jako náhodný tip, ale vypadá to že jsou takové informace.
 
 68
 00:07:02,500 --> 00:07:10,500
