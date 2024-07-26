@@ -1,86 +1,86 @@
 1
 00:00:00,500 --> 00:00:06,500
-Алексей Луцай: Для многих порты игр - анахронизм из нулевых. Наверняка вы пробовали проекты, перенесённые с консолей на ПК, и это было
+Aleksei Luțai: Pentru mulți oameni, portările de jocuri sunt un anacronism din anii 2000. Cu siguranță ați încercat proiecte portate de pe console pe PC și nu a fost
 
 2
 00:00:06,500 --> 00:00:14,500
-не слишком круто. Сейчас же чаще используют термин "мультиплатформа". Игра выходит сразу везде. Ну как бы выходит и
+prea cool. În zilele noastre, termenul „multiplatformă” este folosit mai des. Un joc apare peste tot în același timp. Și asta e tot.
 
 3
 00:00:14,500 --> 00:00:19,500
-выходит. Но представьте себе, одну из главных исконно ПК игр, а именно Готику,
+Dar imaginați-vă unul dintre cele mai importante jocuri native pentru PC, și anume Gothic,
 
 4
 00:00:19,500 --> 00:00:25,500
-только что портировали на Nintendo Switch, и консольные игроки наконец смогут приобщиться к величию. Что происходит?
+tocmai a fost portat pe Nintendo Switch, iar jucătorii de consolă vor putea în sfârșit să se alăture fenomenului. Ce se întâmplă?
 
 5
 00:00:25,500 --> 00:00:32,500
-Зачем и кому это нужно? Как вообще портируют игры? Всегда ли порт это дословный перенос или иногда он расширяет саму игру?
+De ce și cine are nevoie de asta? Cum sunt portate jocurile în general? O portare este întotdeauna o portare la propriu sau uneori extinde jocul în sine?
 
 6
 00:00:32,500 --> 00:00:39,500
-Сегодня с этим разберёмся. Я поговорил с ребятами из петербургской студии Elverils, которая занимается портами игр. Например,
+Astăzi ne vom ocupa de asta. Am vorbit cu băieții de la studioul Elverils din Sankt Petersburg, care se ocupă cu porturi de jocuri. De exemplu,
 
 7
 00:00:39,500 --> 00:00:46,500
-игр Larian на Mac и iPad. Сейчас как раз зарелизили Baldur's Gate 3. Или вы можете знать их по порту Original Sin 2 на iPad.
+Jocuri Larian pe Mac și iPad. Ei tocmai au lansat Baldur's Gate 3. Sau poate îi cunoașteți de la portarea lui Original Sin 2 pentru iPad.
 
 8
 00:00:46,500 --> 00:00:53,500
-А вообще изначально они были первым открытым петербургским офисом Larian. А ещё делают порты игр Piranha Bytes,
+Inițial au fost primul birou deschis al Larian din Sankt Petersburg. Ei fac, de asemenea, portări ale jocurilor Piranha Bytes,
 
 9
 00:00:53,500 --> 00:00:59,500
-например, Risen на Switch и Mac, Elex 2 на Mac. Именно они выпустили обновлённую версию первой Готики на Switch, которую
+cum ar fi Risen pe Switch și Mac, Elex 2 pe Mac. Ei au fost cei care au lansat o versiune actualizată a primului Gothic pe Switch, pe care
 
 10
 00:00:59,500 --> 00:01:07,500
-мы и обсудим. Кстати, THQ уже анонсировали вторую часть для свитча, и её тоже делают ребята из Elverils. Если вам такой формат
+o vom discuta. Apropo, THQ a anunțat deja partea a doua pentru Switch, iar aceasta este realizată tot de băieții de la Elverils. Dacă vă place acest format,
 
 11
 00:01:07,500 --> 00:01:12,500
-понравится обязательно обязательно поддержите его лайком, чтобы Я продолжал.
+nu uitați să îl susțineți cu un like, ca eu să îl pot continua.
 
 12
 00:01:12,500 --> 00:01:18,500
-Заранее спасибо! Один из самых частых вопросов который мне почему-то задают подписчики при встрече: "Как попасть в
+Vă mulțumesc anticipat! Una dintre cele mai frecvente întrebări pe care mi le pun abonații atunci când mă întâlnesc întâmplător este: „Cum intru în
 
 13
 00:01:18,500 --> 00:01:25,500
-геймдев?" и какое направление выбрать. И вот как обстоят дела: художников, продюсеров, музыкантов, даже сценаристов
+gamedev?” și ce direcție să ia. Și lucrurile stau așa: artiști, producători, muzicieni, chiar și scenariști
 
 14
 00:01:25,500 --> 00:01:31,500
-найти несложно, а вот геймдизайнеров мало. Индустрия буквально кричит об этом во всех интервью и подкастах. На Большой
+nu sunt greu de găsit, dar designerii de jocuri sunt rari. Industria strigă literalmente despre asta în fiecare interviu și podcast. Un proiect mare
 
 15
 00:01:31,500 --> 00:01:37,500
-проект таких специалистов может с десяток понадобиться. Например, дизайнер боевой системы, дизайнер мини-игр,
+poate avea nevoie de o duzină de astfel de specialiști. De exemplu, un designer de sisteme de luptă, un designer de mini-jocuri,
 
 16
 00:01:37,500 --> 00:01:43,500
-дизайнер уровней, системный дизайнер, благодаря которому в игровом мире работают правила. Есть из чего выбирать, и
+un designer de nivel, un designer de sistem care face ca regulile din lumea jocului să funcționeze. Există o mulțime de opțiuni, iar
 
 17
 00:01:43,500 --> 00:01:49,500
-я бы порекомендовал обучиться профессии в Contented на курсе "геймдизайнер". Потому что это одна из крупнейших школ,
+eu v-aș recomanda să studiați această profesie la Contented, la cursul de „game designer”. Pentru că este una dintre cele mai mari școli,
 
 18
 00:01:49,500 --> 00:01:55,500
-которая обучает дизайну во всех его проявлениях. В программе более сорока практических заданий, чтобы вы сразу
+care predă designul în toate formele sale. Programul include mai mult de patruzeci de exerciții practice, astfel încât să puteți imediat
 
 19
 00:01:55,500 --> 00:02:02,500
-применяли свои знания и наполняли портфолио. Итог курса - проект вашей собственной игры. Обучение продлится 12
+să vă puneți în aplicare cunoștințele și să realizați un portofoliu. Rezultatul cursului este un proiect de joc propriu. Formarea va dura 12
 
 20
 00:02:02,500 --> 00:02:07,500
-месяцев, а по окончанию вы будете уверено работать с Unity, Unreal'ом и Game Maker'ом. Освоите
+luni, iar până la final veți cunoaște bine Unity, Unreal și Game Maker. Veți stăpâni
 
 21
 00:02:07,500 --> 00:02:13,500
-инструменты визуального программирования Unity Bolt, блюпринты и Perforce, которые необходимы для сборки ваших прототипов.
+Unity Bolt, Blueprints și instrumentele de programare vizuală Perforce de care aveți nevoie pentru a vă construi prototipurile.
 
 22
 00:02:13,500 --> 00:02:20,500
