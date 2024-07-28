@@ -84,115 +84,115 @@ Unity Bolt, Blueprints și instrumentele de programare vizuală Perforce de care
 
 22
 00:02:13,500 --> 00:02:20,500
-Будете анализировать механики своих любимых игр и откроете их с новой стороны. Также в программе будет три геймджема,
+Veți analiza mecanica jocurilor voastre preferate și le veți descoperi dintr-o nouă perspectivă. Programul va include, de asemenea, trei game jam-uri,
 
 23
 00:02:20,500 --> 00:02:25,500
-чтобы вы натренировались работать в команде. Занятия занимают от 4 до 8 часов
+astfel încât să puteți exersa munca în echipă. Cursurile durează între 4 și 8 ore
 
 24
 00:02:25,500 --> 00:02:32,500
-в неделю. Если что-то не успеваете, сроки домашек можно двигать и даже заморозить курс, чтобы вернуться к нему потом.
+pe săptămână. Dacă nu aveți timp pentru ceva, puteți să mutați termenele pentru teme și chiar să înghețați cursul, astfel încât să vă puteți întoarce la el mai târziu.
 
 25
 00:02:32,500 --> 00:02:38,500
-Курирует курс Кирилл Золовкин, геймдизайнер с двадцатилетним опытом. Работал в Wargaming'е и My.Games. Кстати, недавно у
+Cursul este supervizat de Kirill Zolovkin, un designer de jocuri cu douăzeci de ani de experiență. El a lucrat la Wargaming și My.Games. Apropo, recent, el
 
 26
 00:02:38,500 --> 00:02:46,500
-него вышла игра Gripper, которую отметил Shuhei Yoshida глава инди направления Sony. Ваш возраст и опыт не важны, всему научат
+a lansat Gripper, care a fost recunoscut de Shuhei Yoshida, șeful diviziei indie a Sony. Vârsta și experiența ta nu contează, ei te vor învăța totul
 
 27
 00:02:46,500 --> 00:02:51,500
-с нуля, а карьерный центр поможет трудоустроиться или найти клиентов на фрилансе. Новички в профессии
+de la zero, iar centrul de carieră vă va ajuta să obțineți un loc de muncă sau să găsiți clienți independenți. Nou-veniții în profesie
 
 28
 00:02:51,500 --> 00:02:57,500
-зарабатывают от 80.000 руб, а мидлы от 190.000. Студенты Content'a начинают
+câștigă de la 80.000 de ruble, iar cei medii de la 190.000. Elevii mulțumiți încep
 
 29
 00:02:57,500 --> 00:03:05,500
-работать с шестого месяца обучения. И кстати вам в школе выдадут сертификат на основании
+să lucreze din a șasea lună de formare. Și apropo, școala vă va da un certificat pe baza
 
 30
 00:03:05,500 --> 00:03:11,500
-Гослицензии 041164. А еще, после регистрации на курс, вам подарят обучающий модуль по нейросетям и дадут доступ в закрытый Telegram бот с сорока их
+Licenței de stat 041164. De asemenea, după înregistrarea la curs, veți primi un modul de instruire privind rețelele neuronale și acces la botul Telegram închis cu patruzeci de
 
 31
 00:03:11,500 --> 00:03:17,500
-разновидностями. Разберётесь в Mid Journey, Pixel App и всевозможными Chat GPT, которые помогут вам в работе над
+varietăți ale acestora. De asemenea, veți obține acces la Mid Journey, Pixel App și tot felul de Chat GPT-uri care vă vor ajuta în activitatea voastră
 
 32
 00:03:17,500 --> 00:03:24,500
-проектами. Так что если обожаете игры и готовы влиться в индустрию голодную до геймдизайнеров, то регистрируйтесь по ссылке
+la proiecte. Așadar, dacă adori jocurile și ești pregătit să te implici într-o industrie dornică de designeri de jocuri, atunci înscrie-te la acest link
 
 33
 00:03:24,500 --> 00:03:31,500
-в описании или QR коду. А по моему промокоду "LVCAI" будет скидка 45%.
+din descriere sau cu codul QR. Și cu codul meu promoțional „LVCAI” va fi o reducere de 45%.
 
 34
 00:03:34,500 --> 00:03:39,500
-Луцай: Какие вещи изменённые невооружённым взглядом заметны?
+Luțai: Care sunt lucrurile care s-au schimbat și care sunt vizibile cu ochiul liber?
 
 35
 00:03:39,500 --> 00:03:47,500
-Платон Фомичев: Невооружённым глазом - UI, конечно же. Появился раздел карты. Потом мы попытались кое-какие механики из Готики возродить.
+Platon Fomicev: Cu ochiul liber - interfața de utilizator, desigur. A apărut o secțiune de hartă. Apoi am încercat să reînviem unele mecanici din Gothic.
 
 36
 00:03:47,500 --> 00:03:50,500
-В частности, по-моему, бросание предметов.
+În special, în opinia mea, aruncarea de obiecte.
 
 37
 00:03:50,500 --> 00:03:54,500
-[Платон Фомичев. Технический директор Elverils] Ну музыка, да, музыка, позиционный звук. Готика была очень известна своим именно
+[Platon Fomicev. Director tehnic Elverils] Ei bine, muzica, da, muzica, sunetul pozițional. Gothic a fost foarte faimos pentru sunetul său
 
 38
 00:03:54,500 --> 00:04:00,500
-позиционным звуком, т.е. ну музыка это ладно, а вот тогда был EAX. Когда мы делали Готику,
+pozițional, adică muzica este în regulă, dar apoi a apărut EAX. Când am făcut Gothic,
 
 39
 00:04:00,500 --> 00:04:07,500
-мы все очень удивились тем насколько сейчас позиционный звук вообще сдох как класс.
+am fost cu toții foarte surprinși de faptul că sunetul pozițional este acum mort ca domeniu.
 
 40
 00:04:09,500 --> 00:04:14,500
-Мы сделали кое-какую реверберацию. Она по умолчанию выключена, потому что
+Am făcut niște reverberații. Sunt oprite în mod implicit deoarece
 
 41
 00:04:14,500 --> 00:04:20,500
-она не всем понравилась. Возможно, мы её допилим ещё. Реверберация тоже есть
+nu au fost pe placul tuturor. Poate le vom mai îmbunătăți. Există și reverberație
 
 42
 00:04:20,500 --> 00:04:26,500
-в игре, т.е. у игры есть физическая модель звука. Она пытается следовать той
+în joc, adică jocul are un model fizic al sunetului. Încearcă să urmeze această
 
 43
 00:04:26,500 --> 00:04:32,500
-звуковой библиотеке, которая была у неё раньше. Да, звук тоже переписан полностью, потому что библиотеки звуковой
+bibliotecă de sunet pe care o avea înainte. Da, sunetul este complet rescris, de asemenea, pentru că biblioteca de sunet
 
 44
 00:04:32,500 --> 00:04:40,500
-уж давно нет. Шрифт. Да, ещё шрифт поменялся. Мы его делали для того, чтобы он хорошо читался на экране и
+a dispărut de mult. Fontul. Da, fontul s-a schimbat. Am făcut în așa fel încât să se citească bine pe ecran atât
 
 45
 00:04:40,500 --> 00:04:50,500
-когда Switch находится в руках и когда Switch находится в телевизоре. Диего: "Мы встретимся в старом лагере".
+atunci când ai Switch-ul în mână, cât și atunci când Switch-ul este în televizor. Diego: „Ne întâlnim în tabăra veche”.
 
 46
 00:04:54,500 --> 00:04:59,500
-Луцай: Готике уже 20 лет. В игре много архаичных решений.
+Luțai: Gothic este deja vechi de 20 de ani. Există o mulțime de decizii arhaice în joc.
 
 47
 00:04:59,500 --> 00:05:06,500
-[Reinhard Pollice. Директор THQ Nordic по продукту]. Я попробовал игру, и она управляется так словно бы консоль вышла будто бы 20 лет назад.
+[Reinhard Pollice. Director de produs la THQ Nordic]. Am încercat jocul și se simte ca și cum consola ar fi apărut acum 20 de ani.
 
 48
 00:05:06,500 --> 00:05:10,500
-Такое решение понравится старым игрокам.
+Soluția aceasta va fi pe placul jucătorilor mai vechi.
 
 49
 00:05:10,500 --> 00:05:17,500
-Но кажется, что молодые ребята не поймут. Так для какой аудитории создавался порт игры?
+Dar se pare că cei mai tineri nu vor înțelege. Deci, pentru ce public a fost creată portarea jocului?
 
 50
 00:05:17,500 --> 00:05:23,500
