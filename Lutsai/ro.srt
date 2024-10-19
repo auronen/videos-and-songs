@@ -968,231 +968,231 @@ Acum, dacă îți place să mânuiești săbii, poți alege două săbii mișto 
 
 243
 00:24:53,500 --> 00:25:00,500
-Luțai: Против этого ребята не были? Олды, которые хотели сохранить всё-таки эту аутентичность, некоторую сложность.
+Luțai: Nu au fost împotrivă? Cei vechi care doreau să păstreze acea autenticitate, o anumită complexitate.
 
 244
 00:25:00,500 --> 00:25:09,500
-Irina: Ну маленькую дерзость себе наверное можно позволить, тем более мы все такие вещички обсуждаем, проверяем, отрабатываем.
+Irina: Probabil că ne putem permite puțină îndrăzneală, mai ales că discutăm, verificăm și rezolvăm cu toții astfel de lucruri.
 
 245
 00:25:09,500 --> 00:25:13,500
-Luțai: Расскажи как к вам пришла идея сделать два оружия,
+Luțai: Spuneți-mi cum v-a venit ideea de a face două arme,
 
 246
 00:25:13,500 --> 00:25:18,500
-потому что это действительно удобнее, это то чего не хватало, и расширяет тактические возможности.
+pentru că este într-adevăr mai convenabil, este ceea ce lipsea și extinde posibilitățile tactice.
 
 247
 00:25:18,500 --> 00:25:22,500
-Konstantin: Просто неудобно когда в инвентаре там подсвечены какие-то отдельные слоты. Ты должен смотреть
+Konstantin: E pur și simplu incomod să ai unele sloturi individuale evidențiate în inventar acolo. Trebuie să te uiți la
 
 248
 00:25:22,500 --> 00:25:28,500
-что у тебя выбрано, что не выбрано. Окно снаряжения напрашивалось. И в этом окне у нас получалось,
+ce ai selectat, ce nu ai selectat. Fereastra de echipament a fost necesară. Iar în acea fereastră,
 
 249
 00:25:28,500 --> 00:25:34,500
-что один слот у нас будет на ближний бой, другой на дальний. Получается вот этот слот на дальний бой, он будет
+Iar în acea fereastră avem un slot pentru o armă de apropiere și unul pentru o armă de distanță. Deci, ăsta e slotul pentru distanță, care va
 
 250
 00:25:34,500 --> 00:25:40,500
-фигурировать еще и в хотбаре, и он будет всё время мозолить глаза. То есть если ты, допустим, не лучник, не арбалетчик,
+apărea și în hotbar și îți va deranja ochii tot timpul. Adică, dacă nu ești arcaș sau arbaletrier,
 
 251
 00:25:40,500 --> 00:25:45,500
-у тебя всё время будет этот пустой слот. Мне показалось это вообще некрасивым.
+vei avea acest slot gol tot timpul. Mi s-a părut că nu e deloc frumos.
 
 252
 00:25:45,500 --> 00:25:52,500
-И тогда и родилась мысль: а что если они будут типонезависимыми? Неважно что ты держишь в этом слоте.
+Atunci s-a conturat ideea: ce-ar fi dacă ar fi independente de tipul armelor? Nu contează ce ții în acel slot.
 
 253
 00:25:52,500 --> 00:26:00,500
-Ну и мы в итоге это реализовали, и получилось действительно удобно. Я видел на стримах как стример подходит
+Așa că am implementat-o în cele din urmă și s-a dovedit a fi un lucru foarte convenabil. Am văzut pe transmisiunile live cum un streamer se apropie
 
 254
 00:26:00,500 --> 00:26:07,500
-к голему каменному. Он достаёт меч и потом понимает какая это была ошибка, и вспоминает что у него ещё есть молот.
+de golemul de piatră. Scoate o sabie și apoi își dă seama ce greșeală a făcut și își amintește că mai are un ciocan.
 
 255
 00:26:07,500 --> 00:26:13,500
-Его откидывает, у него там чуть-чуть здоровья осталось. Он быстренько выхватывает молот из второго слота, начинает отбиваться от голема
+Este aruncat înapoi, mai are puțină viață. Își ia rapid ciocanul din al doilea slot și începe să lupte cu golemul
 
 256
 00:26:13,500 --> 00:26:19,500
-и побеждает его. Вот такая игровая ситуация, мне кажется, она оправдывает это решение.
+și îl învinge. Asta e situația din joc, cred că justifică decizia.
 
 257
 00:26:19,500 --> 00:26:26,500
-Luțai: А сколько примерно итераций прошли твои предложения?
+Luțai: Și aproximativ prin câte iterații au trecut sugestiile voastre?
 
 258
 00:26:26,500 --> 00:26:34,500
-Sofia: Где-то 6 или 8 было итераций. Это были глобальные переосмысления интерфейса. Не сказала бы что они были суперудачные.
+Sofia: Au existat aproximativ șase sau opt iterații. Au fost regândiri globale ale interfeței. Nu aș spune că au avut mare succes.
 
 259
 00:26:34,500 --> 00:26:41,500
-Мне нравится, что мы решили по большей части ориентироваться на оригинал, потому что мне нравится эта жёсткая брутальность оригинала.
+Îmi place că am decis să rămânem în mare parte pe varianta originală, pentru că îmi place brutalitatea dură a originalului.
 
 260
 00:26:41,500 --> 00:26:48,500
-Но в своих итерациях мы пробовали разделять информацию, чтобы она удобнее подавалась, или допустим
+Dar în iterațiile noastre am încercat să împărțim informațiile pentru a le face mai ușor de prezentat, sau, să zicem,
 
 261
 00:26:48,500 --> 00:26:56,500
-освобождать середину экрана. Некоторые окна его закрывают, когда паузы активной в игре нет.
+să lăsăm liber mijlocul ecranului. Unele ferestre se închid atunci când nu există o pauză activă în joc.
 
 262
 00:26:56,500 --> 00:27:00,500
-Luțai: Почему ты решила не оставлять вертикальный интерфейс?
+Luțai: De ce ați decis să nu păstrați interfața verticală?
 
 263
 00:27:00,500 --> 00:27:06,500
-Sofia: Честно говоря, мне нравятся эти столбики в инвентаре. Я очень хотела их оставить, и заказчик попросил что хорошо,
+Sofia: Sincer, îmi plac aceste coloane din inventar. Chiar am vrut să le păstrez, dar clientul
 
 264
 00:27:06,500 --> 00:27:12,500
-но он хотел бы, чтобы инвентарь был как во второй Готике. Но вторая Готика неудобна тем,
+a cerut ca inventarul să fie ca în Gothic 2. Dar cel din al doilea Gothic este incomod
 
 265
 00:27:12,500 --> 00:27:18,500
-что там всё скопом лежит. То есть первая она хотя бы структурирована. Ну и мы совместили
+pentru că totul este adunat acolo. Adică, primul este cel puțin structurat. Așa că am combinat
 
 266
 00:27:18,500 --> 00:27:23,500
-структурирование из первой и вот этот большой инвентарь из второй.
+structurarea de la primul și acest inventar mare de la al doilea.
 
 267
 00:27:23,500 --> 00:27:29,500
-Я очень боялась, что игрокам не понравится такое нововведение, мне оно казалось диковатым.
+Mi-a fost frică că jucătorilor nu le va plăcea o astfel de inovație, îmi părea o nebunie.
 
 268
 00:27:29,500 --> 00:27:35,500
-Честно говоря? я не играла в Готику когда было подходящее время. Были другие любимые игры.
+Sincer? Nu am jucat Gothic când a fost momentul potrivit. Am avut alte jocuri preferate.
 
 269
 00:27:35,500 --> 00:27:42,500
-Возможно, я просто хуже её понимаю, но мне казалось, что вот это брутальное ограничение - это же прикольно.
+Poate că îl înțeleg mai prost, dar restricția asta brutală de aici mi s-a părut destul de mișto.
 
 270
 00:27:42,500 --> 00:27:49,500
-Ты идёшь, и у тебя есть сумка. В сумке есть предметы, и ты не до всех можешь сразу добраться. И это такое как бы
+Mergi pe jos și ai o geantă. Sunt obiecte în geantă și nu poți ajunge la toate deodată. Și asta este un fel
 
 271
 00:27:49,500 --> 00:27:56,500
-ограничение. Тебе приходится следить за менеджментом предметов: какие-то убирать, какие-то оставлять и так далее.
+de limitare. Trebuie să fii atent la cum gestionezi obiectele: pe unele le pui deoparte, pe altele le lași, și așa mai departe.
 
 272
 00:27:56,500 --> 00:27:58,500
-Мне нравится эта шероховатость.
+Îmi place această duritate.
 
 273
 00:28:03,500 --> 00:28:08,500
-Работа со шрифтами - это было, конечно, нечто жуткое.
+Să lucrez cu fonturile a fost cu siguranță ceva înfiorător.
 
 274
 00:28:08,500 --> 00:28:10,500
-Luțai: А почему? Их как-то сложно было оттуда достать, чтобы переработать?
+Luțai: De ce? Erau cumva greu de extras de acolo pentru a fi refăcute?
 
 275
 00:28:10,500 --> 00:28:16,500
-Sofia: Ну как тебе сказать... Для начала у нас там шесть, кажется, языков.
+Sofia: Ei bine, cum aș putea să-ți explic... Pentru început, avem șase limbi, cred.
 
 276
 00:28:16,500 --> 00:28:23,500
-Слава Богу, мне не нужно было работать с иероглифами для китайского. Очень много символов в каждом языке.
+Slavă Domnului că nu a trebuit să lucrez cu caractere pentru chineză. Sunt atât de multe caractere în fiecare limbă.
 
 277
 00:28:23,500 --> 00:28:29,500
-Как минимум возьмём английский и русский - это уже там штук 60, грубо говоря.
+Cel puțin să luăm engleza și rusa - sunt deja acolo 60 de elemente, în linii mari.
 
 278
 00:28:29,500 --> 00:28:35,500
-И каждую букву нужно отрисовать. Нарисовать так, чтобы она сочеталась с остальными буквами,
+Iar fiecare literă trebuie să fie desenată. Trebuie să desenezi fiecare literă în așa fel încât să se potrivească cu restul literelor,
 
 279
 00:28:35,500 --> 00:28:43,500
-чтобы более-менее воспринимался текст. И это всё достаточно объёмная сложная работа,
+pentru ca textul să fie cât de cât clar. Și toată treaba asta e destul de complicată,
 
 280
 00:28:43,500 --> 00:28:51,500
-особенно при условии, что у меня нет специфического образования для работы со шрифтами.
+mai ales că nu am o experiență deosebită în lucrul cu fonturile.
 
 281
 00:28:51,500 --> 00:28:54,500
-Luțai: Погоди, а ты все эти языки знаешь более-менее или как ты с ними знакома?
+Luțai: Stai, știi toate aceste limbi mai mult sau mai puțin, sau de unde le cunoști?
 
 282
 00:28:54,500 --> 00:28:58,500
-Вот что мне интересно. Раз ты перерабатывала шрифты, нет?
+Asta e ceea ce mă întreb. Din moment ce ați refăcut fonturile, nu?
 
 283
 00:28:58,500 --> 00:29:06,500
-Sofia: Грубо говоря, смотрела как это просто смотрится в рыбе и я читала статьи на эту тему,
+Sofia: Aproximativ vorbind, urmărind doar cum arată în schiță și am citit articole pe acest subiect,
 
 284
 00:29:06,500 --> 00:29:11,500
-и нашла пару книг со всякими главными основными впечатлениями.
+și am găsit câteva cărți cu tot felul de impresii de bază esențiale.
 
 285
 00:29:11,500 --> 00:29:18,500
-Традиция написания для отображения символа очень важна. Она как бы определяет как этот
+Tradiția scrisului pentru afișarea unui anumit caracter este foarte importantă. Ea definește într-un fel cum
 
 286
 00:29:18,500 --> 00:29:25,500
-символ будет выглядеть. Самый простой пример - буква "N" английская и "И" русская.
+va arăta caracterul simbolului. Cel mai simplu exemplu este litera „N” în engleză și „И” în rusă.
 
 287
 00:29:25,500 --> 00:29:31,500
-Если ты просто возьмёшь "N" и отразишь, она не будет выглядеть как "И" банально потому,
+Dacă doar iei „N” și îl oglindești, nu va arăta ca un „И” trivial, deoarece
 
 288
 00:29:31,500 --> 00:29:39,500
-что там должны быть разные толщины. Их как бы по-разному писали в свою время. Поэтому мы воспринимаем её не так.
+ar trebui să aibă grosimi diferite. Au fost scrise într-un fel diferit în vremea lor. De asta le percepem diferit.
 
 289
 00:29:39,500 --> 00:29:42,500
-Она выглядит как Зловещая Долина, как глупость.
+Arată straniu, ca un lucru caraghios
 
 290
 00:29:42,500 --> 00:29:48,500
-Luțai: Вот что мне интересно. А сколько раз надо пройти игру, чтобы аккуратно перенести её на другую платформу?
+Luțai: Iată ce mă întreb. De câte ori trebuie să treci printr-un joc pentru a-l porta impecabil pe o altă platformă?
 
 291
 00:29:48,500 --> 00:29:54,500
-В моём понимании, чтобы переработать пользовательский опыт и добавить какие-то новые фишки в такой древний проект
+Din punctul meu de vedere, pentru a reface experiența utilizatorului și pentru a adăuga câteva caracteristici noi la un proiect atât de vechi,
 
 292
 00:29:54,500 --> 00:30:02,500
-нужно сначала по кирпичику, в обратном порядке, разобрать игру на части. Но так ли это на самом деле?
+e necesar să demontezi mai întâi jocul cărămidă cu cărămidă, în ordine inversă. Dar este într-adevăr așa?
 
 293
 00:30:02,500 --> 00:30:10,500
-А ты прошёл всю игру с Motion'ом? А кого ты заставил это делать? Ну чтобы все оттестировали.
+Ai trecut prin tot jocul cu Motion? Pe cine ai pus să o facă? Adică, pentru ca toți să-l poată testa.
 
 294
 00:30:10,500 --> 00:30:17,500
-Gleb: По большей части этим занималась Irina. Да, она уже, возможно, успела тебе нажаловаться на свою нелегкую жизнь.
+Gleb: Irina a făcut cea mai mare parte din asta. Da, e posibil să se fi plâns deja despre viața ei grea.
 
 295
 00:30:17,500 --> 00:30:21,500
-Luțai: Нет, нет, нет. Она сказала, что нужно пойти к тебе, и ты все расскажешь.
+Luțai: Nu, nu, nu. Mi-a spus să mă duc la tine și tu o să-mi spui totul.
 
 296
 00:30:21,500 --> 00:30:28,500
-Вообще, чтобы в релиз такую фичу выпустить нужно всю игру так пройти?
+Chiar a trebuit să parcurgi întregul joc în acest mod pentru a lansa o astfel de funcționalitate?
 
 297
 00:30:28,500 --> 00:30:32,500
-Gleb: По большому счёту, да. Ну, по крайней мере, достаточно много времени уделить её тестированию на всех этапах игры.
+Gleb: Practic, da. Ei bine, cel puțin petreci destul de mult timp testând-o în toate etapele jocului.
 
 298
 00:30:32,500 --> 00:30:37,500
-Потому что, понятное дело, что один и тот же сет мувов, он на разных этапах игры, в зависимости от прокачки героя,
+Deoarece, evident, același set de mișcări, se va simți foarte diferit în diferite etape ale jocului,
 
 299
 00:30:37,500 --> 00:30:39,500
-будет ощущаться совсем по-разному.
+în funcție de abilitățile eroului.
 
 300
 00:30:39,500 --> 00:30:44,500
