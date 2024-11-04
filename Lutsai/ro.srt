@@ -1400,99 +1400,99 @@ e că nu te manipulează cu scopul de a te ține, ci prioritizează autonomia ju
 
 351
 00:35:28,500 --> 00:35:36,500
-Поэтому решения игрока имеют значение. И ему нужно взаимодействовать с миром, чтобы разобраться в происходящем.
+Deci deciziile jucătorului contează. Iar el trebuie să interacționeze cu lumea pentru a înțelege ce se întâmplă.
 
 352
 00:35:36,500 --> 00:35:43,500
-Это же касается симуляции мира, в котором у каждого NPC есть свой распорядок дня и свои занятия, которые
+Același lucru e valabil și la simularea unei lumi în care fiecare NPC are propriile sale rutine și activități care
 
 353
 00:35:43,500 --> 00:35:52,500
-наполняют этот мир жизнью. Я думаю, это одна из основных причин, почему эти игры были так популярны и уникальны.
+dau viață lumii. Cred că acesta e unul dintre principalele motive pentru care aceste jocuri au fost atât de populare și unice.
 
 354
 00:35:56,500 --> 00:36:02,500
-Luțai: Но откуда взялась вот эта агентивность Готики? И абсолютно нестандартный подход даже к каким-то
+Luțai: Dar de unde provine autonomia din Gothic? Și abordarea absolut neconvențională chiar și pentru unele
 
 355
 00:36:02,500 --> 00:36:09,500
-мелочам из-за которых игра управляется и ощущается иначе нежели другие игры. Вот сейчас можно услышать фразу довольно часто,
+lucruri mici, datorită cărora jocul se desfășoară și se simte diferit de alte jocuri. În zilele noastre puteți auzi destul de des afirmația
 
 356
 00:36:09,500 --> 00:36:15,500
-мол, игры на Unreal ощущаются одинаковыми. Или: вот этим ребятам пора бы поменять движок, иначе их будущие
+cum că jocurile Unreal se simt la fel. Sau: „E timpul ca oamenii ăștia să schimbe motorul, altfel proiectele lor viitoare
 
 357
 00:36:15,500 --> 00:36:20,500
-проекты остановятся в развитии. И у героев этого выпуска любопытная точка зрения на этот счёт.
+nu se vor mai dezvolta”. Iar eroii acestei ediții au un punct de vedere curios în această privință.
 
 358
 00:36:20,500 --> 00:36:27,500
-Почему в такие времена технических ограничений могли сделать настолько проработанную на разных уровнях
+De ce în aceste vremuri ale limitărilor tehnice au putut face un joc atât de elaborat pe diferite niveluri,
 
 359
 00:36:27,500 --> 00:36:33,500
-игру, где работало большое количество всевозможных систем. Опять же, как вы правильно сказали, замкнутый мир, но
+în care funcționau un număr mare de tot felul de sisteme. Din nou, așa cum ai spus pe bună dreptate, o lume închisă, dar
 
 360
 00:36:33,500 --> 00:36:39,500
-который ощущался при этом живым. Почему подобное перестали делать после? Как будто и примеров нет.
+una care se simțea vie totodată. De ce au încetat să mai facă așa ceva după aceea? E ca și cum nici nu ar exista exemple.
 
 361
 00:36:39,500 --> 00:36:45,500
-Platon: Я сам удивляюсь. Это одна из тем, о которых мы часто говорим с господином Рейнхардом.
+Platon: Și eu sunt surprins. Ăsta e unul dintre subiectele pe care le discutăm adesea cu domnul Reinhard.
 
 362
 00:36:45,500 --> 00:36:51,500
-Как так что вот Готика это смогла? Я знаю как устроена Готика, я знаю что там,
+Cum a putut Gothic să facă asta? Știu cum funcționează Gothic, știu ce-i acolo,
 
 363
 00:36:51,500 --> 00:36:57,500
-например, 50% игры - это скрипты, да. Это тоже не секрет. 50% игры - это скрипты на очень продвинутом языке,
+cam 50% din joc este scriptat, da. Nici ăsta nu e un secret. 50% din joc e scriptat într-un limbaj foarte avansat,
 
 364
 00:36:57,500 --> 00:37:02,500
-который, кстати, прям жемчужина Готики, без сомнений.
+care, apropo, e bijuteria Gothic, fără îndoială.
 
 365
 00:37:02,500 --> 00:37:09,500
-Местный скриптовый язык, Dedaulus он называется. Полагаю, что у коллег из Piranha Bytes
+E vorba de limbajul local de scripting numit Dedaulus. Cred că cei de la Piranha Bytes
 
 366
 00:37:09,500 --> 00:37:14,500
-тогда было настоящее озарение. Это было... ну возможно это свыше, да.
+au avut o adevărată epifanie atunci. A fost... ei bine, poate că a fost de sus, da.
 
 367
 00:37:14,500 --> 00:37:20,500
-Как тонко игрока подводили к некоторым вещам: когда он искал этот арбалет,
+Cât de subtil a fost condus jucătorul la unele lucruri: când căuta acea arbaletă,
 
 368
 00:37:20,500 --> 00:37:27,500
-классический пример из вашего же по-моему ролика. Вот этот знаменитый с Хроманином. Даже, когда я играл,
+un exemplu clasic din videoclipul tău, cred. Cel faimos cu Chromanin. Chiar și atunci când jucam,
 
 369
 00:37:27,500 --> 00:37:33,500
-я чувствовал, что я полностью вовлечен в это всё. И полагаю, что ребята тогда очень хорошо и
+simțeam că sunt total implicat în toată treaba. Și presupun că în acea vreme băieții se gândeau foarte
 
 370
 00:37:33,500 --> 00:37:40,500
-сильно продумывали это. И ещё, скорее всего, я думаю в те времена люди не боялись говорить, что надо сделать так.
+temeinic și bine la asta. Și, de asemenea, probabil, cred că în acele vremuri oamenii nu se temeau să spună: „Trebuie s-o faci așa”.
 
 371
 00:37:40,500 --> 00:37:48,500
-Типа я хочу, что когда я бегу, а за мной висит стадо волков, то все овцы
+De exemplu, vreau ca atunci când fug și am o haită de lupi în spatele meu, toate oile
 
 372
 00:37:48,500 --> 00:37:53,500
-разбегались, а NPC с топорами бросались на волков. А волки начинали убегать,
+să fugă, iar NPC-urile cu topoare să se repeadă la lupi. Iar lupii ar începe să fugă,
 
 373
 00:37:53,500 --> 00:38:00,500
-забегали в дома и грызли местное население. И никто тогда не говорил: "О, это слишком сложно,
+să intre în case și să atace localnicii. Și nimeni nu a spus vreodată: „O, e prea complicat,
 
 374
 00:38:00,500 --> 00:38:03,500
-Тут нужно построить нейросеть". Все просто сидели и делали.
+trebuie să construiești o rețea neuronală”. Toată lumea a stat acolo și a făcut-o.
 
 375
 00:38:03,500 --> 00:38:09,500
