@@ -1496,111 +1496,111 @@ trebuie să construiești o rețea neuronală”. Toată lumea a stat acolo și 
 
 375
 00:38:03,500 --> 00:38:09,500
-И иногда и довольно-таки кондовыми методами. Грубо говоря, если волк видит хатку,
+Și uneori cu metode relativ sofisticate. Pe scurt, dacă un lup vede o colibă,
 
 376
 00:38:09,500 --> 00:38:14,500
-то забежать в хатку. Ну вот так. Конечно, Готику можно проломить, и никакого там
+atunci fuge în colibă. Uite-așa. Bineînțeles, Gothic poate fi stricat, iar în el nu
 
 377
 00:38:14,500 --> 00:38:20,500
-супер хвалёного AI внутри нет. Но то, как сделан AI всё равно получается на голову выше,
+se află niciun AI super lăudat. Dar modul în care este făcut AI-ul este încă deasupra
 
 378
 00:38:20,500 --> 00:38:27,500
-чем в современных-то реалиях. Я прям считаю, что очень полезно будет молодому поколению увидеть,
+realităților moderne. Cred că ar fi foarte util pentru generația tânără să vadă
 
 379
 00:38:27,500 --> 00:38:32,500
-на примере того как работает старая Готика, как могут делать игры.
+cum funcționează vechiul Gothic, ca un exemplu de cum pot fi făcute jocurile.
 
 380
 00:38:34,500 --> 00:38:38,500
-Konstantin: Когда я смотрю код Готики, я не вижу ничего сложного в нём.
+Konstantin: Când mă uit la codul Gothic, nu văd nimic complicat la el.
 
 381
 00:38:38,500 --> 00:38:45,500
-Уже впоследствии в коде Piranha Bytes появилось усложнение, они стали профессиональнее, и вот эта простота
+Mai târziu, codul Piranha Bytes a devenit mai complicat, au devenit mai profesioniști, iar această simplitate
 
 382
 00:38:45,500 --> 00:38:51,500
-немножко ушла. Мне кажется, это такой уникальный момент, когда рождается новая рок-группа, у неё выходит
+a dispărut un pic. Cred că este un moment unic când se naște o nouă trupă rock, când își lansează
 
 383
 00:38:51,500 --> 00:38:57,500
-первый альбом. Она такая со свежими силами, она всё пробует, ей всё интересно.
+primul album. E atât de plină de noutate, încearcă totul, e interesată de orice.
 
 384
 00:38:57,500 --> 00:39:04,500
-И в этот момент, буквально простыми инструментами, она создаёт шедевр. Вот здесь тоже самое. Ребята с амбициями,
+Și în acel moment, cu unelte foarte simple, creează o capodoperă. E la fel și aici. Tipi cu ambiție,
 
 385
 00:39:04,500 --> 00:39:11,500
-не стали ставить себе блоки, ограничения. Они просто делали всё, что хотели. Да, потом эти ограничения издатель поставил,
+nu și-au pus nicio barieră, nicio limită. Au făcut ce au vrut ei să facă. Da, apoi editorul a pus acele restricții
 
 386
 00:39:11,500 --> 00:39:16,500
-и нужно было что-то вырезать. Но сам заряд вот этой молодой рок-группы, он в Пираньях чувствуется. Даже вот если мы
+și au trebuit să taie unele lucruri. Dar energia unei trupe rock tinere, o poți simți la Piranha. Chiar dacă ne
 
 387
 00:39:16,500 --> 00:39:23,500
-посмотрим их ранние фотографии. Это просто, не знаю, Металлика! От них идёт такой драйв.
+uităm la primele poze cu ei. E ca și cum, nu știu, Metallica! Au acest tip de energie.
 
 388
 00:39:25,500 --> 00:39:35,500
-Особенность их движка в том, что весь террейн рендерится пополигонально.
+Particularitatea motorului lor grafic e faptul că întregul teren este randat poligonal.
 
 389
 00:39:35,500 --> 00:39:37,500
-Это не очень хорошо с точки зрения оптимизации.
+Din perspectiva optimizării, nu e un lucru bun.
 
 390
 00:39:37,500 --> 00:39:44,500
-Но с точки зрения логики мира, как они его закладывали эту логику, это делает ощущение от мира,
+Dar din punct de vedere al logicii lumii, al felului în care au stabilit această logică, face ca lumea să pară
 
 391
 00:39:44,500 --> 00:39:52,500
-что он действительно такой составной. Он как конструктор сделан. Мы это можем наблюдать по текстурам,
+atât de complexă. E ca și cum ar fi făcut-o un constructor. Putem vedea asta în texturi,
 
 392
 00:39:52,500 --> 00:39:58,500
-мы можем наблюдать это по тому, как встроены части мира. Достаточно изящно сделаны леса,
+putem vedea asta în modul în care sunt construite părțile lumii. Schelele, care sunt de fapt camere închise,
 
 393
 00:39:58,500 --> 00:40:04,500
-которые на самом деле являются закрытыми помещениями. Это буквально комнаты, куда ты заходишь.
+sunt realizate destul de elegant. Sunt literalmente camere în care intri.
 
 394
 00:40:04,500 --> 00:40:09,500
-То есть у них нету ничего посредственного. У них всё что-то такое своё, уникальное, особенное.
+Adică, nu au nimic mediocru. Au ceva deosebit, unic, special.
 
 395
 00:40:09,500 --> 00:40:14,500
-Они оставили такую смелость в каждом своём решении.
+Au arătat mult curaj în fiecare decizie pe care au luat-o.
 
 396
 00:40:14,500 --> 00:40:20,500
-Evgheni: ELEX писали примерно пять человек, что касается рендера, по-моему, то ли пять, то ли три. И все парни были
+Evgheni: ELEX a fost scris de aproximativ cinci persoane, iar în ceea ce privește randarea, cred că au fost cinci sau trei. Și toți băieții erau
 
 397
 00:40:20,500 --> 00:40:26,500
-ультра толковые. Это просто по их коду видно. Ты видишь код, ты видишь как он написан. Ты понимаешь, чтобы тебе
+foarte pricepuți. O poți vedea în codul lor. Vezi codul, vezi cum e scris. Îți dai seama că,
 
 398
 00:40:26,500 --> 00:40:33,500
-спортировать этот проект, ты можешь вообще определённые файлы никогда не трогать. Это удивительно. Они настолько
+pentru a porta acest proiect, s-ar putea să nu poți să te atingi deloc de anumite fișiere. E uimitor. Sunt atât de
 
 399
 00:40:33,500 --> 00:40:41,500
-преисполнились в своём познании написания кода, что они сделали плюс-минус идеальный рендеринг, если быть честным.
+desăvârșiți în ceea ce privește cunoștințele lor de scriere a codului, încât au făcut o randare aproape perfectă, ca să fiu sincer.
 
 400
 00:40:41,500 --> 00:40:44,500
-Luțai: Ты кайфуешь от самих задач, от самого кода? От того как он сделан? Evgheni: От самого кода, да.
+Luțai: Ești încântat de munca în sine, de codul în sine? Modul în care este realizat? Evgheni: Codul în sine, da.
 
 401
 00:40:44,500 --> 00:40:50,500
-Я большую часть ELEX'a провёл в двадцати файлах или около того.
+La ELEX am petrecut cea mai mare parte a timpului în douăzeci de fișiere sau cam așa ceva.
 
 402
 00:40:50,500 --> 00:40:57,500
