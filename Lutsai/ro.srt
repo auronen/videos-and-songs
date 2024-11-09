@@ -8,7 +8,7 @@ prea cool. În zilele noastre, termenul „multiplatformă” este folosit mai d
 
 3
 00:00:14,500 --> 00:00:19,500
-Dar imaginați-vă unul dintre cele mai importante jocuri native pentru PC, și anume Gothic,
+Dar imaginați-vă că unul dintre cele mai importante jocuri native pentru PC, și anume Gothic,
 
 4
 00:00:19,500 --> 00:00:25,500
@@ -20,11 +20,11 @@ De ce și cine are nevoie de asta? Cum sunt portate jocurile în general? O port
 
 6
 00:00:32,500 --> 00:00:39,500
-Astăzi ne vom ocupa de asta. Am vorbit cu băieții de la studioul Elverils din Sankt Petersburg, care se ocupă cu porturi de jocuri. De exemplu,
+Vom aborda acest subiect astăzi. Am vorbit cu băieții de la studioul Elverils din Sankt Petersburg, care se ocupă cu porturi de jocuri. De exemplu,
 
 7
 00:00:39,500 --> 00:00:46,500
-Jocuri Larian pe Mac și iPad. Ei tocmai au lansat Baldur's Gate 3. Sau poate îi cunoașteți de la portarea lui Original Sin 2 pentru iPad.
+jocuri Larian pe Mac și iPad. Ei tocmai au lansat Baldur's Gate 3. Sau poate îi cunoașteți de la portarea lui Original Sin 2 pentru iPad.
 
 8
 00:00:46,500 --> 00:00:53,500
@@ -36,7 +36,7 @@ cum ar fi Risen pe Switch și Mac, Elex 2 pe Mac. Ei au fost cei care au lansat 
 
 10
 00:00:59,500 --> 00:01:07,500
-o vom discuta. Apropo, THQ a anunțat deja partea a doua pentru Switch, iar aceasta este realizată tot de băieții de la Elverils. Dacă vă place acest format,
+o vom discuta. Apropo, THQ a anunțat deja partea a doua pentru Switch, iar de ea se ocupă tot băieții de la Elverils. Dacă vă place acest format,
 
 11
 00:01:07,500 --> 00:01:12,500
@@ -84,7 +84,7 @@ Unity Bolt, Blueprints și instrumentele de programare vizuală Perforce de care
 
 22
 00:02:13,500 --> 00:02:20,500
-Veți analiza mecanica jocurilor voastre preferate și le veți descoperi dintr-o nouă perspectivă. Programul va include, de asemenea, trei game jam-uri,
+Veți analiza mecanicile jocurilor voastre preferate și le veți descoperi dintr-o nouă perspectivă. Programul va include, de asemenea, trei game jam-uri,
 
 23
 00:02:20,500 --> 00:02:25,500
@@ -96,7 +96,7 @@ pe săptămână. Dacă nu aveți timp pentru ceva, puteți să mutați termenel
 
 25
 00:02:32,500 --> 00:02:38,500
-Cursul este supervizat de Kirill Zolovkin, un designer de jocuri cu douăzeci de ani de experiență. El a lucrat la Wargaming și My.Games. Apropo, recent, el
+Cursul este supervizat de Chiril Zolovkin, un designer de jocuri cu douăzeci de ani de experiență. El a lucrat la Wargaming și My.Games. Apropo, recent, el
 
 26
 00:02:38,500 --> 00:02:46,500
@@ -104,7 +104,7 @@ a lansat Gripper, care a fost recunoscut de Shuhei Yoshida, șeful diviziei indi
 
 27
 00:02:46,500 --> 00:02:51,500
-de la zero, iar centrul de carieră vă va ajuta să obțineți un loc de muncă sau să găsiți clienți independenți. Nou-veniții în profesie
+de la zero, iar centrul de carieră te va ajuta să obții un loc de muncă sau să găsești clienți independenți. Nou-veniții în profesie
 
 28
 00:02:51,500 --> 00:02:57,500
@@ -116,7 +116,7 @@ să lucreze din a șasea lună de formare. Și apropo, școala vă va da un cert
 
 30
 00:03:05,500 --> 00:03:11,500
-Licenței de stat 041164. De asemenea, după înregistrarea la curs, veți primi un modul de instruire privind rețelele neuronale și acces la botul Telegram închis cu patruzeci de
+Licenței de stat 041164. De asemenea, după înregistrarea la curs, veți primi un modul de instruire despre rețelele neuronale și acces la botul Telegram închis cu patruzeci de
 
 31
 00:03:11,500 --> 00:03:17,500
@@ -148,11 +148,11 @@ Platon Fomicev: Cu ochiul liber - interfața de utilizator, desigur. A apărut o
 
 38
 00:03:54,500 --> 00:04:00,500
-pozițional, adică muzica este în regulă, dar apoi a apărut EAX. Când am făcut Gothic,
+pozițional, adică muzica e în regulă, dar apoi a apărut EAX. Când am făcut Gothic,
 
 39
 00:04:00,500 --> 00:04:07,500
-am fost cu toții foarte surprinși de faptul că sunetul pozițional este acum mort ca domeniu.
+am fost cu toții foarte surprinși de faptul că sunetul pozițional e acum mort ca domeniu.
 
 40
 00:04:09,500 --> 00:04:14,500
@@ -168,7 +168,7 @@ nu au fost pe placul tuturor. Poate le vom mai îmbunătăți. Există și rever
 
 43
 00:04:26,500 --> 00:04:32,500
-bibliotecă de sunet pe care o avea înainte. Da, sunetul este complet rescris, de asemenea, pentru că biblioteca de sunet
+bibliotecă de sunet pe care o avea înainte. Da, sunetul e complet rescris, de asemenea, pentru că biblioteca de sunet
 
 44
 00:04:32,500 --> 00:04:40,500
@@ -176,11 +176,11 @@ a dispărut de mult. Fontul. Da, fontul s-a schimbat. Am făcut în așa fel în
 
 45
 00:04:40,500 --> 00:04:50,500
-atunci când ai Switch-ul în mână, cât și atunci când Switch-ul este în televizor. Diego: „Ne întâlnim în tabăra veche”.
+atunci când ai Switch-ul în mână, cât și atunci când Switch-ul e conectat la televizor. Diego: „Ne întâlnim în tabăra veche”.
 
 46
 00:04:54,500 --> 00:04:59,500
-Luțai: Gothic este deja vechi de 20 de ani. Există o mulțime de decizii arhaice în joc.
+Luțai: Gothic e deja vechi de 20 de ani. Există o mulțime de decizii arhaice în joc.
 
 47
 00:04:59,500 --> 00:05:06,500
@@ -196,7 +196,7 @@ Dar se pare că cei mai tineri nu vor înțelege. Deci, pentru ce public a fost 
 
 50
 00:05:17,500 --> 00:05:23,500
-Reinhard: цель состояла в том, чтобы вернуть Готику людям, которые помнят её. Которым
+Reinhard: Obiectivul a fost să readucem Gothic la oamenii care și-l amintesc. Cei care
 
 51
 00:05:23,500 --> 00:05:29,500
@@ -252,7 +252,7 @@ Luțai: Știi, în ciuda faptului că în videoclip am spus despre controlul de 
 
 64
 00:06:36,500 --> 00:06:43,500
-au fost făcute în esență pe tastatură. Și am simțit că gamepad-ul s-ar potrivi perfect aici. Dar să spunem că am spus asta atunci
+au fost făcute în esență pe tastatură. Și am simțit că gamepadul s-ar potrivi perfect aici. Dar să spunem că am spus asta atunci
 
 65
 00:06:43,500 --> 00:06:48,500
@@ -276,15 +276,15 @@ Konstantin: Ceea ce mi-a plăcut cu adevărat la ideea lor originală este că a
 
 70
 00:07:13,500 --> 00:07:20,500
-interactivitate, dar cel mai probabil intenționau să existe dialoguri pe aceasta
+interactivitate, dar cel mai probabil intenționau să existe dialoguri legate de asta
 
 71
 00:07:20,500 --> 00:07:27,500
-și alte funcții. Așadar, toate funcțiile ar fi trebuit să fie pe aceasta. Și când am deschis build-urile alfa, ne-am uitat la ele,
+și alte funcții. Așadar, toate funcțiile ar fi trebuit să fie legate de asta. Și când am deschis build-urile alfa, ne-am uitat la ele,
 
 72
 00:07:27,500 --> 00:07:33,500
-această ipoteză a fost confirmată. Pentru că au chiar acolo jos, în dreapta jos, au introdus în mod specific butoanele Ctrl Shift,
+această ipoteză a fost confirmată. Pentru că au chiar acolo jos, în dreapta jos, au introdus în mod specific butoanele Ctrl, Shift,
 
 73
 00:07:33,500 --> 00:07:39,500
@@ -296,7 +296,7 @@ Ei aveau literalmente aceeași logică în spatele a tot. Ce sunt aceste butoane
 
 75
 00:07:44,500 --> 00:07:50,500
-Da, este într-adevăr o soluție pentru consolă. Acest lucru ne duce înapoi la primele gamepad-uri,
+Da, este într-adevăr o soluție pentru consolă. Acest lucru ne duce înapoi la primele gamepaduri,
 
 76
 00:07:50,500 --> 00:07:55,500
@@ -304,7 +304,7 @@ unde existau două butoane, săritură, atac, cruce.
 
 77
 00:07:55,500 --> 00:08:01,500
-La fel ca dispozitivele arcade, de altfel. Adică, este o idee atât de veche.
+La fel ca dispozitivele arcade, de altfel. Adică, e o idee atât de veche.
 
 78
 00:08:01,500 --> 00:08:06,500
@@ -324,7 +324,7 @@ pentru a face din controalele clasice din Gothic o opțiune. Ăsta e exact tipul
 
 82
 00:08:23,500 --> 00:08:29,500
-Motion Control clasic, adică un singur Joy-Con, fluturând în aer, pentru a trece prin întregul joc.
+Motion Control clasic, adică un singur Joy-Con, fluturat în aer, pentru a trece prin întregul joc.
 
 83
 00:08:29,500 --> 00:08:33,500
@@ -332,7 +332,7 @@ Interacțiunea cu inventarul, în dialoguri. Totul poate fi făcut mai scurt.
 
 84
 00:08:33,500 --> 00:08:43,500
-Luțai: Nu, ați auzit bine! Ei au adus într-adevăr Joy-Con Motion Control în port. Acum este practic un joc pentru toate tipurile de jucători de pe Nintendo.
+Luțai: Nu, ați auzit bine! Ei au adus într-adevăr Joy-Con Motion Control în portare. Acum este practic un joc pentru toate tipurile de jucători de pe Nintendo.
 
 85
 00:08:43,500 --> 00:08:51,500
@@ -360,11 +360,11 @@ deloc ușurați, pentru că existau deja unele dificultăți.
 
 91
 00:09:19,500 --> 00:09:28,500
-Luțai: ce pot face cu Motion aici? Gleb: De fapt, toată interacțiunea cu Motion-urile este limitată doar de armă. Un pic este suficient, în general,
+Luțai: Ce pot face cu Motion aici? Gleb: De fapt, toată interacțiunea cu Motion-urile e limitată doar de armă. Un pic e suficient, în general,
 
 92
 00:09:28,500 --> 00:09:34,500
-am fost inițial foarte sceptic cu privire la această idee. Când a fost trasată sarcina de a o aduce la o stare aproape jucabilă.
+am fost inițial foarte sceptic în legătură cu această idee. Când a fost stabilit obiectivul de a o aduce la o stare aproape jucabilă.
 
 93
 00:09:34,500 --> 00:09:41,500
@@ -376,11 +376,11 @@ să pară o caracteristică cu adevărat relevantă și nu ceva de genul: hai do
 
 95
 00:09:48,500 --> 00:09:52,500
-Luțai: Există un gamepad, e ca și cum ar fi fost mereu acolo. Și, în principiu, Motion este probabil
+Luțai: Există un gamepad, e ca și cum ar fi fost mereu acolo. Și, în principiu, Motion e probabil
 
 96
 00:09:52,500 --> 00:09:58,500
-logic în acest sistem, unde totul este atât de împrăștiat. Dar singurul lucru este că mișcările sunt oricum foarte convenționale.
+logic în acest sistem, unde totul e atât de împrăștiat. Dar singurul lucru este că mișcările sunt oricum foarte convenționale.
 
 97
 00:09:58,500 --> 00:10:06,500
@@ -396,7 +396,7 @@ Cel puțin dacă știi exact cum interacționează.
 
 100
 00:10:13,500 --> 00:10:22,500
-Luțai: Este la fel de specific Motion ca și controalele normale făcute aici, de asemenea, destul de hardcore. [Râde] Nu pot s-o lovesc!
+Luțai: Motionul acesta e destul de specific, la fel ca controalele normale făcute aici. Destul de hardcore. [Râde] Nu pot s-o lovesc!
 
 101
 00:10:22,500 --> 00:10:25,500
@@ -740,11 +740,11 @@ un proiect Windows, atunci se folosea tehnologia Windows. Mă refer la tehnologi
 
 186
 00:18:57,500 --> 00:19:03,500
-pe care o puteți numi 0 este cu siguranță tehnologia DirectX. DirectX 6 sau 7, sincer nu-mi amintesc acum.
+pe care o puteți numi 0 este cu siguranță tehnologia DirectX. DirectX 6 sau 7, sincer nu-mi amintesc acum,
 
 187
 00:19:03,500 --> 00:19:10,500
-Dar este pipeline-ul DirectX Fix, denumit astfel. Adică, nu existau shadere în acele zile. Dar exista pipeline-ul Fix,
+dar este pipeline-ul DirectX Fix, denumit astfel. Adică, nu existau shadere în acele zile. Dar exista pipeline-ul Fix,
 
 188
 00:19:10,500 --> 00:19:15,500
@@ -756,7 +756,7 @@ e imposibil. Pur și simplu nu va rula. Pentru că Switch nu știe nimic despre 
 
 190
 00:19:21,500 --> 00:19:28,500
-shadere mult timp, apoi „Salut”. Într-adevăr, trebuie să aplaudăm punctualitatea
+de shadere mult timp, apoi „Salut”. Într-adevăr, trebuie să aplaudăm punctualitatea
 
 191
 00:19:28,500 --> 00:19:33,500
@@ -888,11 +888,11 @@ S-a decis să se reimagineze de la zero. De exemplu, există un lucru, care poat
 
 223
 00:22:45,500 --> 00:22:53,500
-- un meniu convenabil de hărți. Ei bine, și în plus față de asta, multe alte lucruri au fost redesenate cu noua experiență de utilizare în minte, care a făcut jocul mai accesibil.
+un meniu convenabil de hărți. Ei bine, și în plus față de asta, multe alte lucruri au fost redesenate cu noua experiență de utilizare în minte, care a făcut jocul mai accesibil.
 
 224
 00:22:53,500 --> 00:22:59,500
-De exemplu, există acum un meniu de echipament modernizat cu o rubrică. Și e ușor de văzut ce poartă eroul.
+De exemplu, există acum un meniu modernizat pentru echipament cu o rubrică. Și e ușor de văzut ce poartă eroul.
 
 225
 00:22:59,500 --> 00:23:02,500
@@ -956,7 +956,7 @@ Nu e suficient să faci ceva pentru un fan, trebuie să vezi și cum au reacțio
 
 240
 00:24:35,500 --> 00:24:40,500
-Irina: Mai e un lucru, poate ați observat. Luțai: Avem două arme, două arme din care poți alege,
+Irina: Mai e un lucru, poate l-ai observat. Luțai: Avem două arme, două arme din care poți alege,
 
 241
 00:24:40,500 --> 00:24:45,500
@@ -1152,7 +1152,7 @@ ar trebui să aibă grosimi diferite. Au fost scrise într-un fel diferit în vr
 
 289
 00:29:39,500 --> 00:29:42,500
-Arată straniu, ca un lucru caraghios
+Arată straniu, ca un lucru caraghios.
 
 290
 00:29:42,500 --> 00:29:48,500
@@ -1308,7 +1308,7 @@ Luțai: Cum funcționează? Evgheni: Este foarte simplu.
 
 328
 00:33:11,500 --> 00:33:17,500
-Luțai: Adică, nu trebuie să o faci, nu? Evgheni: Da. Deci nici eu nu prea am jucat ELEX. Uite care e povestea mea.
+Luțai: Adică, nu trebuie să o faci, nu? Evgheni: Da. Adică eu nu prea am jucat nici ELEX. Uite care e povestea.
 
 329
 00:33:17,500 --> 00:33:23,500
@@ -1344,7 +1344,7 @@ Luțai: Deci acelea sunt, în esență, o listă, mai exact a sarcinilor respect
 
 337
 00:34:02,500 --> 00:34:08,500
-Luțai: Nu vă interesează cu adevărat aceste jocuri? Evgheni: Baldur's Gate sau toate acestea?
+Luțai: Nu te interesează cu adevărat aceste jocuri? Evgheni: Baldur's Gate sau toate acestea?
 
 338
 00:34:08,500 --> 00:34:11,500
@@ -1360,7 +1360,7 @@ Pentru că ești cu acest joc 24/7. Ajungi acasă seara
 
 341
 00:34:26,500 --> 00:34:31,500
-îți spui: „Așa aș vrea să mai am 10 ore în care să mă uit la același lucru.”
+îți spui: „Așa aș vrea să mai am 10 ore în care să mă uit la același lucru”.
 
 342
 00:34:31,500 --> 00:34:37,500
@@ -1380,7 +1380,7 @@ Gleb: Și el îți va mulțumi, da. Luțai: Da! Acesta este de fapt un motiv pen
 
 346
 00:34:58,500 --> 00:35:03,500
-În joc: „Sângele tău! Nu o mai face.”
+În joc: „Să nu mai faci asta niciodată”.
 
 347
 00:35:03,500 --> 00:35:10,500
@@ -1564,7 +1564,7 @@ atât de complexă. E ca și cum ar fi făcut-o un constructor. Putem vedea asta
 
 392
 00:39:52,500 --> 00:39:58,500
-putem vedea asta în modul în care sunt construite părțile lumii. Schelele, care sunt de fapt camere închise,
+putem vedea asta în modul în care sunt construite părțile lumii. Pădurile, care sunt de fapt camere închise,
 
 393
 00:39:58,500 --> 00:40:04,500
@@ -1604,381 +1604,381 @@ La ELEX am petrecut cea mai mare parte a timpului în douăzeci de fișiere sau 
 
 402
 00:40:50,500 --> 00:40:57,500
-Я типа знал их наизусть и так далее. И вот в принципе как сам рендеринг устроен, ты понимаешь,
+Le cunoșteam oarecum pe de rost. Și cam așa funcționează randarea în sine, știi,
 
 403
 00:40:57,500 --> 00:41:00,500
-что это это вообще офигенно.
+că e în general minunată.
 
 404
 00:41:01,500 --> 00:41:05,500
-Luțai: Как вы уже поняли, Piranha Bytes в своё время пытались всё сделать с нуля,
+Luțai: După cum v-ați dat deja seama, Piranha Bytes a încercat să facă totul de la zero în vremea respectivă,
 
 405
 00:41:05,500 --> 00:41:10,500
-без чего мы возможно не получили бы эти уникальные игры. Но есть и обратная сторона.
+lucru fără de care probabil nu am fi avut parte de aceste jocuri unice. Dar există un dezavantaj aici.
 
 406
 00:41:10,500 --> 00:41:16,500
-Некоторые проекты нулевых из-за подобного подхода оказались запертыми на конкретных платформах, из-за чего игровой опыт
+Unele proiecte din anii '90 au fost limitate, din cauza acestei abordări, la anumite platforme, ceea ce a făcut ca experiența de joc
 
 407
 00:41:16,500 --> 00:41:22,500
-консольных и ПК игроков кардинально различался. Вплоть до того, что они банально не могли познакомиться с классикой
+a jucătorilor de pe console și PC să fie drastic diferită, chiar până în punctul în care aceștia nu se puteau familiariza cu jocurile clasice
 
 408
 00:41:22,500 --> 00:41:28,500
-с другой платформы. И даже спустя годы эту ситуацию не так уж просто исправить. А некоторые проекты вообще могут
+de pe o altă platformă. Și chiar mulți ani mai târziu, această situație nu e atât de ușor de corectat. Iar unele proiecte s-ar putea să
 
 409
 00:41:28,500 --> 00:41:30,500
-так никогда и не воскреснуть.
+nu revină la viață deloc.
 
 410
 00:41:30,500 --> 00:41:34,500
-Нужно ли такую игру, хоть и на Switch, но всё же оптимизировать?
+Un astfel de joc, chiar dacă e pe Switch, mai trebuie optimizat?
 
 411
 00:41:34,500 --> 00:41:39,500
-Platon: Готика очень неоптимизированная игра. Она адски неоптимизированная игра.
+Platon: Gothic e un joc foarte neoptimizat. E un joc al naibii de neoptimizat.
 
 412
 00:41:39,500 --> 00:41:47,500
-Мы очень долго думали над этим. Готика 1 на Switch'e в первый день, когда мы её запустили,
+Ne-am gândit la asta pentru o perioadă foarte lungă de timp. Gothic 1 pe Switch, în prima zi în care l-am lansat,
 
 413
 00:41:47,500 --> 00:41:52,500
-в мире там было девять кадров в секунду. Девять кадров, потому что
+rula cu nouă cadre pe secundă în lume. Nouă cadre pentru că
 
 414
 00:41:52,500 --> 00:41:59,500
-почти всё время выедал центральный процессор. Если мы будем сравнивать историю роста процессоров,
+consuma aproape tot timpul procesorului. Dacă comparăm istoria dezvoltării procesoarelor,
 
 415
 00:41:59,500 --> 00:42:04,500
-их мощностей на ПК, то мы увидим, что сначала у нас были одноядерные конфигурации,
+a performanței lor în PC-uri, vedem că am avut mai întâi configurații cu un singur nucleu,
 
 416
 00:42:04,500 --> 00:42:11,500
-которые очень быстро поднимали частоту. Мы вспомним вот эти пентиумы.
+care erau foarte rapide la creșterea frecvenței. Ne amintim acum de acele procesoare Pentium.
 
 417
 00:42:11,500 --> 00:42:15,500
-И если мы посмотрим в какое время вышла Готика, то это был расцвет одноядерных систем.
+Și dacă ne uităm la momentul în care a apărut Gothic, era perioada de glorie a sistemelor cu un singur nucleu.
 
 418
 00:42:15,500 --> 00:42:22,500
-У них должна была быть большая чистота, они работали довольно быстро. Но игра была совершенно не многопоточная.
+Ei trebuiau să aibă o acuratețe mare, lucrau destul de repede. Dar jocul nu era deloc „multithreaded”.
 
 419
 00:42:22,500 --> 00:42:28,500
-То есть ни о каких там многопоточных вещах в ней не говорилось вообще, от слова совсем.
+Adică, nu conținea niciun fel de lucruri cu mai multe fire de execuție, chiar deloc.
 
 420
 00:42:28,500 --> 00:42:31,500
-Вообще Готика построена на движке Quake. Ну а-ля Quake.
+De fapt, Gothic se bazează pe motorul Quake. A la Quake.
 
 421
 00:42:31,500 --> 00:42:38,500
-Игра берёт, она обкусывает треугольники. Вообще весь мир строится из треугольников в компьютерной графике.
+Jocul are o grămadă de triunghiuri. De fapt, întreaga lume este construită din triunghiuri în grafica computerizată.
 
 422
 00:42:38,500 --> 00:42:44,500
-Она обкусывает треугольники, которые не попадают в экран. А проходится она по гигантскому дереву довольно быстро.
+Taie din triunghiurile care nu încap pe ecran. Și trece destul de repede printr-un arbore uriaș.
 
 423
 00:42:44,500 --> 00:42:48,500
-И у центрального процессора хватает мощности, чтобы быстро
+Iar procesorul are suficientă putere pentru a trece rapid peste toate
 
 424
 00:42:48,500 --> 00:42:55,500
-обойти все эти треугольники, которые она бросает в видеокарту. В современной видеокарте этот подход неприменим.
+acele triunghiuri pe care le trimite plăcii video. Într-o placă video modernă, nu se aplică abordarea aceasta.
 
 425
 00:42:55,500 --> 00:43:00,500
-Мы не можем каждый кадр бросать огромное количество геометрии в видеокарту.
+Nu putem trimite o cantitate uriașă de geometrie plăcii video în fiecare cadru.
 
 426
 00:43:00,500 --> 00:43:06,500
-Это просто как-то уже устарело. Да и современные видеокарты оптимизированы под другое.
+E pur și simplu cam învechit. Iar plăcile video moderne sunt optimizate pentru alte lucruri.
 
 427
 00:43:06,500 --> 00:43:10,500
-Они оптимизированы, что геометрия лежит на них. Мы были в шоке.
+Ele sunt optimizate astfel încât geometria să vină peste grafică. Am fost șocați.
 
 428
 00:43:10,500 --> 00:43:20,500
-Игра всё своё время занималась обходом деревьев, отстриганием треугольников, работой с AI и все такое.
+Jocul își petrecea tot timpul parcurgând arbori, decupând triunghiuri, lucrând cu AI și toate celelalte.
 
 429
 00:43:20,500 --> 00:43:25,500
-И естественно на этой же thread'ине, на этом же процессе она загружала свои ресурсы.
+Și, bineînțeles, pe același fir de execuție, pe același proces își încărca resursele.
 
 430
 00:43:25,500 --> 00:43:31,500
-Поэтому сразу была понятна программа - переписывать.
+Așadar, planul a fost clar încă de la început - rescriere.
 
 431
 00:43:31,500 --> 00:43:37,500
-Переписывать и параллелить как можно больше вещей. Первым, понятное дело,
+Rescrie și paralelizează cât mai multe lucruri posibil. Primele lucruri care
 
 432
 00:43:37,500 --> 00:43:44,500
-параллелизму подверглись вещи, которые очевидно подвергаются параллелизации - это загрузка ресурсов и звук.
+au fost paralelizate, desigur, au fost cele care sunt în mod evident supuse paralelizării - încărcarea resurselor și sunetul.
 
 433
 00:43:44,500 --> 00:43:53,500
-Ну а потом уж дальше, до сих пор мы работаем над тем, чтобы сделать подход к рендерингу в Готике по-настоящему другим.
+Ei bine, lucrăm în continuare pentru a face abordarea randării în Gothic complet diferită.
 
 434
 00:43:53,500 --> 00:43:57,500
-[Ростислав Михеев. Ведущий инженер по графике Elverils] Так скажем, ты получаешь свою дозу какую-то вот этого удовлетворения, когда ты
+[Rostislav Miheev. Inginer grafic principal la Elverils] Ca să spun așa, oricum îți primești doza de satisfacție când
 
 435
 00:43:57,500 --> 00:44:04,500
-в любом случае эти проблемы решаешь. И за компанию с этим, еще находишь кучу этих багов.
+rezolvi problemele astea. Și în același timp găsești o grămadă de bug-uri.
 
 436
 00:44:04,500 --> 00:44:07,500
-Говоришь: ё-моё, как же это люди вообще умудрились написать в своё время?
+Îți spui: „Vai, cum au reușit oamenii ăștia să scrie așa ceva pe vremea lor?”
 
 437
 00:44:07,500 --> 00:44:13,500
-Постоянно какие-нибудь там оффсеты в памяти через ручные калькуляции
+Mereu există niște offseturi în memorie prin calcule manuale
 
 438
 00:44:13,500 --> 00:44:19,500
-каких-то магических чисел: что-то складывается и куда-то пытается залезть. И ты понимаешь, что это вообще не будет
+ale unor numere magice: ceva se adună și încearcă să ajungă undeva. Și realizezi că așa ceva nu va mai
 
 439
 00:44:19,500 --> 00:44:26,500
-работать больше никогда. В настоящее время на CPU такое нереально. Поэтому в этом во всём свой кайф есть.
+funcționa niciodată. Astăzi, asta nu se mai poate realiza pe un procesor. De aceea, totul e atât de palpitant.
 
 440
 00:44:29,500 --> 00:44:35,500
-Luțai: Вы отремастерили саундтрек оригинальной Готики? Этим занимался сам Kai Rosenkranz?
+Luțai: Ați remasterizat coloana sonoră originală Gothic? A făcut-o chiar Kai Rosenkranz?
 
 441
 00:44:35,500 --> 00:44:42,500
-Reinhard: Kai Rosenkranz создал оригинальный саундтрек. Он консультировал разработчиков Gothic Classic, так как
+Reinhard: Kai Rosenkranz a creat coloana sonoră originală. El i-a sfătuit pe dezvoltatorii Gothic Classic, deoarece
 
 442
 00:44:42,500 --> 00:44:49,500
-технически музыка и саундтрек сделана очень странным образом. Это отличается от других игр, которые работают с MP3 или WAV
+din punct de vedere tehnic muzica și coloana sonoră sunt realizate într-un mod foarte ciudat. E diferit de alte jocuri care funcționează cu fișiere MP3 sau WAV
 
 443
 00:44:49,500 --> 00:44:57,500
-файлами, которые воспроизводятся на фоне, а затем динамически смешиваются с другими файлами. Здесь нет такой синхронизации.
+care sunt redate în fundal și apoi amestecate dinamic cu alte fișiere. Aici nu există o astfel de sincronizare.
 
 444
 00:44:57,500 --> 00:45:04,500
-Есть мелодия и партитура, а затем музыка воспроизводится на лету виртуальными инструментами. И в самой
+Avem o melodie și o partitură, iar apoi muzica e cântată din mers de instrumente virtuale. Iar versiunea originală
 
 445
 00:45:04,500 --> 00:45:10,500
-оригинальной версии Готики на ПК используется устаревшая библиотека DirectX под названием DirectX Music.
+a lui Gothic pentru PC folosește o bibliotecă DirectX învechită numită DirectX Music.
 
 446
 00:45:10,500 --> 00:45:18,500
-Эта технология ушла в прошлое. Поэтому нам пришлось воссоздать аналогичную логику воспроизведения, и Кай сыграл в этом
+Această tehnologie e de domeniul trecutului. Așa că a trebuit să recreăm o logică de redare similară, iar Kai a jucat
 
 447
 00:45:18,500 --> 00:45:24,500
-огромную роль. Контролировал, чтобы всё звучало правильно. У нас до сих пор есть некоторые проблемы с технологией.
+un rol imens în asta. S-a asigurat că totul sună bine. Încă mai avem unele probleme cu tehnologia.
 
 448
 00:45:24,500 --> 00:45:33,500
-Например, иногда происходят резкие переходы. И да, кроме того, Kai Rosenkranz - член команды Alkimia Interactive,
+De exemplu, uneori există tranziții abrupte. Și da, pe lângă asta, Kai Rosenkranz este un membru al echipei Alkimia Interactive,
 
 449
 00:45:33,500 --> 00:45:37,500
-которая работает над ремейком. Так что во всех трейлерах и прочих материалах, которые мы выпускаем,
+care lucrează la remake. Deci, în toate trailerele și alte materiale pe care le lansăm,
 
 450
 00:45:37,500 --> 00:45:43,500
-он главная движущая сила и настоящий маэстро звука, который всем этим занимается.
+el reprezintă motorul și un adevărat maestru al sunetului care se ocupă de toate.
 
 451
 00:45:46,500 --> 00:45:50,500
-Platon: Структура музыкального файла, она известна.
+Platon: Structura unui fișier muzical e cunoscută.
 
 452
 00:45:50,500 --> 00:45:54,500
-Мы можем её чётко понять, как устроен музыкальный файл.
+Putem înțelege clar cum e structurat un fișier muzical.
 
 453
 00:45:54,500 --> 00:46:01,500
-Потом инструменты из которых формируется сама музыка Готики. Мы можем выделить инструменты.
+Apoi instrumentele din care este formată muzica din Gothic însuși. Putem identifica instrumentele.
 
 454
 00:46:01,500 --> 00:46:10,500
-Мы можем их переделать в формат, который удобен нам для Switch'a. Мы это сделали. Ну и потом нам нужно сделать синтезатор.
+Le putem converti într-un format cu care ne simțim confortabili pentru Switch. Am făcut asta. Și apoi trebuie să facem sintetizatorul.
 
 455
 00:46:10,500 --> 00:46:15,500
-Маленький программный синтезатор. Раньше он был очень популярен. Та музыка, которая играет в Готике на Switch'e -
+Un mic sintetizator software. Pe vremuri era foarte popular. Muzica care se aude în Gothic pe Switch
 
 456
 00:46:15,500 --> 00:46:21,500
-совершенно, абсолютно не та музыка, которая играет на Windows. Хотя она и похожа, очень похожа,
+e complet, complet diferită de muzica care se aude pe Windows. Deși e similară, foarte similară,
 
 457
 00:46:21,500 --> 00:46:25,500
-потому что мы старались сделать её как можно похожей. Но всё равно там есть куда улучшать.
+pentru că am încercat să o facem cât mai asemănătoare posibil. Dar încă mai e loc de îmbunătățiri.
 
 458
 00:46:28,500 --> 00:46:34,500
-Luțai: Как для игрока, для меня это довольно обидная тема. Если вы, например, смотрели мое видео про звук в играх
+Ca jucător, ăsta este un subiect destul de frustrant pentru mine. Dacă, ați urmărit videoclipul meu despre sunetul în jocuri, de exemplu,
 
 459
 00:46:34,500 --> 00:46:41,500
-серии Thief, то помните, что я рассказывал об использовании той самой технологии EAX, которую упоминал Platon в самом начале
+seria Thief, vă amintiți că am vorbit despre utilizarea aceleiași tehnologii EAX pe care Platon a menționat-o chiar la începutul
 
 460
 00:46:41,500 --> 00:46:47,500
-ролика. Там с её помощью можно было ориентироваться на уровне без карты и каких-либо локаторов. Но, к сожалению,
+videoclipului. Acolo puteai să o folosești pentru a naviga în nivel fără o hartă sau orice fel de localizare. Dar, din păcate,
 
 461
 00:46:47,500 --> 00:46:53,500
-культура разработки сейчас устроена так, что вместо сохранения и развития действительно крутых технологий, которые
+cultura dezvoltării din zilele noastre funcționează în așa fel încât, în loc să păstreze și să dezvolte tehnologii foarte interesante care
 
 462
 00:46:53,500 --> 00:46:59,500
-дарят уникальный игровой опыт, индустрия стремится оптимизировать и удешевить процессы с помощью унифицированных
+oferă o experiență de joc unică, industria încearcă să optimizeze și să ieftinească procesele cu ajutorul motoarelor
 
 463
 00:46:59,500 --> 00:47:06,500
-движков с готовыми решениями. Наверное, это здорово. Но в итоге получается средний инструментарий из-за которого,
+unificate cu soluții gata făcute. Poate că este grozav. Dar rezultatul final este un pachet de instrumente mediocru, din cauza căruia,
 
 464
 00:47:06,500 --> 00:47:14,500
-по моему мнению, всё реже испытываешь какой-то вау-эффект от игр. И на этом фоне древние проекты ощущаются свежо.
+după părerea mea, e din ce în ce mai rar să experimentezi un fel de efect wow al jocurilor. Și în acest context, proiectele vechi par proaspete.
 
 465
 00:47:14,500 --> 00:47:20,500
-Konstantin: Из-за того, что технологии становятся унифицированными, начинает превалировать другая парадигма.
+Konstantin: Deoarece tehnologia devine unificată, începe să se impună o paradigmă diferită.
 
 466
 00:47:20,500 --> 00:47:27,500
-Тебе не нужно всё делать самому. Тебе достаточно пользоваться наработками, доступными для всех.
+Nu trebuie să faci totul singur. Tot ce trebuie să faci este să folosești ceea ce e disponibil pentru toată lumea.
 
 467
 00:47:27,500 --> 00:47:34,500
-И ты оказываешься в ситуации, что ты пытаешься строить что-то уникальное из общедоступного конструктора.
+Și ajungi într-o situație în care încerci să construiești ceva unic cu un constructor disponibil la scară largă.
 
 468
 00:47:34,500 --> 00:47:40,500
-Да, конструктор может тебе позволить сделать какие-то уникальные вещи, но эта уникальность ограничена
+Da, un constructor îți poate permite să creezi unele lucruri unice, dar această unicitate e limitată
 
 469
 00:47:40,500 --> 00:47:43,500
-не только самим конструктором, но и перечнем того, что из него можно сделать.
+nu doar de constructorul în sine, ci și de lista de lucruri pe care le poți face cu el.
 
 470
 00:47:43,500 --> 00:47:49,500
-Мы попали в некий ограниченный короб, где мы достаточно быстро всё исследовали.
+Am ajuns într-un fel de spațiu restrâns în care am explorat totul destul de repede.
 
 471
 00:47:49,500 --> 00:47:55,500
-Всё тот же аквариум, в который тебя поместили, а за него выйти ты не можешь. И вот когда я, например,
+E același acvariu în care ai fost băgat, dar nu poți ieși din el. Așa că atunci când, de exemplu,
 
 472
 00:47:55,500 --> 00:48:00,500
-запускаю Готику, у меня прежде всего потрясающее ощущение от того, что я не в этом аквариуме.
+încep Gothic, în primul rând, am sentimentul extraordinar că nu mă aflu în acel acvariu.
 
 473
 00:48:00,500 --> 00:48:06,500
-Я где-то снаружи. Творчество в принципе начинается с технического решения. У Пираний было именно так.
+Sunt undeva în afara lui. Creativitatea începe practic cu o soluție tehnică. Cei de la Piranha Bytes au făcut exact asta.
 
 474
 00:48:06,500 --> 00:48:12,500
-И я думаю это и есть секрет успеха, что ты последователен не с какого-то этапа:
+Și cred că ăsta e secretul succesului, să fii consecvent, nu doar de la o anumită etapă încolo să spui:
 
 475
 00:48:12,500 --> 00:48:19,500
-вот сейчас я просто возьму что есть, а вот теперь я буду делать что-то индивидуальное. А когда ты
+„acum o să iau ceea ce am și o să fac ceva original”. Ci atunci când
 
 476
 00:48:19,500 --> 00:48:26,500
-индивидуален вообще с самого начала. Как раз тот потерянный путь, который геймдеву нужен сейчас.
+ești original de la bun început. Asta e exact calea pierdută de care industria creării de jocuri are nevoie acum.
 
 477
 00:48:26,500 --> 00:48:35,500
-[Авторы: Aleksei Luțai, Konstantin Timofeev. Монтаж, съемка: Aleksei Luțai]
+[Autori: Aleksei Luțai, Konstantin Timofeev. Montaj, filmare: Aleksei Luțai]
 
 478
 00:48:35,500 --> 00:48:38,500
-[Байка после титров про Starfield] Ростислав: это очень интересная история. Мы как-то одно время,
+[Scene de după genericul din Starfield] Rotislav: E o poveste foarte interesantă. Am lucrat odată
 
 479
 00:48:38,500 --> 00:48:46,500
-в промежутке, работали с одним человеком, известным в узких GPU кругах, Wolfgang Engel.
+cu un om cunoscut în cercurile procesoarelor grafice, Wolfgang Engel.
 
 480
 00:48:46,500 --> 00:48:54,500
-GPU Gems он книги писал, которые как раз учили людей как графику современную писать.
+GPU Gems a scris cărți care îi învățau pe oameni cum să scrie grafică modernă.
 
 481
 00:48:54,500 --> 00:49:00,500
-Platon: Для GPU-программистов он прям бог. Ростислав: Ну, наверное, так даже.
+Platon: Pentru programatorii de grafică, e un zeu. Rostislav: Ei bine, presupun că da.
 
 482
 00:49:00,500 --> 00:49:05,500
-Вот, и он занимался разработкой собственного решения графического. Называлось оно The Forge. Как-то мы с ним поработали,
+Uite, el își dezvolta propria soluție grafică. Se numea The Forge. Cumva am lucrat cu el,
 
 483
 00:49:05,500 --> 00:49:12,500
-поработали, расстались. Мы под Mac много туда очень впихивали. Platon: И под Switch даже. Ростислав: И под Switch что-то впихивали.
+am colaborat cu el și am terminat treaba. Am făcut acolo multe lucruri pentru Mac . Platon: Ba chiar și pentru Switch. Rotislav: Am făcut ceva și pentru Switch.
 
 484
 00:49:12,500 --> 00:49:20,500
-Расстались мы с Вольфгангом с каким-то условием что у нас было все сложно со временем, его это не устраивало.
+Wolfgang și cu mine ne-am despărțit dintr-o clauză conform căreia am avut dificultăți cu respectarea timpului, iar el nu era mulțumit de asta.
 
 485
 00:49:20,500 --> 00:49:29,500
-И сделали они после этого на нем игру, hack-n-slash. Platon: Hades. Ростислав: Hades, точно. Спасибо.
+Și au făcut un joc cu acea soluție după aceea, hack-n-slash. Platon: Hades. Rostislav: Hades, corect. Platon: Mulțumesc.
 
 486
 00:49:29,500 --> 00:49:38,500
-А вот потом они сделали рендер для No Man's Sky на нем. И потом они сделали рендер для Starfield'а на нём же.
+Și apoi au făcut o randare pentru No Man's Sky cu ea. Și apoi au făcut și o randare pentru Starfield cu ea.
 
 487
 00:49:38,500 --> 00:49:41,500
-Поэтому история в том, что да, в Starfield и No Man's Sky
+Deci, povestea este că, da, în Starfield și în No Man's Sky e
 
 488
 00:49:41,500 --> 00:49:46,500
-есть графический кусок The Forge, который на самом деле один и тот же рендер.
+o componentă grafică a The Forge, care este de fapt aceeași randare.
 
 489
 00:49:46,500 --> 00:49:55,500
-И где-то там ещё остались кусочки нашего кода. Platon: Прикольно, что Bethesda очевидно Mac версию не сделала.
+Și încă mai există bucăți din codul nostru undeva pe acolo. Platon: E amuzant că Bethesda bineînțeles că nu a făcut o versiune pentru Mac.
 
 490
 00:49:55,500 --> 00:50:00,500
-А вот No Man's Sky я потрошил, и что я там нашёл внутри? Мой класс, который я писал.
+Am pornit No Man's Sky, și ce am găsit acolo? Lucrul pe care l-am scris eu.
 
 491
 00:50:00,500 --> 00:50:06,500
-Ростислав: А, да, вот этот создания окошек. Luțai: Забавно ,что при этом Starfield обвиняют в том,
+Rostislav: A, da, acel creator de ferestre. Luțai: E amuzant că Starfield e criticat pentru lucrul ăsta,
 
 492
 00:50:06,500 --> 00:50:13,500
-что у No Man's Sky получилось неплохо. То есть у них на самом деле больше родства, чем могло бы показаться.
+care în No Man's Sky funcționează foarte bine. Deci de fapt au mai multe legături decât ar părea.
 
 493
 00:50:13,500 --> 00:50:18,500
-Ростислав: Ну там с допущением, что No Man's Sky вроде под iOS'ом был или под Mac'ом,
+Rostislav: Ei bine, presupunând că No Man's Sky era pe iOS sau Mac,
 
 494
 00:50:18,500 --> 00:50:22,500
-но потом вроде, как понимаю, они его впитали там у себя больше. Но это, к сожалению,
+dar apoi, din câte am înțeles, l-au asimilat mai mult acolo. Dar asta, din păcate,
 
 495
 00:50:22,500 --> 00:50:25,500
-я точно уже не могу сказать. Но родство у них определённое есть, короче.
+nu mai pot spune sigur. Dar au o anumită înrudire, pe scurt.
 
 496
 00:50:25,500 --> 00:50:27,500
-Platon: Да, прикольно, прикольно. Ростислав: Вот такая история.
+Platon: Da, e amuzant, e amuzant. Rostislav: Asta e povestea.
 
